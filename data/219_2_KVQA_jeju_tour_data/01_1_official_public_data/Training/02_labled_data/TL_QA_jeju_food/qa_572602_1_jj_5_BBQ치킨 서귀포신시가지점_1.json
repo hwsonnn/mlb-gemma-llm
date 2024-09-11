@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "572602",
+    "travelType": "음식점",
+    "place": "BBQ치킨 서귀포신시가지점",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "572602_1_jj_5_BBQ치킨 서귀포신시가지점_1_001.png",
+      "mapx": 33.2510865989015,
+      "mapy": 126.509061849783,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "BBQ치킨 서귀포신시가지점(법환동)",
+        "간판, 전광판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "572602_1_jj_5_BBQ치킨 서귀포신시가지점_1_002.png",
+      "mapx": 33.2510865989015,
+      "mapy": 126.509061849783,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "BBQ치킨 서귀포신시가지점(법환동)",
+        "건물, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "572602_1_jj_5_BBQ치킨 서귀포신시가지점_1_003.png",
+      "mapx": 33.2510865989015,
+      "mapy": 126.509061849783,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "BBQ치킨 서귀포신시가지점(법환동)",
+        "조명, 시스템 에어컨, 화분, 메뉴판"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "572602_1_jj_5_BBQ치킨 서귀포신시가지점_1_004.png",
+      "mapx": 33.2510865989015,
+      "mapy": 126.509061849783,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "BBQ치킨 서귀포신시가지점(법환동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "572602_1_jj_5_BBQ치킨 서귀포신시가지점_1_005.png",
+      "mapx": 33.2510865989015,
+      "mapy": 126.509061849783,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "BBQ치킨 서귀포신시가지점(법환동)",
+        "치킨"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "섬사람, 나들가게민우코사마트",
+          "answer_wordNum": 2,
+          "fact": [
+            "BBQ치킨 서귀포신시가지점,인접,섬사람, 나들가게민우코사마트"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "12:00 - 24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "BBQ치킨 서귀포신시가지점,영업시간,12:00 - 24:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "황금올리브치킨, 황금올리브치킨 양념",
+          "answer_wordNum": 3,
+          "fact": [
+            "BBQ치킨 서귀포신시가지점,메뉴,황금올리브치킨, 황금올리브치킨 양념"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "BBQ치킨 서귀포신시가지점,주차시설,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "섬사람, 나들가게민우코사마트",
+          "answer_wordNum": 2,
+          "fact": [
+            "BBQ치킨 서귀포신시가지점,인접,섬사람, 나들가게민우코사마트"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "BBQ치킨 서귀포신시가지점,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "BBQ치킨 서귀포신시가지점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "황금올리브치킨, 황금올리브치킨 양념",
+          "answer_wordNum": 3,
+          "fact": [
+            "BBQ치킨 서귀포신시가지점,메뉴,황금올리브치킨, 황금올리브치킨 양념"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "BBQ치킨 서귀포신시가지점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "섬사람, 나들가게민우코사마트",
+          "answer_wordNum": 2,
+          "fact": [
+            "BBQ치킨 서귀포신시가지점,인접,섬사람, 나들가게민우코사마트"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "황금올리브치킨, 황금올리브치킨 양념",
+          "answer_wordNum": 3,
+          "fact": [
+            "BBQ치킨 서귀포신시가지점,메뉴,황금올리브치킨, 황금올리브치킨 양념"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "12:00 - 24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "BBQ치킨 서귀포신시가지점,영업시간,12:00 - 24:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "황금올리브치킨, 황금올리브치킨 양념",
+          "answer_wordNum": 3,
+          "fact": [
+            "BBQ치킨 서귀포신시가지점,메뉴,황금올리브치킨, 황금올리브치킨 양념"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "BBQ치킨 서귀포신시가지점,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-739-9280",
+          "answer_wordNum": 1,
+          "fact": [
+            "BBQ치킨 서귀포신시가지점,연락처,064-739-9280"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "무엇을 사용 하나요?",
+          "question_wordNum": 3,
+          "answer": "엑스트라 버진 올리브유",
+          "answer_wordNum": 3,
+          "fact": [
+            "BBQ치킨 서귀포신시가지점,사용,엑스트라 버진 올리브유"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "섬사람, 나들가게민우코사마트",
+          "answer_wordNum": 2,
+          "fact": [
+            "BBQ치킨 서귀포신시가지점,인접,섬사람, 나들가게민우코사마트"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "황금올리브치킨, 황금올리브치킨 양념",
+          "answer_wordNum": 3,
+          "fact": [
+            "BBQ치킨 서귀포신시가지점,메뉴,황금올리브치킨, 황금올리브치킨 양념"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "BBQ치킨 서귀포신시가지점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "12:00 - 24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "BBQ치킨 서귀포신시가지점,영업시간,12:00 - 24:00"
+          ]
+        }
+      ]
+    }
+  ]
+}

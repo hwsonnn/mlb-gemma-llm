@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "572495",
+    "travelType": "음식점",
+    "place": "도르엔홀덤펍",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "572495_1_jj_5_도르엔홀덤펍_1_001.png",
+      "mapx": 33.247017423707,
+      "mapy": 126.563150584957,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "도르엔홀덤펍(서귀동)",
+        "창문, 간판, 계단, 차양막, 난간, 여닫이문, 등받이의자"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "572495_1_jj_5_도르엔홀덤펍_1_002.png",
+      "mapx": 33.247017423707,
+      "mapy": 126.563150584957,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "도르엔홀덤펍(서귀동)",
+        "창문, 간판, 차양막, 난간, 여닫이문, 건물, 유리창, 실외기"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "572495_1_jj_5_도르엔홀덤펍_1_003.png",
+      "mapx": 33.247017423707,
+      "mapy": 126.563150584957,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "도르엔홀덤펍(서귀동)",
+        "테이블, 등받이의자, 음료수냉장고, 에어컨, 거울"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "572495_1_jj_5_도르엔홀덤펍_1_004.png",
+      "mapx": 33.247017423707,
+      "mapy": 126.563150584957,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "도르엔홀덤펍(서귀동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "572495_1_jj_5_도르엔홀덤펍_1_005.png",
+      "mapx": 33.247017423707,
+      "mapy": 126.563150584957,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "도르엔홀덤펍(서귀동)",
+        "모듬회"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "도르엔홀덤펍,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "도르엔홀덤펍,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "18:00 - 06:50",
+          "answer_wordNum": 3,
+          "fact": [
+            "도르엔홀덤펍,영업시간,18:00 - 06:50"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 명동로 12",
+          "answer_wordNum": 4,
+          "fact": [
+            "도르엔홀덤펍,주소,제주 서귀포시 명동로 12"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "18:00 - 06:50",
+          "answer_wordNum": 3,
+          "fact": [
+            "도르엔홀덤펍,영업시간,18:00 - 06:50"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "미경노래연습장, 대하마트",
+          "answer_wordNum": 2,
+          "fact": [
+            "도르엔홀덤펍,인접,미경노래연습장, 대하마트"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1348-7266",
+          "answer_wordNum": 1,
+          "fact": [
+            "도르엔홀덤펍,연락처,0507-1348-7266"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 명동로 12",
+          "answer_wordNum": 4,
+          "fact": [
+            "도르엔홀덤펍,주소,제주 서귀포시 명동로 12"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "생선구이모둠, 참조기구이",
+          "answer_wordNum": 2,
+          "fact": [
+            "도르엔홀덤펍,메뉴,생선구이모둠, 참조기구이"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 명동로 12",
+          "answer_wordNum": 4,
+          "fact": [
+            "도르엔홀덤펍,주소,제주 서귀포시 명동로 12"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "도르엔홀덤펍,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "미경노래연습장, 대하마트",
+          "answer_wordNum": 2,
+          "fact": [
+            "도르엔홀덤펍,인접,미경노래연습장, 대하마트"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 명동로 12",
+          "answer_wordNum": 4,
+          "fact": [
+            "도르엔홀덤펍,주소,제주 서귀포시 명동로 12"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1348-7266",
+          "answer_wordNum": 1,
+          "fact": [
+            "도르엔홀덤펍,연락처,0507-1348-7266"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "도르엔홀덤펍,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "18:00 - 06:50",
+          "answer_wordNum": 3,
+          "fact": [
+            "도르엔홀덤펍,영업시간,18:00 - 06:50"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "생선구이모둠, 참조기구이",
+          "answer_wordNum": 2,
+          "fact": [
+            "도르엔홀덤펍,메뉴,생선구이모둠, 참조기구이"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "도르엔홀덤펍,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "미경노래연습장, 대하마트",
+          "answer_wordNum": 2,
+          "fact": [
+            "도르엔홀덤펍,인접,미경노래연습장, 대하마트"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "도르엔홀덤펍,휴무일,없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

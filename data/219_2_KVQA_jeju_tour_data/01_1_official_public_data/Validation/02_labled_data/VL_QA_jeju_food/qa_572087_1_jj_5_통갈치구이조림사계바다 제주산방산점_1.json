@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "572087",
+    "travelType": "음식점",
+    "place": "통갈치구이조림사계바다 제주산방산점",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "572087_1_jj_5_통갈치구이조림사계바다 제주산방산점_1_001.png",
+      "mapx": 33.2278421586037,
+      "mapy": 126.303818246482,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "통갈치구이조림사계바다 제주산방산점(안덕면)",
+        "간판, 계단, 문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "572087_1_jj_5_통갈치구이조림사계바다 제주산방산점_1_002.png",
+      "mapx": 33.2278421586037,
+      "mapy": 126.303818246482,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "통갈치구이조림사계바다 제주산방산점(안덕면)",
+        "건물, 자동차, 의자, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "572087_1_jj_5_통갈치구이조림사계바다 제주산방산점_1_003.png",
+      "mapx": 33.2278421586037,
+      "mapy": 126.303818246482,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "통갈치구이조림사계바다 제주산방산점(안덕면)",
+        "좌식 테이블, 방석"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "572087_1_jj_5_통갈치구이조림사계바다 제주산방산점_1_004.png",
+      "mapx": 33.2278421586037,
+      "mapy": 126.303818246482,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "통갈치구이조림사계바다 제주산방산점(안덕면)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "572087_1_jj_5_통갈치구이조림사계바다 제주산방산점_1_005.png",
+      "mapx": 33.2278421586037,
+      "mapy": 126.303818246482,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "통갈치구이조림사계바다 제주산방산점(안덕면)",
+        "통갈치조림"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "뷰스트, CU",
+          "answer_wordNum": 2,
+          "fact": [
+            "통갈치구이조림사계바다 제주산방산점,인접,뷰스트, CU"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "통갈치구이조림사계바다 제주산방산점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "통갈치구이조림사계바다 제주산방산점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 안덕면 형제해안로 26",
+          "answer_wordNum": 5,
+          "fact": [
+            "통갈치구이조림사계바다 제주산방산점,주소,제주 서귀포시 안덕면 형제해안로 26"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "통갈치구이조림사계바다 제주산방산점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "뷰스트, CU",
+          "answer_wordNum": 2,
+          "fact": [
+            "통갈치구이조림사계바다 제주산방산점,인접,뷰스트, CU"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "해물통갈치조림, 문어통갈치조림",
+          "answer_wordNum": 2,
+          "fact": [
+            "통갈치구이조림사계바다 제주산방산점,메뉴,해물통갈치조림, 문어통갈치조림"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 어떤 음식 전문점인가요?",
+          "question_wordNum": 5,
+          "answer": "통갈치조림",
+          "answer_wordNum": 1,
+          "fact": [
+            "통갈치구이조림사계바다 제주산방산점,전문,통갈치조림"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 안덕면 형제해안로 26",
+          "answer_wordNum": 5,
+          "fact": [
+            "통갈치구이조림사계바다 제주산방산점,주소,제주 서귀포시 안덕면 형제해안로 26"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "뷰스트, CU",
+          "answer_wordNum": 2,
+          "fact": [
+            "통갈치구이조림사계바다 제주산방산점,인접,뷰스트, CU"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "통갈치구이조림사계바다 제주산방산점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "통갈치구이조림사계바다 제주산방산점,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "뷰스트, CU",
+          "answer_wordNum": 2,
+          "fact": [
+            "통갈치구이조림사계바다 제주산방산점,인접,뷰스트, CU"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "통갈치구이조림사계바다 제주산방산점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 안덕면 형제해안로 26",
+          "answer_wordNum": 5,
+          "fact": [
+            "통갈치구이조림사계바다 제주산방산점,주소,제주 서귀포시 안덕면 형제해안로 26"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:30 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "통갈치구이조림사계바다 제주산방산점,영업시간,10:30 - 22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 안덕면 형제해안로 26",
+          "answer_wordNum": 5,
+          "fact": [
+            "통갈치구이조림사계바다 제주산방산점,주소,제주 서귀포시 안덕면 형제해안로 26"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "해물통갈치조림, 문어통갈치조림",
+          "answer_wordNum": 2,
+          "fact": [
+            "통갈치구이조림사계바다 제주산방산점,메뉴,해물통갈치조림, 문어통갈치조림"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-794-5501",
+          "answer_wordNum": 1,
+          "fact": [
+            "통갈치구이조림사계바다 제주산방산점,연락처,064-794-5501"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 어떤 음식 전문점인가요?",
+          "question_wordNum": 5,
+          "answer": "통갈치조림",
+          "answer_wordNum": 1,
+          "fact": [
+            "통갈치구이조림사계바다 제주산방산점,전문,통갈치조림"
+          ]
+        }
+      ]
+    }
+  ]
+}

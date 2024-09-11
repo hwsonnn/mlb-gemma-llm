@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "572079",
+    "travelType": "음식점",
+    "place": "도희네칼국수 서귀포시 안덕면",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "572079_1_jj_5_도희네칼국수 서귀포시 안덕면_1_001.png",
+      "mapx": 33.2898739099657,
+      "mapy": 126.314324740767,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "도희네칼국(안덕면)",
+        "미닫이문, 금연스티커, 포스터, 화장실표시, 유리창"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "572079_1_jj_5_도희네칼국수 서귀포시 안덕면_1_002.png",
+      "mapx": 33.2898739099657,
+      "mapy": 126.314324740767,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "도희네칼국(안덕면)",
+        "건물, 미닫이문, 의자, 유리창, 조명"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "572079_1_jj_5_도희네칼국수 서귀포시 안덕면_1_003.png",
+      "mapx": 33.2898739099657,
+      "mapy": 126.314324740767,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "도희네칼국(안덕면)",
+        "등받이 의자, 테이블, 메뉴판, 앞치마, 포스터, 거울, 휴지, 컵, 수저통"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "572079_1_jj_5_도희네칼국수 서귀포시 안덕면_1_004.png",
+      "mapx": 33.2898739099657,
+      "mapy": 126.314324740767,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "도희네칼국(안덕면)",
+        "메뉴"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "572079_1_jj_5_도희네칼국수 서귀포시 안덕면_1_005.png",
+      "mapx": 33.2898739099657,
+      "mapy": 126.314324740767,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "도희네칼국(안덕면)",
+        "닭칼국수, 반찬, 깍두기, 부침개, 소스, 김치"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "도희네칼국수 서귀포시 안덕면,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 안덕면 중산간서로 1957",
+          "answer_wordNum": 5,
+          "fact": [
+            "도희네칼국수 서귀포시 안덕면,주소,제주 서귀포시 안덕면 중산간서로 1957"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "백반, 음료",
+          "answer_wordNum": 2,
+          "fact": [
+            "도희네칼국수 서귀포시 안덕면,메뉴,백반, 음료"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "도희네칼국수 서귀포시 안덕면,영업시간,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "도희네칼국수 서귀포시 안덕면,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 안덕면 중산간서로 1957",
+          "answer_wordNum": 5,
+          "fact": [
+            "도희네칼국수 서귀포시 안덕면,주소,제주 서귀포시 안덕면 중산간서로 1957"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "CU, 신협",
+          "answer_wordNum": 2,
+          "fact": [
+            "도희네칼국수 서귀포시 안덕면,인접,CU, 신협"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "일(11/20)",
+          "answer_wordNum": 1,
+          "fact": [
+            "도희네칼국수 서귀포시 안덕면,휴무일,일(11/20)"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "도희네칼국수 서귀포시 안덕면,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 안덕면 중산간서로 1957",
+          "answer_wordNum": 5,
+          "fact": [
+            "도희네칼국수 서귀포시 안덕면,주소,제주 서귀포시 안덕면 중산간서로 1957"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "CU, 신협",
+          "answer_wordNum": 2,
+          "fact": [
+            "도희네칼국수 서귀포시 안덕면,인접,CU, 신협"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1303-7928",
+          "answer_wordNum": 1,
+          "fact": [
+            "도희네칼국수 서귀포시 안덕면,연락처,0507-1303-7928"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "백반, 음료",
+          "answer_wordNum": 2,
+          "fact": [
+            "도희네칼국수 서귀포시 안덕면,메뉴,백반, 음료"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 안덕면 중산간서로 1957",
+          "answer_wordNum": 5,
+          "fact": [
+            "도희네칼국수 서귀포시 안덕면,주소,제주 서귀포시 안덕면 중산간서로 1957"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "도희네칼국수 서귀포시 안덕면,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "일(11/20)",
+          "answer_wordNum": 1,
+          "fact": [
+            "도희네칼국수 서귀포시 안덕면,휴무일,일(11/20)"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 안덕면 중산간서로 1957",
+          "answer_wordNum": 5,
+          "fact": [
+            "도희네칼국수 서귀포시 안덕면,주소,제주 서귀포시 안덕면 중산간서로 1957"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1303-7928",
+          "answer_wordNum": 1,
+          "fact": [
+            "도희네칼국수 서귀포시 안덕면,연락처,0507-1303-7928"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "일(11/20)",
+          "answer_wordNum": 1,
+          "fact": [
+            "도희네칼국수 서귀포시 안덕면,휴무일,일(11/20)"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "CU, 신협",
+          "answer_wordNum": 2,
+          "fact": [
+            "도희네칼국수 서귀포시 안덕면,인접,CU, 신협"
+          ]
+        }
+      ]
+    }
+  ]
+}

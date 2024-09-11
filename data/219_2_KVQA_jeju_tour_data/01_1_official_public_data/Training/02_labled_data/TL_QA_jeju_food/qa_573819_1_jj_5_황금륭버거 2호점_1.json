@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "573819",
+    "travelType": "음식점",
+    "place": "황금륭버거 2호점",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "573819_1_jj_5_황금륭버거 2호점_1_001.png",
+      "mapx": 33.3257243222958,
+      "mapy": 126.601046700237,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "황금륭버거 2호점(남원읍)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "573819_1_jj_5_황금륭버거 2호점_1_002.png",
+      "mapx": 33.3257243222958,
+      "mapy": 126.601046700237,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "황금륭버거 2호점(남원읍)",
+        "건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "573819_1_jj_5_황금륭버거 2호점_1_003.png",
+      "mapx": 33.3257243222958,
+      "mapy": 126.601046700237,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "황금륭버거 2호점(남원읍)",
+        "책상, 등받이의자, 악세사리"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "573819_1_jj_5_황금륭버거 2호점_1_004.png",
+      "mapx": 33.3257243222958,
+      "mapy": 126.601046700237,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "황금륭버거 2호점(남원읍)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "573819_1_jj_5_황금륭버거 2호점_1_005.png",
+      "mapx": 33.3257243222958,
+      "mapy": 126.601046700237,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "황금륭버거 2호점(남원읍)",
+        "햄버거, 샐러드"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "예이츠산장",
+          "answer_wordNum": 1,
+          "fact": [
+            "황금륭버거 2호점,인접,예이츠산장"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 남원읍 516로 918",
+          "answer_wordNum": 5,
+          "fact": [
+            "황금륭버거 2호점,주소,제주 서귀포시 남원읍 516로 918"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "09:30 - 19:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "황금륭버거 2호점,영업시간,09:30 - 19:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "커플버거, 황기해물짬뽕샤브샤브, 황금륭버거",
+          "answer_wordNum": 3,
+          "fact": [
+            "황금륭버거 2호점,메뉴,커플버거, 황기해물짬뽕샤브샤브, 황금륭버거"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "커플버거, 황기해물짬뽕샤브샤브, 황금륭버거",
+          "answer_wordNum": 3,
+          "fact": [
+            "황금륭버거 2호점,메뉴,커플버거, 황기해물짬뽕샤브샤브, 황금륭버거"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "09:30 - 19:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "황금륭버거 2호점,영업시간,09:30 - 19:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "황금륭버거 2호점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "예이츠산장",
+          "answer_wordNum": 1,
+          "fact": [
+            "황금륭버거 2호점,인접,예이츠산장"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "황금륭버거 2호점,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-733-6498",
+          "answer_wordNum": 1,
+          "fact": [
+            "황금륭버거 2호점,연락처,064-733-6498"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "09:30 - 19:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "황금륭버거 2호점,영업시간,09:30 - 19:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 남원읍 516로 918",
+          "answer_wordNum": 5,
+          "fact": [
+            "황금륭버거 2호점,주소,제주 서귀포시 남원읍 516로 918"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-733-6498",
+          "answer_wordNum": 1,
+          "fact": [
+            "황금륭버거 2호점,연락처,064-733-6498"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "황금륭버거 2호점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "예이츠산장",
+          "answer_wordNum": 1,
+          "fact": [
+            "황금륭버거 2호점,인접,예이츠산장"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "09:30 - 19:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "황금륭버거 2호점,영업시간,09:30 - 19:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "커플버거, 황기해물짬뽕샤브샤브, 황금륭버거",
+          "answer_wordNum": 3,
+          "fact": [
+            "황금륭버거 2호점,메뉴,커플버거, 황기해물짬뽕샤브샤브, 황금륭버거"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 남원읍 516로 918",
+          "answer_wordNum": 5,
+          "fact": [
+            "황금륭버거 2호점,주소,제주 서귀포시 남원읍 516로 918"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "예이츠산장",
+          "answer_wordNum": 1,
+          "fact": [
+            "황금륭버거 2호점,인접,예이츠산장"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-733-6498",
+          "answer_wordNum": 1,
+          "fact": [
+            "황금륭버거 2호점,연락처,064-733-6498"
+          ]
+        }
+      ]
+    }
+  ]
+}

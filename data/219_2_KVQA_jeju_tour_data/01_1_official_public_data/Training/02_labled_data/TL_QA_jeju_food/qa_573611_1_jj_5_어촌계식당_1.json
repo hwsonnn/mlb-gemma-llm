@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "573611",
+    "travelType": "음식점",
+    "place": "어촌계식당",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "573611_1_jj_5_어촌계식당_1_001.png",
+      "mapx": 33.2764935322761,
+      "mapy": 126.17104337002,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "어촌계식당(대정읍)",
+        "간판, 유리창, 건물"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "573611_1_jj_5_어촌계식당_1_002.png",
+      "mapx": 33.2764935322761,
+      "mapy": 126.17104337002,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "어촌계식당(대정읍)",
+        "간판, 유리창, 건물, 전봇대, 의자, 테이블"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "573611_1_jj_5_어촌계식당_1_003.png",
+      "mapx": 33.2764935322761,
+      "mapy": 126.17104337002,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "어촌계식당(대정읍)",
+        "테이블, 의자, 메뉴판, 냉장고"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "573611_1_jj_5_어촌계식당_1_004.png",
+      "mapx": 33.2764935322761,
+      "mapy": 126.17104337002,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "어촌계식당(대정읍)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "573611_1_jj_5_어촌계식당_1_005.png",
+      "mapx": 33.2764935322761,
+      "mapy": 126.17104337002,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "어촌계식당(대정읍)",
+        "고등어구이"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "보말카페, 카페 라레온다",
+          "answer_wordNum": 3,
+          "fact": [
+            "어촌계식당,인접,보말카페, 카페 라레온다"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "고등어구이, 뻘낙지 탕탕이",
+          "answer_wordNum": 3,
+          "fact": [
+            "어촌계식당,메뉴,고등어구이, 뻘낙지 탕탕이"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:00 - 19:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "어촌계식당,영업시간,11:00 - 19:30"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "어촌계식당,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 대정읍 노을해안로 724 신도리어촌계",
+          "answer_wordNum": 6,
+          "fact": [
+            "어촌계식당,주소,제주 서귀포시 대정읍 노을해안로 724 신도리어촌계"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "어촌계식당,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "고등어구이, 뻘낙지 탕탕이",
+          "answer_wordNum": 3,
+          "fact": [
+            "어촌계식당,메뉴,고등어구이, 뻘낙지 탕탕이"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "어촌계식당,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "보말카페, 카페 라레온다",
+          "answer_wordNum": 3,
+          "fact": [
+            "어촌계식당,인접,보말카페, 카페 라레온다"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "어촌계식당,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "고등어구이, 뻘낙지 탕탕이",
+          "answer_wordNum": 3,
+          "fact": [
+            "어촌계식당,메뉴,고등어구이, 뻘낙지 탕탕이"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-773-0010",
+          "answer_wordNum": 1,
+          "fact": [
+            "어촌계식당,연락처,064-773-0010"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 대정읍 노을해안로 724 신도리어촌계",
+          "answer_wordNum": 6,
+          "fact": [
+            "어촌계식당,주소,제주 서귀포시 대정읍 노을해안로 724 신도리어촌계"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 19:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "어촌계식당,영업시간,11:00 - 19:30"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "고등어구이, 뻘낙지 탕탕이",
+          "answer_wordNum": 3,
+          "fact": [
+            "어촌계식당,메뉴,고등어구이, 뻘낙지 탕탕이"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "보말카페, 카페 라레온다",
+          "answer_wordNum": 3,
+          "fact": [
+            "어촌계식당,인접,보말카페, 카페 라레온다"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:00 - 19:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "어촌계식당,영업시간,11:00 - 19:30"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "어촌계식당,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-773-0010",
+          "answer_wordNum": 1,
+          "fact": [
+            "어촌계식당,연락처,064-773-0010"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 대정읍 노을해안로 724 신도리어촌계",
+          "answer_wordNum": 6,
+          "fact": [
+            "어촌계식당,주소,제주 서귀포시 대정읍 노을해안로 724 신도리어촌계"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "8310",
+    "travelType": "음식점",
+    "place": "다해복국",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "8310_1_jj_5_다해복국_1_001.png",
+      "mapx": 33.4882325194869,
+      "mapy": 126.499122302993,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "다해복국(연동)",
+        "여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "8310_1_jj_5_다해복국_1_002.png",
+      "mapx": 33.4882325194869,
+      "mapy": 126.499122302993,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "다해복국(연동)",
+        "건물, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "8310_1_jj_5_다해복국_1_003.png",
+      "mapx": 33.4882325194869,
+      "mapy": 126.499122302993,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "다해복국(연동)",
+        "난로, 화분, 테이블"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "8310_1_jj_5_다해복국_1_004.png",
+      "mapx": 33.4882325194869,
+      "mapy": 126.499122302993,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "다해복국(연동)",
+        "메뉴판, 안내판, 액자"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "8310_1_jj_5_다해복국_1_005.png",
+      "mapx": 33.4882325194869,
+      "mapy": 126.499122302993,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "다해복국(연동)",
+        "복지리탕"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주특별자치도 제주시 문송1길 17",
+          "answer_wordNum": 4,
+          "fact": [
+            "다해복국,주소,제주특별자치도 제주시 문송1길 17"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "다해복국,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-749-9868",
+          "answer_wordNum": 1,
+          "fact": [
+            "다해복국,연락처,064-749-9868"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 어떻게 운영되나요?",
+          "question_wordNum": 4,
+          "answer": "예약제",
+          "answer_wordNum": 1,
+          "fact": [
+            "다해복국,운영,예약제"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "다해복국,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "복해장국(은복), 복지리(은복)",
+          "answer_wordNum": 2,
+          "fact": [
+            "다해복국,메뉴,복해장국(은복), 복지리(은복)"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "07:00 ~ 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "다해복국,영업시간,07:00 ~ 22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "다해복국,주차시설,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주특별자치도 제주시 문송1길 17",
+          "answer_wordNum": 4,
+          "fact": [
+            "다해복국,주소,제주특별자치도 제주시 문송1길 17"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "다해복국,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-749-9868",
+          "answer_wordNum": 1,
+          "fact": [
+            "다해복국,연락처,064-749-9868"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "무엇을 전문으로 하는 곳인가요?",
+          "question_wordNum": 4,
+          "answer": "복 요리",
+          "answer_wordNum": 2,
+          "fact": [
+            "다해복국,전문,복 요리"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "복해장국(은복), 복지리(은복)",
+          "answer_wordNum": 2,
+          "fact": [
+            "다해복국,메뉴,복해장국(은복), 복지리(은복)"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "다해복국,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-749-9868",
+          "answer_wordNum": 1,
+          "fact": [
+            "다해복국,연락처,064-749-9868"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 어디인가요?",
+          "question_wordNum": 3,
+          "answer": "복요리 전문",
+          "answer_wordNum": 2,
+          "fact": [
+            "다해복국,이다,복요리 전문"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주특별자치도 제주시 문송1길 17",
+          "answer_wordNum": 4,
+          "fact": [
+            "다해복국,주소,제주특별자치도 제주시 문송1길 17"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "복해장국(은복), 복지리(은복)",
+          "answer_wordNum": 2,
+          "fact": [
+            "다해복국,메뉴,복해장국(은복), 복지리(은복)"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-749-9868",
+          "answer_wordNum": 1,
+          "fact": [
+            "다해복국,연락처,064-749-9868"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "다해복국,휴무일,없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

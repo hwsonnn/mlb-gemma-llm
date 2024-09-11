@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "616531",
+    "travelType": "음식점",
+    "place": "오라찐빵 ",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "616531_1_jj_5_오라찐빵 _1_001.png",
+      "mapx": 33.4816174602448,
+      "mapy": 126.543894671726,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "오라찐빵(아라이동)",
+        "간판, 나무, 여닫이문 "
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "616531_1_jj_5_오라찐빵 _1_002.png",
+      "mapx": 33.4816174602448,
+      "mapy": 126.543894671726,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "오라찐빵(아라이동)",
+        "간판, 나무, 여닫이문 "
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "616531_1_jj_5_오라찐빵 _1_003.png",
+      "mapx": 33.4816174602448,
+      "mapy": 126.543894671726,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "오라찐빵(아라이동)",
+        "메뉴판, 싱크대 "
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "616531_1_jj_5_오라찐빵 _1_004.png",
+      "mapx": 33.4816174602448,
+      "mapy": 126.543894671726,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "오라찐빵(아라이동)",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "616531_1_jj_5_오라찐빵 _1_005.png",
+      "mapx": 33.4816174602448,
+      "mapy": 126.543894671726,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "오라찐빵(아라이동)",
+        "찐빵 "
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "오라찐빵,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "삼화페인트, 아라돈사촌",
+          "answer_wordNum": 2,
+          "fact": [
+            "오라찐빵,인접,삼화페인트, 아라돈사촌"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-723-5570",
+          "answer_wordNum": 1,
+          "fact": [
+            "오라찐빵,연락처,064-723-5570"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 중앙로 465",
+          "answer_wordNum": 4,
+          "fact": [
+            "오라찐빵,주소,제주 제주시 중앙로 465"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "오라찐빵,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "삼화페인트, 아라돈사촌",
+          "answer_wordNum": 2,
+          "fact": [
+            "오라찐빵,인접,삼화페인트, 아라돈사촌"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "오라찐빵,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "오라찐빵,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-723-5570",
+          "answer_wordNum": 1,
+          "fact": [
+            "오라찐빵,연락처,064-723-5570"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "오라찐빵,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "삼화페인트, 아라돈사촌",
+          "answer_wordNum": 2,
+          "fact": [
+            "오라찐빵,인접,삼화페인트, 아라돈사촌"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "찐빵, 보리빵",
+          "answer_wordNum": 2,
+          "fact": [
+            "오라찐빵,메뉴,찐빵, 보리빵"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "오라찐빵,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "오라찐빵,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "찐빵, 보리빵",
+          "answer_wordNum": 2,
+          "fact": [
+            "오라찐빵,메뉴,찐빵, 보리빵"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 중앙로 465",
+          "answer_wordNum": 4,
+          "fact": [
+            "오라찐빵,주소,제주 제주시 중앙로 465"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "찐빵, 보리빵",
+          "answer_wordNum": 2,
+          "fact": [
+            "오라찐빵,메뉴,찐빵, 보리빵"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "오라찐빵,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "삼화페인트, 아라돈사촌",
+          "answer_wordNum": 2,
+          "fact": [
+            "오라찐빵,인접,삼화페인트, 아라돈사촌"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 중앙로 465",
+          "answer_wordNum": 4,
+          "fact": [
+            "오라찐빵,주소,제주 제주시 중앙로 465"
+          ]
+        }
+      ]
+    }
+  ]
+}

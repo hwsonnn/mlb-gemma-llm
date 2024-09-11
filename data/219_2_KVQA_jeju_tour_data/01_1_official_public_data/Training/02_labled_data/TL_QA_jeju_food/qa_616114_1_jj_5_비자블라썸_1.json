@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "616114",
+    "travelType": "음식점",
+    "place": "비자블라썸",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "616114_1_jj_5_비자블라썸_1_001.png",
+      "mapx": 33.4949359204006,
+      "mapy": 126.80897000023,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "비자블라썸(구좌읍)",
+        "스티커 간판, 자동문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "616114_1_jj_5_비자블라썸_1_002.png",
+      "mapx": 33.4949359204006,
+      "mapy": 126.80897000023,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "비자블라썸(구좌읍)",
+        "건물, 간판, 의자, 조명"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "616114_1_jj_5_비자블라썸_1_003.png",
+      "mapx": 33.4949359204006,
+      "mapy": 126.80897000023,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "비자블라썸(구좌읍)",
+        "화분, 테이블, 의자, 조명, 유리창"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "616114_1_jj_5_비자블라썸_1_004.png",
+      "mapx": 33.4949359204006,
+      "mapy": 126.80897000023,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "비자블라썸(구좌읍)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "616114_1_jj_5_비자블라썸_1_005.png",
+      "mapx": 33.4949359204006,
+      "mapy": 126.80897000023,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "비자블라썸(구좌읍)",
+        "라떼, 케익, 아메리카노"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "지니민박, 비자림민박펜션",
+          "answer_wordNum": 2,
+          "fact": [
+            "비자블라썸,인접,지니민박, 비자림민박펜션"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 즐길 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "브런치, 음료, 커피",
+          "answer_wordNum": 3,
+          "fact": [
+            "비자블라썸,즐길수있다,브런치, 음료, 커피"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳은 어디인가요?",
+          "question_wordNum": 3,
+          "answer": "브런치 카페",
+          "answer_wordNum": 2,
+          "fact": [
+            "비자블라썸,이다,브런치 카페"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 무엇이 있나요?",
+          "question_wordNum": 4,
+          "answer": "정원",
+          "answer_wordNum": 1,
+          "fact": [
+            "비자블라썸,있다,정원"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳은 무엇이 있나요?",
+          "question_wordNum": 4,
+          "answer": "정원",
+          "answer_wordNum": 1,
+          "fact": [
+            "비자블라썸,있다,정원"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 구좌읍 비자림로 2244",
+          "answer_wordNum": 5,
+          "fact": [
+            "비자블라썸,주소,제주 제주시 구좌읍 비자림로 2244"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1341-3885",
+          "answer_wordNum": 1,
+          "fact": [
+            "비자블라썸,연락처,0507-1341-3885"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:00 - 18:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "비자블라썸,영업시간,10:00 - 18:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:00 - 18:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "비자블라썸,영업시간,10:00 - 18:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "비자블라썸,휴무일,매주 일요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "당근주스, 젤라또아이스크림",
+          "answer_wordNum": 2,
+          "fact": [
+            "비자블라썸,메뉴,당근주스, 젤라또아이스크림"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "비자블라썸,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "지니민박, 비자림민박펜션",
+          "answer_wordNum": 2,
+          "fact": [
+            "비자블라썸,인접,지니민박, 비자림민박펜션"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳은 어디인가요?",
+          "question_wordNum": 3,
+          "answer": "브런치 카페",
+          "answer_wordNum": 2,
+          "fact": [
+            "비자블라썸,이다,브런치 카페"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 구좌읍 비자림로 2244",
+          "answer_wordNum": 5,
+          "fact": [
+            "비자블라썸,주소,제주 제주시 구좌읍 비자림로 2244"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:00 - 18:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "비자블라썸,영업시간,10:00 - 18:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "비자블라썸,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "비자블라썸,휴무일,매주 일요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1341-3885",
+          "answer_wordNum": 1,
+          "fact": [
+            "비자블라썸,연락처,0507-1341-3885"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 즐길 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "브런치, 음료, 커피",
+          "answer_wordNum": 3,
+          "fact": [
+            "비자블라썸,즐길수있다,브런치, 음료, 커피"
+          ]
+        }
+      ]
+    }
+  ]
+}

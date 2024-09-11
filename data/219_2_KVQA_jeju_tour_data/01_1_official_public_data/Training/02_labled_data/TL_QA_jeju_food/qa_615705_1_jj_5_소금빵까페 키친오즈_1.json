@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "615705",
+    "travelType": "음식점",
+    "place": "소금빵까페 키친오즈",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "615705_1_jj_5_소금빵까페 키친오즈_1_001.png",
+      "mapx": 33.3800620602414,
+      "mapy": 126.251201648021,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "소금빵까페 키친오즈(한림읍)",
+        "건물, 간판, 여닫이 문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "615705_1_jj_5_소금빵까페 키친오즈_1_002.png",
+      "mapx": 33.3800620602414,
+      "mapy": 126.251201648021,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "소금빵까페 키친오즈(한림읍)",
+        "건물, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "615705_1_jj_5_소금빵까페 키친오즈_1_003.png",
+      "mapx": 33.3800620602414,
+      "mapy": 126.251201648021,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "소금빵까페 키친오즈(한림읍)",
+        "테이블, 등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "615705_1_jj_5_소금빵까페 키친오즈_1_004.png",
+      "mapx": 33.3800620602414,
+      "mapy": 126.251201648021,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "소금빵까페 키친오즈(한림읍)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "615705_1_jj_5_소금빵까페 키친오즈_1_005.png",
+      "mapx": 33.3800620602414,
+      "mapy": 126.251201648021,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "소금빵까페 키친오즈(한림읍)",
+        "소금빵"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 한림읍 협재로 208",
+          "answer_wordNum": 5,
+          "fact": [
+            "소금빵까페 키친오즈,주소,제주 제주시 한림읍 협재로 208"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "소금빵, 새우 로제파스타",
+          "answer_wordNum": 3,
+          "fact": [
+            "소금빵까페 키친오즈,메뉴,소금빵, 새우 로제파스타"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "소금빵까페 키친오즈,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 어떤 재료를 사용하나요?",
+          "question_wordNum": 5,
+          "answer": "이태리 밀가루",
+          "answer_wordNum": 2,
+          "fact": [
+            "소금빵까페 키친오즈,사용,이태리 밀가루"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00 - 18:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "소금빵까페 키친오즈,영업시간,11:00 - 18:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "스톤빌리지, 제주 금강산콘도",
+          "answer_wordNum": 3,
+          "fact": [
+            "소금빵까페 키친오즈,인접,스톤빌리지, 제주 금강산콘도"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "소금빵까페 키친오즈,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "주요 메뉴는 어떻게 되나요?",
+          "question_wordNum": 4,
+          "answer": "소금빵, 새우 로제파스타",
+          "answer_wordNum": 3,
+          "fact": [
+            "소금빵까페 키친오즈,메뉴,소금빵, 새우 로제파스타"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00 - 18:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "소금빵까페 키친오즈,영업시간,11:00 - 18:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "스톤빌리지, 제주 금강산콘도",
+          "answer_wordNum": 3,
+          "fact": [
+            "소금빵까페 키친오즈,인접,스톤빌리지, 제주 금강산콘도"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "소금빵, 새우 로제파스타",
+          "answer_wordNum": 3,
+          "fact": [
+            "소금빵까페 키친오즈,메뉴,소금빵, 새우 로제파스타"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 무엇이 가능한가요?",
+          "question_wordNum": 4,
+          "answer": "애견 동반",
+          "answer_wordNum": 2,
+          "fact": [
+            "소금빵까페 키친오즈,가능,애견 동반"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "소금빵, 새우 로제파스타",
+          "answer_wordNum": 3,
+          "fact": [
+            "소금빵까페 키친오즈,메뉴,소금빵, 새우 로제파스타"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 한림읍 협재로 208",
+          "answer_wordNum": 5,
+          "fact": [
+            "소금빵까페 키친오즈,주소,제주 제주시 한림읍 협재로 208"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "스톤빌리지, 제주 금강산콘도",
+          "answer_wordNum": 3,
+          "fact": [
+            "소금빵까페 키친오즈,인접,스톤빌리지, 제주 금강산콘도"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 어디인가요?",
+          "question_wordNum": 3,
+          "answer": "브레드 카페, 레스토랑",
+          "answer_wordNum": 3,
+          "fact": [
+            "소금빵까페 키친오즈,이다,브레드 카페, 레스토랑"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "스톤빌리지, 제주 금강산콘도",
+          "answer_wordNum": 3,
+          "fact": [
+            "소금빵까페 키친오즈,인접,스톤빌리지, 제주 금강산콘도"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 한림읍 협재로 208",
+          "answer_wordNum": 5,
+          "fact": [
+            "소금빵까페 키친오즈,주소,제주 제주시 한림읍 협재로 208"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "소금빵, 새우 로제파스타",
+          "answer_wordNum": 3,
+          "fact": [
+            "소금빵까페 키친오즈,메뉴,소금빵, 새우 로제파스타"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 화요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "소금빵까페 키친오즈,휴무일,매주 화요일"
+          ]
+        }
+      ]
+    }
+  ]
+}

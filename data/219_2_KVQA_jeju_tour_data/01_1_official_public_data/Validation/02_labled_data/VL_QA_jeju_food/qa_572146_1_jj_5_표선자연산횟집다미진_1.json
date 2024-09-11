@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "572146",
+    "travelType": "음식점",
+    "place": "표선자연산횟집다미진",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "572146_1_jj_5_표선자연산횟집다미진_1_001.png",
+      "mapx": 33.3250981621773,
+      "mapy": 126.844032203169,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "표선자연산횟집다미진(표선면)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "572146_1_jj_5_표선자연산횟집다미진_1_002.png",
+      "mapx": 33.3250981621773,
+      "mapy": 126.844032203169,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "표선자연산횟집다미진(표선면)",
+        "간판, 의자, 건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "572146_1_jj_5_표선자연산횟집다미진_1_003.png",
+      "mapx": 33.3250981621773,
+      "mapy": 126.844032203169,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "표선자연산횟집다미진(표선면)",
+        "테이블"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "572146_1_jj_5_표선자연산횟집다미진_1_004.png",
+      "mapx": 33.3250981621773,
+      "mapy": 126.844032203169,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "표선자연산횟집다미진(표선면)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "572146_1_jj_5_표선자연산횟집다미진_1_005.png",
+      "mapx": 33.3250981621773,
+      "mapy": 126.844032203169,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "표선자연산횟집다미진(표선면)",
+        "해산물"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:30 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "표선자연산횟집다미진,영업시간,11:30 - 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "해비치호텔 앤 리조트, 제주민속촌, 표선해수욕장, 표선칼국수, 더벤티",
+          "answer_wordNum": 7,
+          "fact": [
+            "표선자연산횟집다미진,인접,해비치호텔 앤 리조트, 제주민속촌, 표선해수욕장, 표선칼국수, 더벤티"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-787-5050",
+          "answer_wordNum": 1,
+          "fact": [
+            "표선자연산횟집다미진,연락처,064-787-5050"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "표선자연산횟집다미진,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:30 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "표선자연산횟집다미진,영업시간,11:30 - 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-787-5050",
+          "answer_wordNum": 1,
+          "fact": [
+            "표선자연산횟집다미진,연락처,064-787-5050"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "해비치호텔 앤 리조트, 제주민속촌, 표선해수욕장, 표선칼국수, 더벤티",
+          "answer_wordNum": 7,
+          "fact": [
+            "표선자연산횟집다미진,인접,해비치호텔 앤 리조트, 제주민속촌, 표선해수욕장, 표선칼국수, 더벤티"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 표선면 민속해안로 578-1",
+          "answer_wordNum": 5,
+          "fact": [
+            "표선자연산횟집다미진,주소,제주 서귀포시 표선면 민속해안로 578-1"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-787-5050",
+          "answer_wordNum": 1,
+          "fact": [
+            "표선자연산횟집다미진,연락처,064-787-5050"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:30 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "표선자연산횟집다미진,영업시간,11:30 - 22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 표선면 민속해안로 578-1",
+          "answer_wordNum": 5,
+          "fact": [
+            "표선자연산횟집다미진,주소,제주 서귀포시 표선면 민속해안로 578-1"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "참돔, 활어회",
+          "answer_wordNum": 2,
+          "fact": [
+            "표선자연산횟집다미진,메뉴,참돔, 활어회"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-787-5050",
+          "answer_wordNum": 1,
+          "fact": [
+            "표선자연산횟집다미진,연락처,064-787-5050"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "해비치호텔 앤 리조트, 제주민속촌, 표선해수욕장, 표선칼국수, 더벤티",
+          "answer_wordNum": 7,
+          "fact": [
+            "표선자연산횟집다미진,인접,해비치호텔 앤 리조트, 제주민속촌, 표선해수욕장, 표선칼국수, 더벤티"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 표선면 민속해안로 578-1",
+          "answer_wordNum": 5,
+          "fact": [
+            "표선자연산횟집다미진,주소,제주 서귀포시 표선면 민속해안로 578-1"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "표선자연산횟집다미진,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-787-5050",
+          "answer_wordNum": 1,
+          "fact": [
+            "표선자연산횟집다미진,연락처,064-787-5050"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "표선자연산횟집다미진,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "해비치호텔 앤 리조트, 제주민속촌, 표선해수욕장, 표선칼국수, 더벤티",
+          "answer_wordNum": 7,
+          "fact": [
+            "표선자연산횟집다미진,인접,해비치호텔 앤 리조트, 제주민속촌, 표선해수욕장, 표선칼국수, 더벤티"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "표선자연산횟집다미진,주차시설,있음"
+          ]
+        }
+      ]
+    }
+  ]
+}

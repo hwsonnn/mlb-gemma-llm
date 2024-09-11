@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "616149",
+    "travelType": "음식점",
+    "place": "매코롬",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "616149_1_jj_5_매코롬_1_001.png",
+      "mapx": 33.5542324992835,
+      "mapy": 126.746781543595,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "매코롬(구좌읍)",
+        "미닫이문, 입간판, 벤치, 화분, 간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "616149_1_jj_5_매코롬_1_002.png",
+      "mapx": 33.5542324992835,
+      "mapy": 126.746781543595,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "매코롬(구좌읍)",
+        "간판, 미닫이문, 입간판, 등받이의자, 화분, 건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "616149_1_jj_5_매코롬_1_003.png",
+      "mapx": 33.5542324992835,
+      "mapy": 126.746781543595,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "매코롬(구좌읍)",
+        "벽걸이에어컨, 등받이의자, 테이블, 정수기, 반찬냉장고, 냅킨케이스"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "616149_1_jj_5_매코롬_1_004.png",
+      "mapx": 33.5542324992835,
+      "mapy": 126.746781543595,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "매코롬(구좌읍)",
+        "메뉴판, 종이컵"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "616149_1_jj_5_매코롬_1_005.png",
+      "mapx": 33.5542324992835,
+      "mapy": 126.746781543595,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "매코롬(구좌읍)",
+        "낙지볶음, 반찬, 공기밥"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 전문으로 하나요?",
+          "question_wordNum": 5,
+          "answer": "낙지 볶음",
+          "answer_wordNum": 2,
+          "fact": [
+            "매코롬,전문,낙지 볶음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "김녕우체국, 새마을금고",
+          "answer_wordNum": 2,
+          "fact": [
+            "매코롬,인접,김녕우체국, 새마을금고"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 구좌읍 김녕로 82 1층",
+          "answer_wordNum": 6,
+          "fact": [
+            "매코롬,주소,제주 제주시 구좌읍 김녕로 82 1층"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1392-8782",
+          "answer_wordNum": 1,
+          "fact": [
+            "매코롬,연락처,0507-1392-8782"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1392-8782",
+          "answer_wordNum": 1,
+          "fact": [
+            "매코롬,연락처,0507-1392-8782"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00-20:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "매코롬,영업시간,11:00-20:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "매코롬,휴무일,매주 일요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "낙지볶음, 된장찌개",
+          "answer_wordNum": 2,
+          "fact": [
+            "매코롬,메뉴,낙지볶음, 된장찌개"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "낙지볶음, 된장찌개",
+          "answer_wordNum": 2,
+          "fact": [
+            "매코롬,메뉴,낙지볶음, 된장찌개"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "매코롬,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 전문으로 하나요?",
+          "question_wordNum": 5,
+          "answer": "낙지 볶음",
+          "answer_wordNum": 2,
+          "fact": [
+            "매코롬,전문,낙지 볶음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "매코롬,휴무일,매주 일요일"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "매코롬,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "매코롬,휴무일,매주 일요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1392-8782",
+          "answer_wordNum": 1,
+          "fact": [
+            "매코롬,연락처,0507-1392-8782"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "김녕우체국, 새마을금고",
+          "answer_wordNum": 2,
+          "fact": [
+            "매코롬,인접,김녕우체국, 새마을금고"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "낙지볶음, 된장찌개",
+          "answer_wordNum": 2,
+          "fact": [
+            "매코롬,메뉴,낙지볶음, 된장찌개"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00-20:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "매코롬,영업시간,11:00-20:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 구좌읍 김녕로 82 1층",
+          "answer_wordNum": 6,
+          "fact": [
+            "매코롬,주소,제주 제주시 구좌읍 김녕로 82 1층"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 전문으로 하나요?",
+          "question_wordNum": 5,
+          "answer": "낙지 볶음",
+          "answer_wordNum": 2,
+          "fact": [
+            "매코롬,전문,낙지 볶음"
+          ]
+        }
+      ]
+    }
+  ]
+}

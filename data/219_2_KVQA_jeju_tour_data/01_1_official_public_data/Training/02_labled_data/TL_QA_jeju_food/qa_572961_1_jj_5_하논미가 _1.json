@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "572961",
+    "travelType": "음식점",
+    "place": "하논미가 ",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "572961_1_jj_5_하논미가 _1_001.png",
+      "mapx": 33.2517522240385,
+      "mapy": 126.553271468521,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "하논미가(서홍동) ",
+        "여닫이문, 화분"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "572961_1_jj_5_하논미가 _1_002.png",
+      "mapx": 33.2517522240385,
+      "mapy": 126.553271468521,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "하논미가(서홍동) ",
+        "건물, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "572961_1_jj_5_하논미가 _1_003.png",
+      "mapx": 33.2517522240385,
+      "mapy": 126.553271468521,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "하논미가(서홍동) ",
+        "테이블, 등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "572961_1_jj_5_하논미가 _1_004.png",
+      "mapx": 33.2517522240385,
+      "mapy": 126.553271468521,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "하논미가(서홍동) ",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "572961_1_jj_5_하논미가 _1_005.png",
+      "mapx": 33.2517522240385,
+      "mapy": 126.553271468521,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "하논미가(서홍동) ",
+        "콩나물국밥"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "고기순두부, 우거지탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "하논미가,메뉴,고기순두부, 우거지탕"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "하논미가,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "하논미가,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-763-3342",
+          "answer_wordNum": 1,
+          "fact": [
+            "하논미가,연락처,064-763-3342"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "고기순두부, 우거지탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "하논미가,메뉴,고기순두부, 우거지탕"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 서홍로 43",
+          "answer_wordNum": 4,
+          "fact": [
+            "하논미가,주소,제주 서귀포시 서홍로 43"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-763-3342",
+          "answer_wordNum": 1,
+          "fact": [
+            "하논미가,연락처,064-763-3342"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "하논미가,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 서홍로 43",
+          "answer_wordNum": 4,
+          "fact": [
+            "하논미가,주소,제주 서귀포시 서홍로 43"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-763-3342",
+          "answer_wordNum": 1,
+          "fact": [
+            "하논미가,연락처,064-763-3342"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "하논미가,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "하논미가,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-763-3342",
+          "answer_wordNum": 1,
+          "fact": [
+            "하논미가,연락처,064-763-3342"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "하논미가,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "고기순두부, 우거지탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "하논미가,메뉴,고기순두부, 우거지탕"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "하논미가,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "하논미가,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-763-3342",
+          "answer_wordNum": 1,
+          "fact": [
+            "하논미가,연락처,064-763-3342"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "고기순두부, 우거지탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "하논미가,메뉴,고기순두부, 우거지탕"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 서홍로 43",
+          "answer_wordNum": 4,
+          "fact": [
+            "하논미가,주소,제주 서귀포시 서홍로 43"
+          ]
+        }
+      ]
+    }
+  ]
+}

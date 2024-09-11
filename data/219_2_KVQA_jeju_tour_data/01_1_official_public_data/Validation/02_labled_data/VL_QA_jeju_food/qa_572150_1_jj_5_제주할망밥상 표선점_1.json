@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "572150",
+    "travelType": "음식점",
+    "place": "제주할망밥상 표선점",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "572150_1_jj_5_제주할망밥상 표선점_1_001.png",
+      "mapx": 33.3203336133979,
+      "mapy": 126.829235966365,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "제주할망밥상 표선점(표선면)",
+        "미닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "572150_1_jj_5_제주할망밥상 표선점_1_002.png",
+      "mapx": 33.3203336133979,
+      "mapy": 126.829235966365,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "제주할망밥상 표선점(표선면)",
+        "건물, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "572150_1_jj_5_제주할망밥상 표선점_1_003.png",
+      "mapx": 33.3203336133979,
+      "mapy": 126.829235966365,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "제주할망밥상 표선점(표선면)",
+        "등받이 의자, 테이블"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "572150_1_jj_5_제주할망밥상 표선점_1_004.png",
+      "mapx": 33.3203336133979,
+      "mapy": 126.829235966365,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "제주할망밥상 표선점(표선면)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "572150_1_jj_5_제주할망밥상 표선점_1_005.png",
+      "mapx": 33.3203336133979,
+      "mapy": 126.829235966365,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "제주할망밥상 표선점(표선면)",
+        "생선구이, 반찬"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-787-4200",
+          "answer_wordNum": 1,
+          "fact": [
+            "제주할망밥상 표선점,연락처,064-787-4200"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "제주할망밥상 표선점,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 표선면 표선동서로 177-1",
+          "answer_wordNum": 5,
+          "fact": [
+            "제주할망밥상 표선점,주소,제주 서귀포시 표선면 표선동서로 177-1"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "지호빌, 드림빌, 집밥풍년",
+          "answer_wordNum": 3,
+          "fact": [
+            "제주할망밥상 표선점,인접,지호빌, 드림빌, 집밥풍년"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "09:00 - 20:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "제주할망밥상 표선점,영업시간,09:00 - 20:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "제주할망밥상 표선점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 표선면 표선동서로 177-1",
+          "answer_wordNum": 5,
+          "fact": [
+            "제주할망밥상 표선점,주소,제주 서귀포시 표선면 표선동서로 177-1"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-787-4200",
+          "answer_wordNum": 1,
+          "fact": [
+            "제주할망밥상 표선점,연락처,064-787-4200"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "제주할망밥상 표선점,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "제주할망밥상 표선점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "지호빌, 드림빌, 집밥풍년",
+          "answer_wordNum": 3,
+          "fact": [
+            "제주할망밥상 표선점,인접,지호빌, 드림빌, 집밥풍년"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "09:00 - 20:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "제주할망밥상 표선점,영업시간,09:00 - 20:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-787-4200",
+          "answer_wordNum": 1,
+          "fact": [
+            "제주할망밥상 표선점,연락처,064-787-4200"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "제주할망밥상 표선점,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "09:00 - 20:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "제주할망밥상 표선점,영업시간,09:00 - 20:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "지호빌, 드림빌, 집밥풍년",
+          "answer_wordNum": 3,
+          "fact": [
+            "제주할망밥상 표선점,인접,지호빌, 드림빌, 집밥풍년"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 표선면 표선동서로 177-1",
+          "answer_wordNum": 5,
+          "fact": [
+            "제주할망밥상 표선점,주소,제주 서귀포시 표선면 표선동서로 177-1"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-787-4200",
+          "answer_wordNum": 1,
+          "fact": [
+            "제주할망밥상 표선점,연락처,064-787-4200"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "지호빌, 드림빌, 집밥풍년",
+          "answer_wordNum": 3,
+          "fact": [
+            "제주할망밥상 표선점,인접,지호빌, 드림빌, 집밥풍년"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "09:00 - 20:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "제주할망밥상 표선점,영업시간,09:00 - 20:00"
+          ]
+        }
+      ]
+    }
+  ]
+}

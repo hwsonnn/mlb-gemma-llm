@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "616245",
+    "travelType": "음식점",
+    "place": "휘슬 피쉬",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "616245_1_jj_5_휘슬 피쉬_1_001.png",
+      "mapx": 33.5173806716395,
+      "mapy": 126.527509377287,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "휘슬 피쉬(건입동)",
+        "간판, 여닫이 문, 입간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "616245_1_jj_5_휘슬 피쉬_1_002.png",
+      "mapx": 33.5173806716395,
+      "mapy": 126.527509377287,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "휘슬 피쉬(건입동)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "616245_1_jj_5_휘슬 피쉬_1_003.png",
+      "mapx": 33.5173806716395,
+      "mapy": 126.527509377287,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "휘슬 피쉬(건입동)",
+        "테이블, 등받이 의자, 유리창"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "616245_1_jj_5_휘슬 피쉬_1_004.png",
+      "mapx": 33.5173806716395,
+      "mapy": 126.527509377287,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "휘슬 피쉬(건입동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "616245_1_jj_5_휘슬 피쉬_1_005.png",
+      "mapx": 33.5173806716395,
+      "mapy": 126.527509377287,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "휘슬 피쉬(건입동)",
+        "맥주컵, 치킨, 감자튀김"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "장산다방, 블루24편의점",
+          "answer_wordNum": 2,
+          "fact": [
+            "휘슬 피쉬,인접,장산다방, 블루24편의점"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 서부두2길 26 1층 103호",
+          "answer_wordNum": 6,
+          "fact": [
+            "휘슬 피쉬,주소,제주 제주시 서부두2길 26 1층 103호"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1318-5286",
+          "answer_wordNum": 1,
+          "fact": [
+            "휘슬 피쉬,연락처,0507-1318-5286"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "17:00 - 02:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "휘슬 피쉬,영업시간,17:00 - 02:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "17:00 - 02:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "휘슬 피쉬,영업시간,17:00 - 02:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "휘슬 피쉬,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "피쉬앤칩스, 치즈스틱",
+          "answer_wordNum": 2,
+          "fact": [
+            "휘슬 피쉬,메뉴,피쉬앤칩스, 치즈스틱"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "휘슬 피쉬,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "장산다방, 블루24편의점",
+          "answer_wordNum": 2,
+          "fact": [
+            "휘슬 피쉬,인접,장산다방, 블루24편의점"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1318-5286",
+          "answer_wordNum": 1,
+          "fact": [
+            "휘슬 피쉬,연락처,0507-1318-5286"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "휘슬 피쉬,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "휘슬 피쉬,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 서부두2길 26 1층 103호",
+          "answer_wordNum": 6,
+          "fact": [
+            "휘슬 피쉬,주소,제주 제주시 서부두2길 26 1층 103호"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "17:00 - 02:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "휘슬 피쉬,영업시간,17:00 - 02:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "피쉬앤칩스, 치즈스틱",
+          "answer_wordNum": 2,
+          "fact": [
+            "휘슬 피쉬,메뉴,피쉬앤칩스, 치즈스틱"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "장산다방, 블루24편의점",
+          "answer_wordNum": 2,
+          "fact": [
+            "휘슬 피쉬,인접,장산다방, 블루24편의점"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "휘슬 피쉬,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "17:00 - 02:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "휘슬 피쉬,영업시간,17:00 - 02:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 서부두2길 26 1층 103호",
+          "answer_wordNum": 6,
+          "fact": [
+            "휘슬 피쉬,주소,제주 제주시 서부두2길 26 1층 103호"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "휘슬 피쉬,주차시설,있음"
+          ]
+        }
+      ]
+    }
+  ]
+}

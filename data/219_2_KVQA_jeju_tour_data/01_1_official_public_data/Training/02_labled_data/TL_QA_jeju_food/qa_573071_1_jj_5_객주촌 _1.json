@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "573071",
+    "travelType": "음식점",
+    "place": "객주촌 ",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "573071_1_jj_5_객주촌 _1_001.png",
+      "mapx": 33.2426285854397,
+      "mapy": 126.599284615577,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "객주촌(보목동)",
+        "건물 "
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "573071_1_jj_5_객주촌 _1_002.png",
+      "mapx": 33.2426285854397,
+      "mapy": 126.599284615577,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "객주촌(보목동)",
+        "건물 "
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "573071_1_jj_5_객주촌 _1_003.png",
+      "mapx": 33.2426285854397,
+      "mapy": 126.599284615577,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "객주촌(보목동)",
+        "테이블, 등받이 의자 "
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "573071_1_jj_5_객주촌 _1_004.png",
+      "mapx": 33.2426285854397,
+      "mapy": 126.599284615577,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "객주촌(보목동)",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "573071_1_jj_5_객주촌 _1_005.png",
+      "mapx": 33.2426285854397,
+      "mapy": 126.599284615577,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "객주촌(보목동)",
+        "두부"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "서귀포KAL호텔, 천지연 폭포",
+          "answer_wordNum": 3,
+          "fact": [
+            "객주촌,인접,서귀포KAL호텔, 천지연 폭포"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "010-9877-4412",
+          "answer_wordNum": 1,
+          "fact": [
+            "객주촌,연락처,010-9877-4412"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "16:00 - 24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "객주촌,영업시간,16:00 - 24:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 칠십리로 452",
+          "answer_wordNum": 4,
+          "fact": [
+            "객주촌,주소,제주 서귀포시 칠십리로 452"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "한돔베, 두부김치",
+          "answer_wordNum": 2,
+          "fact": [
+            "객주촌,메뉴,한돔베, 두부김치"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "객주촌,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "16:00 - 24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "객주촌,영업시간,16:00 - 24:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "객주촌,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "서귀포KAL호텔, 천지연 폭포",
+          "answer_wordNum": 3,
+          "fact": [
+            "객주촌,인접,서귀포KAL호텔, 천지연 폭포"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "16:00 - 24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "객주촌,영업시간,16:00 - 24:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 칠십리로 452",
+          "answer_wordNum": 4,
+          "fact": [
+            "객주촌,주소,제주 서귀포시 칠십리로 452"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "객주촌,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "객주촌,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "서귀포KAL호텔, 천지연 폭포",
+          "answer_wordNum": 3,
+          "fact": [
+            "객주촌,인접,서귀포KAL호텔, 천지연 폭포"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "한돔베, 두부김치",
+          "answer_wordNum": 2,
+          "fact": [
+            "객주촌,메뉴,한돔베, 두부김치"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "객주촌,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "한돔베, 두부김치",
+          "answer_wordNum": 2,
+          "fact": [
+            "객주촌,메뉴,한돔베, 두부김치"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "객주촌,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 칠십리로 452",
+          "answer_wordNum": 4,
+          "fact": [
+            "객주촌,주소,제주 서귀포시 칠십리로 452"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "객주촌,휴무일,없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

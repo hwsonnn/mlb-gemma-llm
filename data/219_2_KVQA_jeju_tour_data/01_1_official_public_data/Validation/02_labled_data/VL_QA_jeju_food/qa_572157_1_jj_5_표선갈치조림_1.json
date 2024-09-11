@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "572157",
+    "travelType": "음식점",
+    "place": "표선갈치조림",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "572157_1_jj_5_표선갈치조림_1_001.png",
+      "mapx": 33.3256231337264,
+      "mapy": 126.834450732069,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "표선갈치조림(표선면)",
+        "간판, 여닫이 문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "572157_1_jj_5_표선갈치조림_1_002.png",
+      "mapx": 33.3256231337264,
+      "mapy": 126.834450732069,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "표선갈치조림(표선면)",
+        "건물, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "572157_1_jj_5_표선갈치조림_1_003.png",
+      "mapx": 33.3256231337264,
+      "mapy": 126.834450732069,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "표선갈치조림(표선면)",
+        "테이블, 등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "572157_1_jj_5_표선갈치조림_1_004.png",
+      "mapx": 33.3256231337264,
+      "mapy": 126.834450732069,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "표선갈치조림(표선면)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "572157_1_jj_5_표선갈치조림_1_005.png",
+      "mapx": 33.3256231337264,
+      "mapy": 126.834450732069,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "표선갈치조림(표선면)",
+        "묵은지고등어조림"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "보쌈정식, 묵은지고등어조림",
+          "answer_wordNum": 2,
+          "fact": [
+            "표선갈치조림,메뉴,보쌈정식, 묵은지고등어조림"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 표선면 표선중앙로 100",
+          "answer_wordNum": 5,
+          "fact": [
+            "표선갈치조림,주소,제주 서귀포시 표선면 표선중앙로 100"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "10:00-22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "표선갈치조림,영업시간,10:00-22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 연락처가 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "0507-1338-2766",
+          "answer_wordNum": 1,
+          "fact": [
+            "표선갈치조림,연락처,0507-1338-2766"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "보쌈정식, 묵은지고등어조림",
+          "answer_wordNum": 2,
+          "fact": [
+            "표선갈치조림,메뉴,보쌈정식, 묵은지고등어조림"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 표선면 표선중앙로 100",
+          "answer_wordNum": 5,
+          "fact": [
+            "표선갈치조림,주소,제주 서귀포시 표선면 표선중앙로 100"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1338-2766",
+          "answer_wordNum": 1,
+          "fact": [
+            "표선갈치조림,연락처,0507-1338-2766"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 영업시간은 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "10:00-22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "표선갈치조림,영업시간,10:00-22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:00-22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "표선갈치조림,영업시간,10:00-22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 표선면 표선중앙로 100",
+          "answer_wordNum": 5,
+          "fact": [
+            "표선갈치조림,주소,제주 서귀포시 표선면 표선중앙로 100"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1338-2766",
+          "answer_wordNum": 1,
+          "fact": [
+            "표선갈치조림,연락처,0507-1338-2766"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "이 곳은 주차시설이 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "표선갈치조림,주차시설,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "표선갈치조림,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:00-22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "표선갈치조림,영업시간,10:00-22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "보쌈정식, 묵은지고등어조림",
+          "answer_wordNum": 2,
+          "fact": [
+            "표선갈치조림,메뉴,보쌈정식, 묵은지고등어조림"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "이 곳은 주차시설이 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "표선갈치조림,주차시설,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "보쌈정식, 묵은지고등어조림",
+          "answer_wordNum": 2,
+          "fact": [
+            "표선갈치조림,메뉴,보쌈정식, 묵은지고등어조림"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:00-22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "표선갈치조림,영업시간,10:00-22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 표선면 표선중앙로 100",
+          "answer_wordNum": 5,
+          "fact": [
+            "표선갈치조림,주소,제주 서귀포시 표선면 표선중앙로 100"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 연락처가 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "0507-1338-2766",
+          "answer_wordNum": 1,
+          "fact": [
+            "표선갈치조림,연락처,0507-1338-2766"
+          ]
+        }
+      ]
+    }
+  ]
+}

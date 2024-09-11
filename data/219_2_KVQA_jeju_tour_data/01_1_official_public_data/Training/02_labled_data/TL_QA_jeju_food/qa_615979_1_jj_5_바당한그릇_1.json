@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "615979",
+    "travelType": "음식점",
+    "place": "바당한그릇",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "615979_1_jj_5_바당한그릇_1_001.png",
+      "mapx": 33.4784025149876,
+      "mapy": 126.362426094669,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "바당한그릇(애월읍)",
+        "간판, 테이블, 등받이의자"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "615979_1_jj_5_바당한그릇_1_002.png",
+      "mapx": 33.4784025149876,
+      "mapy": 126.362426094669,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "바당한그릇(애월읍)",
+        "건물, 간판, 돌담"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "615979_1_jj_5_바당한그릇_1_003.png",
+      "mapx": 33.4784025149876,
+      "mapy": 126.362426094669,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "바당한그릇(애월읍)",
+        "테이블, 등받이의자, 환풍구, 칸막이"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "615979_1_jj_5_바당한그릇_1_004.png",
+      "mapx": 33.4784025149876,
+      "mapy": 126.362426094669,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "바당한그릇(애월읍)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "615979_1_jj_5_바당한그릇_1_005.png",
+      "mapx": 33.4784025149876,
+      "mapy": 126.362426094669,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "바당한그릇(애월읍)",
+        "회, 물회, 탄산음료"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "바당한그릇,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "물회, 회덮밥",
+          "answer_wordNum": 2,
+          "fact": [
+            "바당한그릇,메뉴,물회, 회덮밥"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 20:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "바당한그릇,영업시간,11:00 - 20:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1323-8022",
+          "answer_wordNum": 1,
+          "fact": [
+            "바당한그릇,연락처,0507-1323-8022"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "제주애월몽, 베니키아호텔제주입구",
+          "answer_wordNum": 2,
+          "fact": [
+            "바당한그릇,인접,제주애월몽, 베니키아호텔제주입구"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "바당한그릇,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 애월읍 애월해안로 552-3",
+          "answer_wordNum": 5,
+          "fact": [
+            "바당한그릇,주소,제주 제주시 애월읍 애월해안로 552-3"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 어떤 곳인가요?",
+          "question_wordNum": 4,
+          "answer": "식당",
+          "answer_wordNum": 1,
+          "fact": [
+            "바당한그릇,이다,식당"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 볼수 있나요?",
+          "question_wordNum": 5,
+          "answer": "바다",
+          "answer_wordNum": 1,
+          "fact": [
+            "바당한그릇,볼수있다,바다"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 즐길수 있나요?",
+          "question_wordNum": 5,
+          "answer": "활어회, 물회, 해물볶음, 회덮밥",
+          "answer_wordNum": 4,
+          "fact": [
+            "바당한그릇,즐길수있다,활어회, 물회, 해물볶음, 회덮밥"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "이 곳은 무엇이 있나요?",
+          "question_wordNum": 4,
+          "answer": "수족관",
+          "answer_wordNum": 1,
+          "fact": [
+            "바당한그릇,있다,수족관"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 사용하나요?",
+          "question_wordNum": 4,
+          "answer": "제주도 특산물, 제주도 채소",
+          "answer_wordNum": 4,
+          "fact": [
+            "바당한그릇,사용,제주도 특산물, 제주도 채소"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "제주애월몽, 베니키아호텔제주입구",
+          "answer_wordNum": 2,
+          "fact": [
+            "바당한그릇,인접,제주애월몽, 베니키아호텔제주입구"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1323-8022",
+          "answer_wordNum": 1,
+          "fact": [
+            "바당한그릇,연락처,0507-1323-8022"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "바당한그릇,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 사용하나요?",
+          "question_wordNum": 4,
+          "answer": "제주도 특산물, 제주도 채소",
+          "answer_wordNum": 4,
+          "fact": [
+            "바당한그릇,사용,제주도 특산물, 제주도 채소"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "물회, 회덮밥",
+          "answer_wordNum": 2,
+          "fact": [
+            "바당한그릇,메뉴,물회, 회덮밥"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "바당한그릇,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 애월읍 애월해안로 552-3",
+          "answer_wordNum": 5,
+          "fact": [
+            "바당한그릇,주소,제주 제주시 애월읍 애월해안로 552-3"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": " 이 곳은 무엇을 볼 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "바다",
+          "answer_wordNum": 1,
+          "fact": [
+            "바당한그릇,볼수있다,바다"
+          ]
+        }
+      ]
+    }
+  ]
+}

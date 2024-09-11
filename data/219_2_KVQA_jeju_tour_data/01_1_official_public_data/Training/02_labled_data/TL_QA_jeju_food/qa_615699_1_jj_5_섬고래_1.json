@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "615699",
+    "travelType": "음식점",
+    "place": "섬고래",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "615699_1_jj_5_섬고래_1_001.png",
+      "mapx": 33.3884508871987,
+      "mapy": 126.230024522105,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "섬고래(한림읍)",
+        "건물, 간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "615699_1_jj_5_섬고래_1_002.png",
+      "mapx": 33.3884508871987,
+      "mapy": 126.230024522105,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "섬고래(한림읍)",
+        "건물, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "615699_1_jj_5_섬고래_1_003.png",
+      "mapx": 33.3884508871987,
+      "mapy": 126.230024522105,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "섬고래(한림읍)",
+        "테이블, 등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "615699_1_jj_5_섬고래_1_004.png",
+      "mapx": 33.3884508871987,
+      "mapy": 126.230024522105,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "섬고래(한림읍)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "615699_1_jj_5_섬고래_1_005.png",
+      "mapx": 33.3884508871987,
+      "mapy": 126.230024522105,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "섬고래(한림읍)",
+        "회"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "섬고래,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "연어아보카도덮밥, 흑돼지스끼야끼",
+          "answer_wordNum": 2,
+          "fact": [
+            "섬고래,메뉴,연어아보카도덮밥, 흑돼지스끼야끼"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1332-5481",
+          "answer_wordNum": 1,
+          "fact": [
+            "섬고래,연락처,0507-1332-5481"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "05:20/12:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "섬고래,영업시간,05:20/12:00 - 23:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "섬고래,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "연어아보카도덮밥, 흑돼지스끼야끼",
+          "answer_wordNum": 2,
+          "fact": [
+            "섬고래,메뉴,연어아보카도덮밥, 흑돼지스끼야끼"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "05:20/12:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "섬고래,영업시간,05:20/12:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "인접한 시설이 있나요?",
+          "question_wordNum": 3,
+          "answer": "성아시, 소사오름",
+          "answer_wordNum": 2,
+          "fact": [
+            "섬고래,인접,성아시, 소사오름"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "05:20/12:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "섬고래,영업시간,05:20/12:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "성아시, 소사오름",
+          "answer_wordNum": 2,
+          "fact": [
+            "섬고래,인접,성아시, 소사오름"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1332-5481",
+          "answer_wordNum": 1,
+          "fact": [
+            "섬고래,연락처,0507-1332-5481"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "주요 메뉴는 어떻게 되나요?",
+          "question_wordNum": 4,
+          "answer": "연어아보카도덮밥, 흑돼지스끼야끼",
+          "answer_wordNum": 2,
+          "fact": [
+            "섬고래,메뉴,연어아보카도덮밥, 흑돼지스끼야끼"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1332-5481",
+          "answer_wordNum": 1,
+          "fact": [
+            "섬고래,연락처,0507-1332-5481"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "05:20/12:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "섬고래,영업시간,05:20/12:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 한림읍 금능길 65",
+          "answer_wordNum": 5,
+          "fact": [
+            "섬고래,주소,제주 제주시 한림읍 금능길 65"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 어떤 곳인가요?",
+          "question_wordNum": 4,
+          "answer": "선술집, 1인 운영 식당",
+          "answer_wordNum": 4,
+          "fact": [
+            "섬고래,이다,선술집, 1인 운영 식당"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "05:20/12:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "섬고래,영업시간,05:20/12:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "연어아보카도덮밥, 흑돼지스끼야끼",
+          "answer_wordNum": 2,
+          "fact": [
+            "섬고래,메뉴,연어아보카도덮밥, 흑돼지스끼야끼"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "성아시, 소사오름",
+          "answer_wordNum": 2,
+          "fact": [
+            "섬고래,인접,성아시, 소사오름"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 위치는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "금능해수욕장",
+          "answer_wordNum": 1,
+          "fact": [
+            "섬고래,위치,금능해수욕장"
+          ]
+        }
+      ]
+    }
+  ]
+}

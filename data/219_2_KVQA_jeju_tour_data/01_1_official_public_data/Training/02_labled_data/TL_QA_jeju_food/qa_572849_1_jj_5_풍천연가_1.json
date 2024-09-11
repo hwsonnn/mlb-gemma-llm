@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "572849",
+    "travelType": "음식점",
+    "place": "풍천연가",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "572849_1_jj_5_풍천연가_1_001.png",
+      "mapx": 33.2536577124182,
+      "mapy": 126.561832909434,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "풍천연가(동홍동)",
+        "간판, 여닫이문, 건물"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "572849_1_jj_5_풍천연가_1_002.png",
+      "mapx": 33.2536577124182,
+      "mapy": 126.561832909434,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "풍천연가(동홍동)",
+        "간판, 건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "572849_1_jj_5_풍천연가_1_003.png",
+      "mapx": 33.2536577124182,
+      "mapy": 126.561832909434,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "풍천연가(동홍동)",
+        "테이블, 등받이의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "572849_1_jj_5_풍천연가_1_004.png",
+      "mapx": 33.2536577124182,
+      "mapy": 126.561832909434,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "풍천연가(동홍동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "572849_1_jj_5_풍천연가_1_005.png",
+      "mapx": 33.2536577124182,
+      "mapy": 126.561832909434,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "풍천연가(동홍동)",
+        "장어, 불판"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "10:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "풍천연가,영업시간,10:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "풍천연가,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "무엇을 판매하나요?",
+          "question_wordNum": 2,
+          "answer": "국산 자포니카 토종 장어",
+          "answer_wordNum": 4,
+          "fact": [
+            "풍천연가,판매,국산 자포니카 토종 장어"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "KFC, 이비가짬뽕, 제주은행",
+          "answer_wordNum": 3,
+          "fact": [
+            "풍천연가,인접,KFC, 이비가짬뽕, 제주은행"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "풍천연가,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "KFC, 이비가짬뽕, 제주은행",
+          "answer_wordNum": 3,
+          "fact": [
+            "풍천연가,인접,KFC, 이비가짬뽕, 제주은행"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "10:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "풍천연가,영업시간,10:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 일주동로 8670",
+          "answer_wordNum": 4,
+          "fact": [
+            "풍천연가,주소,제주 서귀포시 일주동로 8670"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "풍천연가,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1422-5223",
+          "answer_wordNum": 1,
+          "fact": [
+            "풍천연가,연락처,0507-1422-5223"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "참숯풍천장어구이, 벌떡장어탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "풍천연가,메뉴,참숯풍천장어구이, 벌떡장어탕"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "10:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "풍천연가,영업시간,10:00 - 22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "10:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "풍천연가,영업시간,10:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "KFC, 이비가짬뽕, 제주은행",
+          "answer_wordNum": 3,
+          "fact": [
+            "풍천연가,인접,KFC, 이비가짬뽕, 제주은행"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "참숯풍천장어구이, 벌떡장어탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "풍천연가,메뉴,참숯풍천장어구이, 벌떡장어탕"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1422-5223",
+          "answer_wordNum": 1,
+          "fact": [
+            "풍천연가,연락처,0507-1422-5223"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "참숯풍천장어구이, 벌떡장어탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "풍천연가,메뉴,참숯풍천장어구이, 벌떡장어탕"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "10:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "풍천연가,영업시간,10:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "풍천연가,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 일주동로 8670",
+          "answer_wordNum": 4,
+          "fact": [
+            "풍천연가,주소,제주 서귀포시 일주동로 8670"
+          ]
+        }
+      ]
+    }
+  ]
+}

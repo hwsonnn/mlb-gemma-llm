@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "615114",
+    "travelType": "음식점",
+    "place": "어머니빵집",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "615114_1_jj_5_어머니빵집_1_001.png",
+      "mapx": 33.4915954213563,
+      "mapy": 126.488540380721,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "어머니빵집(연동)",
+        "간판, 화분"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "615114_1_jj_5_어머니빵집_1_002.png",
+      "mapx": 33.4915954213563,
+      "mapy": 126.488540380721,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "어머니빵집(연동)",
+        "건물, 화분"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "615114_1_jj_5_어머니빵집_1_003.png",
+      "mapx": 33.4915954213563,
+      "mapy": 126.488540380721,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "어머니빵집(연동)",
+        "테이블, 등받이의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "615114_1_jj_5_어머니빵집_1_004.png",
+      "mapx": 33.4915954213563,
+      "mapy": 126.488540380721,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "어머니빵집(연동)",
+        "타르트, 진열대"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "615114_1_jj_5_어머니빵집_1_005.png",
+      "mapx": 33.4915954213563,
+      "mapy": 126.488540380721,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "어머니빵집(연동)",
+        "빵, 포크, 접시"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "CU, 핵밥",
+          "answer_wordNum": 2,
+          "fact": [
+            "어머니빵집,인접,CU, 핵밥"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 도령로 103 연동한일씨티파크",
+          "answer_wordNum": 5,
+          "fact": [
+            "어머니빵집,주소,제주 제주시 도령로 103 연동한일씨티파크"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "07:00~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "어머니빵집,영업시간,07:00~22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "어머니빵집,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1306-1281",
+          "answer_wordNum": 1,
+          "fact": [
+            "어머니빵집,연락처,0507-1306-1281"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "마늘바게트, 치즈대파빵",
+          "answer_wordNum": 2,
+          "fact": [
+            "어머니빵집,메뉴,마늘바게트, 치즈대파빵"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "어머니빵집,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "CU, 핵밥",
+          "answer_wordNum": 2,
+          "fact": [
+            "어머니빵집,인접,CU, 핵밥"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "어머니빵집,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "07:00~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "어머니빵집,영업시간,07:00~22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "CU, 핵밥",
+          "answer_wordNum": 2,
+          "fact": [
+            "어머니빵집,인접,CU, 핵밥"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1306-1281",
+          "answer_wordNum": 1,
+          "fact": [
+            "어머니빵집,연락처,0507-1306-1281"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 도령로 103 연동한일씨티파크",
+          "answer_wordNum": 5,
+          "fact": [
+            "어머니빵집,주소,제주 제주시 도령로 103 연동한일씨티파크"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "어머니빵집,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1306-1281",
+          "answer_wordNum": 1,
+          "fact": [
+            "어머니빵집,연락처,0507-1306-1281"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "어머니빵집,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "마늘바게트, 치즈대파빵",
+          "answer_wordNum": 2,
+          "fact": [
+            "어머니빵집,메뉴,마늘바게트, 치즈대파빵"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "CU, 핵밥",
+          "answer_wordNum": 2,
+          "fact": [
+            "어머니빵집,인접,CU, 핵밥"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "어머니빵집,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 도령로 103 연동한일씨티파크",
+          "answer_wordNum": 5,
+          "fact": [
+            "어머니빵집,주소,제주 제주시 도령로 103 연동한일씨티파크"
+          ]
+        }
+      ]
+    }
+  ]
+}

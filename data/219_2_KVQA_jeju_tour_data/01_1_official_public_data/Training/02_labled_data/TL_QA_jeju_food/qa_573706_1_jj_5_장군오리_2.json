@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "573706",
+    "travelType": "음식점",
+    "place": "장군오리",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "573706_1_jj_5_장군오리_2_001.png",
+      "mapx": 33.2328375096703,
+      "mapy": 126.261940628508,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "장군오리(대정읍)",
+        "실외기, 건물, 조형물"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "573706_1_jj_5_장군오리_2_002.png",
+      "mapx": 33.2328375096703,
+      "mapy": 126.261940628508,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "장군오리(대정읍)",
+        "건물, 에어간판, 자동차, 조형물, 실외기"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "573706_1_jj_5_장군오리_2_003.png",
+      "mapx": 33.2328375096703,
+      "mapy": 126.261940628508,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "장군오리(대정읍)",
+        "등받이의자, 테이블, 에어컨, 옷걸이, 액자, 메뉴판"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "573706_1_jj_5_장군오리_2_004.png",
+      "mapx": 33.2328375096703,
+      "mapy": 126.261940628508,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "장군오리(대정읍)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "573706_1_jj_5_장군오리_2_005.png",
+      "mapx": 33.2328375096703,
+      "mapy": 126.261940628508,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "장군오리(대정읍)",
+        "샤브코스, 국자, 접시"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "생구이한마리, 샤브코스",
+          "answer_wordNum": 2,
+          "fact": [
+            "장군오리,메뉴,생구이한마리, 샤브코스"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "격주 월요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "장군오리,휴무일,격주 월요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-792-1152",
+          "answer_wordNum": 1,
+          "fact": [
+            "장군오리,연락처,064-792-1152"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "장군오리,영업시간,11:00 - 22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 대정읍 일주서로2498번길 28 1층",
+          "answer_wordNum": 6,
+          "fact": [
+            "장군오리,주소,제주 서귀포시 대정읍 일주서로2498번길 28 1층"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "장군오리,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-792-1152",
+          "answer_wordNum": 1,
+          "fact": [
+            "장군오리,연락처,064-792-1152"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 어디인가요?",
+          "question_wordNum": 3,
+          "answer": "식당",
+          "answer_wordNum": 1,
+          "fact": [
+            "장군오리,이다,식당"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "생구이한마리, 샤브코스",
+          "answer_wordNum": 2,
+          "fact": [
+            "장군오리,메뉴,생구이한마리, 샤브코스"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "용머리해안, 사계해안",
+          "answer_wordNum": 2,
+          "fact": [
+            "장군오리,인접,용머리해안, 사계해안"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 전문으로 하나요?",
+          "question_wordNum": 5,
+          "answer": "제주산 생오리",
+          "answer_wordNum": 2,
+          "fact": [
+            "장군오리,전문,제주산 생오리"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 사용하나요?",
+          "question_wordNum": 4,
+          "answer": "HACCP 인증 제주산 오리",
+          "answer_wordNum": 4,
+          "fact": [
+            "장군오리,사용,HACCP 인증 제주산 오리"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "장군오리,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "생구이한마리, 샤브코스",
+          "answer_wordNum": 2,
+          "fact": [
+            "장군오리,메뉴,생구이한마리, 샤브코스"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "장군오리,영업시간,11:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "용머리해안, 사계해안",
+          "answer_wordNum": 2,
+          "fact": [
+            "장군오리,인접,용머리해안, 사계해안"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "용머리해안, 사계해안",
+          "answer_wordNum": 2,
+          "fact": [
+            "장군오리,인접,용머리해안, 사계해안"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 대정읍 일주서로2498번길 28 1층",
+          "answer_wordNum": 6,
+          "fact": [
+            "장군오리,주소,제주 서귀포시 대정읍 일주서로2498번길 28 1층"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "장군오리,영업시간,11:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 어디인가요?",
+          "question_wordNum": 3,
+          "answer": "식당",
+          "answer_wordNum": 1,
+          "fact": [
+            "장군오리,이다,식당"
+          ]
+        }
+      ]
+    }
+  ]
+}

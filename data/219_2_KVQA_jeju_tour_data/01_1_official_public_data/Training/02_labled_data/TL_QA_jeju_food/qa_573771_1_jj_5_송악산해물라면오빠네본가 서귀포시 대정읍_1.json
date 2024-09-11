@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "573771",
+    "travelType": "음식점",
+    "place": "송악산해물라면오빠네본가 서귀포시 대정읍",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "573771_1_jj_5_송악산해물라면오빠네본가 서귀포시 대정읍_1_001.png",
+      "mapx": 33.2084603123132,
+      "mapy": 126.291006945924,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "송악산해물라면오빠네본가(대정읍)",
+        "간판, 미닫이문, 의자"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "573771_1_jj_5_송악산해물라면오빠네본가 서귀포시 대정읍_1_002.png",
+      "mapx": 33.2084603123132,
+      "mapy": 126.291006945924,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "송악산해물라면오빠네본가(대정읍)",
+        "건물, 자동차"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "573771_1_jj_5_송악산해물라면오빠네본가 서귀포시 대정읍_1_003.png",
+      "mapx": 33.2084603123132,
+      "mapy": 126.291006945924,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "송악산해물라면오빠네본가(대정읍)",
+        "등받이 의자, 테이블"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "573771_1_jj_5_송악산해물라면오빠네본가 서귀포시 대정읍_1_004.png",
+      "mapx": 33.2084603123132,
+      "mapy": 126.291006945924,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "송악산해물라면오빠네본가(대정읍)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "573771_1_jj_5_송악산해물라면오빠네본가 서귀포시 대정읍_1_005.png",
+      "mapx": 33.2084603123132,
+      "mapy": 126.291006945924,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "송악산해물라면오빠네본가(대정읍)",
+        "해물라면"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 대정읍 형제해안로 296 1층 송악산해물라면오빠네본가",
+          "answer_wordNum": 7,
+          "fact": [
+            "송악산해물라면오빠네본가 서귀포시 대정읍,주소,제주 서귀포시 대정읍 형제해안로 296 1층 송악산해물라면오빠네본가"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "목",
+          "answer_wordNum": 1,
+          "fact": [
+            "송악산해물라면오빠네본가 서귀포시 대정읍,휴무일,목"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "송악산해물라면오빠네본가 서귀포시 대정읍,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "라면, 법",
+          "answer_wordNum": 2,
+          "fact": [
+            "송악산해물라면오빠네본가 서귀포시 대정읍,메뉴,라면, 법"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "CU, 신협",
+          "answer_wordNum": 2,
+          "fact": [
+            "송악산해물라면오빠네본가 서귀포시 대정읍,인접,CU, 신협"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "라면, 법",
+          "answer_wordNum": 2,
+          "fact": [
+            "송악산해물라면오빠네본가 서귀포시 대정읍,메뉴,라면, 법"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "송악산해물라면오빠네본가 서귀포시 대정읍,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 대정읍 형제해안로 296 1층 송악산해물라면오빠네본가",
+          "answer_wordNum": 7,
+          "fact": [
+            "송악산해물라면오빠네본가 서귀포시 대정읍,주소,제주 서귀포시 대정읍 형제해안로 296 1층 송악산해물라면오빠네본가"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1480-0194",
+          "answer_wordNum": 1,
+          "fact": [
+            "송악산해물라면오빠네본가 서귀포시 대정읍,연락처,0507-1480-0194"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "송악산해물라면오빠네본가 서귀포시 대정읍,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "송악산해물라면오빠네본가 서귀포시 대정읍,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "CU, 신협",
+          "answer_wordNum": 2,
+          "fact": [
+            "송악산해물라면오빠네본가 서귀포시 대정읍,인접,CU, 신협"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "송악산해물라면오빠네본가 서귀포시 대정읍,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "CU, 신협",
+          "answer_wordNum": 2,
+          "fact": [
+            "송악산해물라면오빠네본가 서귀포시 대정읍,인접,CU, 신협"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "송악산해물라면오빠네본가 서귀포시 대정읍,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 대정읍 형제해안로 296 1층 송악산해물라면오빠네본가",
+          "answer_wordNum": 7,
+          "fact": [
+            "송악산해물라면오빠네본가 서귀포시 대정읍,주소,제주 서귀포시 대정읍 형제해안로 296 1층 송악산해물라면오빠네본가"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "CU, 신협",
+          "answer_wordNum": 2,
+          "fact": [
+            "송악산해물라면오빠네본가 서귀포시 대정읍,인접,CU, 신협"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "송악산해물라면오빠네본가 서귀포시 대정읍,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1480-0194",
+          "answer_wordNum": 1,
+          "fact": [
+            "송악산해물라면오빠네본가 서귀포시 대정읍,연락처,0507-1480-0194"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 대정읍 형제해안로 296 1층 송악산해물라면오빠네본가",
+          "answer_wordNum": 7,
+          "fact": [
+            "송악산해물라면오빠네본가 서귀포시 대정읍,주소,제주 서귀포시 대정읍 형제해안로 296 1층 송악산해물라면오빠네본가"
+          ]
+        }
+      ]
+    }
+  ]
+}

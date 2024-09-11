@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "573212",
+    "travelType": "음식점",
+    "place": "장가네해장국",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "573212_1_jj_5_장가네해장국_2_001.png",
+      "mapx": 33.2502964664323,
+      "mapy": 126.424009253413,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "장가네해장국(중문동)",
+        "건물, 간판, 미닫이문, 테이블, 화분, 계단"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "573212_1_jj_5_장가네해장국_2_002.png",
+      "mapx": 33.2502964664323,
+      "mapy": 126.424009253413,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "장가네해장국(중문동)",
+        "미닫이문, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "573212_1_jj_5_장가네해장국_2_003.png",
+      "mapx": 33.2502964664323,
+      "mapy": 126.424009253413,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "장가네해장국(중문동)",
+        "테이블, 등받이의자, 냉장고, 화분, 수저통, 휴지"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "573212_1_jj_5_장가네해장국_2_004.png",
+      "mapx": 33.2502964664323,
+      "mapy": 126.424009253413,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "장가네해장국(중문동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "573212_1_jj_5_장가네해장국_2_005.png",
+      "mapx": 33.2502964664323,
+      "mapy": 126.424009253413,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "장가네해장국(중문동)",
+        "갈비탕, 공깃밥, 숟가락, 젓가락, 배추김치, 청양고추, 깍두기, 다진마늘, 쌈장"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "갈비탕, 해장국",
+          "answer_wordNum": 2,
+          "fact": [
+            "장가네해장국,메뉴,갈비탕, 해장국"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "06:30/17:30-23:30",
+          "answer_wordNum": 1,
+          "fact": [
+            "장가네해장국,영업시간,06:30/17:30-23:30"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "중문향토 오일시장, 중문막썰어횟집",
+          "answer_wordNum": 3,
+          "fact": [
+            "장가네해장국,인접,중문향토 오일시장, 중문막썰어횟집"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 중문상로17번길 4 공연장",
+          "answer_wordNum": 5,
+          "fact": [
+            "장가네해장국,주소,제주 서귀포시 중문상로17번길 4 공연장"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "중문향토 오일시장, 중문막썰어횟집",
+          "answer_wordNum": 3,
+          "fact": [
+            "장가네해장국,인접,중문향토 오일시장, 중문막썰어횟집"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "장가네해장국,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-739-5508",
+          "answer_wordNum": 1,
+          "fact": [
+            "장가네해장국,연락처,064-739-5508"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 중문상로17번길 4 공연장",
+          "answer_wordNum": 5,
+          "fact": [
+            "장가네해장국,주소,제주 서귀포시 중문상로17번길 4 공연장"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-739-5508",
+          "answer_wordNum": 1,
+          "fact": [
+            "장가네해장국,연락처,064-739-5508"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "장가네해장국,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "갈비탕, 해장국",
+          "answer_wordNum": 2,
+          "fact": [
+            "장가네해장국,메뉴,갈비탕, 해장국"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "장가네해장국,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "06:30/17:30-23:30",
+          "answer_wordNum": 1,
+          "fact": [
+            "장가네해장국,영업시간,06:30/17:30-23:30"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "갈비탕, 해장국",
+          "answer_wordNum": 2,
+          "fact": [
+            "장가네해장국,메뉴,갈비탕, 해장국"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "중문향토 오일시장, 중문막썰어횟집",
+          "answer_wordNum": 3,
+          "fact": [
+            "장가네해장국,인접,중문향토 오일시장, 중문막썰어횟집"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 중문상로17번길 4 공연장",
+          "answer_wordNum": 5,
+          "fact": [
+            "장가네해장국,주소,제주 서귀포시 중문상로17번길 4 공연장"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "장가네해장국,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "장가네해장국,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "갈비탕, 해장국",
+          "answer_wordNum": 2,
+          "fact": [
+            "장가네해장국,메뉴,갈비탕, 해장국"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 중문상로17번길 4 공연장",
+          "answer_wordNum": 5,
+          "fact": [
+            "장가네해장국,주소,제주 서귀포시 중문상로17번길 4 공연장"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "574723",
+    "travelType": "음식점",
+    "place": "화성식당",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "574723_1_jj_5_화성식당_4_001.png",
+      "mapx": 33.5213796290571,
+      "mapy": 126.586027395791,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "화성식당(삼양이동)",
+        "간판, 어닝"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "574723_1_jj_5_화성식당_4_002.png",
+      "mapx": 33.5213796290571,
+      "mapy": 126.586027395791,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "화성식당(삼양이동)",
+        "간판, 어닝, 건물, 라바콘, 자동문"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "574723_1_jj_5_화성식당_4_003.png",
+      "mapx": 33.5213796290571,
+      "mapy": 126.586027395791,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "화성식당(삼양이동)",
+        "등받이의자,테이블, 조명, 파라솔, 와인병, 선반"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "574723_1_jj_5_화성식당_4_004.png",
+      "mapx": 33.5213796290571,
+      "mapy": 126.586027395791,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "화성식당(삼양이동)",
+        "차림표, 액자"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "574723_1_jj_5_화성식당_4_005.png",
+      "mapx": 33.5213796290571,
+      "mapy": 126.586027395791,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "화성식당(삼양이동)",
+        "고등어회, 반찬, 접시"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "10:00-14:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "화성식당,영업시간,10:00-14:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-755-0285",
+          "answer_wordNum": 1,
+          "fact": [
+            "화성식당,연락처,064-755-0285"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 일주동로 383",
+          "answer_wordNum": 4,
+          "fact": [
+            "화성식당,주소,제주 제주시 일주동로 383"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "삼양해수욕장, 롯데시네마 제주삼화지구",
+          "answer_wordNum": 3,
+          "fact": [
+            "화성식당,인접,삼양해수욕장, 롯데시네마 제주삼화지구"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-755-0285",
+          "answer_wordNum": 1,
+          "fact": [
+            "화성식당,연락처,064-755-0285"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 일주동로 383",
+          "answer_wordNum": 4,
+          "fact": [
+            "화성식당,주소,제주 제주시 일주동로 383"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "삼양해수욕장, 롯데시네마 제주삼화지구",
+          "answer_wordNum": 3,
+          "fact": [
+            "화성식당,인접,삼양해수욕장, 롯데시네마 제주삼화지구"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "화성식당,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 일주동로 383",
+          "answer_wordNum": 4,
+          "fact": [
+            "화성식당,주소,제주 제주시 일주동로 383"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "삼양해수욕장, 롯데시네마 제주삼화지구",
+          "answer_wordNum": 3,
+          "fact": [
+            "화성식당,인접,삼양해수욕장, 롯데시네마 제주삼화지구"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "화성식당,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "접짝뼈국, 갈치국",
+          "answer_wordNum": 2,
+          "fact": [
+            "화성식당,메뉴,접짝뼈국, 갈치국"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "삼양해수욕장, 롯데시네마 제주삼화지구",
+          "answer_wordNum": 3,
+          "fact": [
+            "화성식당,인접,삼양해수욕장, 롯데시네마 제주삼화지구"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "화성식당,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "접짝뼈국, 갈치국",
+          "answer_wordNum": 2,
+          "fact": [
+            "화성식당,메뉴,접짝뼈국, 갈치국"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "화성식당,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "접짝뼈국, 갈치국",
+          "answer_wordNum": 2,
+          "fact": [
+            "화성식당,메뉴,접짝뼈국, 갈치국"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "화성식당,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:00-14:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "화성식당,영업시간,10:00-14:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-755-0285",
+          "answer_wordNum": 1,
+          "fact": [
+            "화성식당,연락처,064-755-0285"
+          ]
+        }
+      ]
+    }
+  ]
+}

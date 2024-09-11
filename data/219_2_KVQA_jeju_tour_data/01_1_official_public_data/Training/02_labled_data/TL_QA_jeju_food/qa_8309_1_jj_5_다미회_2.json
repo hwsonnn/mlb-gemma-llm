@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "8309",
+    "travelType": "음식점",
+    "place": "다미회",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "8309_1_jj_5_다미회_2_001.png",
+      "mapx": 33.500666666667,
+      "mapy": 126.53116666667,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "다미회(이도이동)",
+        "여닫이문, 간판, 실외기, 현수막"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "8309_1_jj_5_다미회_2_002.png",
+      "mapx": 33.5004561382703,
+      "mapy": 126.531223691712,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "다미회(이도이동)",
+        "간판, 건물, 실외기, 여닫이 문"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "8309_1_jj_5_다미회_2_003.png",
+      "mapx": 33.5004561382703,
+      "mapy": 126.531223691712,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "다미회(이도이동)",
+        "등받이 의자, 테이블, 조명, 주류, 선풍기"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "8309_1_jj_5_다미회_2_004.png",
+      "mapx": 33.5004561382703,
+      "mapy": 126.531223691712,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "다미회(이도이동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "8309_1_jj_5_다미회_2_005.png",
+      "mapx": 33.5004873,
+      "mapy": 126.53117819972,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "다미회(이도이동)",
+        "해산물"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "다미회,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주특별자치도 제주시 동광로2길 9-4",
+          "answer_wordNum": 4,
+          "fact": [
+            "다미회,주소,제주특별자치도 제주시 동광로2길 9-4"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "다미회,휴무일,매주 일요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:30 ~ 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "다미회,영업시간,11:30 ~ 22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:30 ~ 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "다미회,영업시간,11:30 ~ 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "다미회,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-722-0726",
+          "answer_wordNum": 1,
+          "fact": [
+            "다미회,연락처,064-722-0726"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주특별자치도 제주시 동광로2길 9-4",
+          "answer_wordNum": 4,
+          "fact": [
+            "다미회,주소,제주특별자치도 제주시 동광로2길 9-4"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주특별자치도 제주시 동광로2길 9-4",
+          "answer_wordNum": 4,
+          "fact": [
+            "다미회,주소,제주특별자치도 제주시 동광로2길 9-4"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "모듬사시미, 삼치회",
+          "answer_wordNum": 2,
+          "fact": [
+            "다미회,메뉴,모듬사시미, 삼치회"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:30 ~ 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "다미회,영업시간,11:30 ~ 22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "다미회,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주특별자치도 제주시 동광로2길 9-4",
+          "answer_wordNum": 4,
+          "fact": [
+            "다미회,주소,제주특별자치도 제주시 동광로2길 9-4"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-722-0726",
+          "answer_wordNum": 1,
+          "fact": [
+            "다미회,연락처,064-722-0726"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "모듬사시미, 삼치회",
+          "answer_wordNum": 2,
+          "fact": [
+            "다미회,메뉴,모듬사시미, 삼치회"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:30 ~ 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "다미회,영업시간,11:30 ~ 22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주특별자치도 제주시 동광로2길 9-4",
+          "answer_wordNum": 4,
+          "fact": [
+            "다미회,주소,제주특별자치도 제주시 동광로2길 9-4"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-722-0726",
+          "answer_wordNum": 1,
+          "fact": [
+            "다미회,연락처,064-722-0726"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "다미회,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "다미회,휴무일,매주 일요일"
+          ]
+        }
+      ]
+    }
+  ]
+}

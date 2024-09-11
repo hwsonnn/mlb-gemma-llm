@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "615151",
+    "travelType": "음식점",
+    "place": "미풍해장국 연동점",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "615151_1_jj_5_미풍해장국 연동점_1_001.png",
+      "mapx": 33.4892399570733,
+      "mapy": 126.489598285509,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "미풍해장국 연동점(연동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "615151_1_jj_5_미풍해장국 연동점_1_002.png",
+      "mapx": 33.4892399570733,
+      "mapy": 126.489598285509,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "미풍해장국 연동점(연동)",
+        "간판, 건물, 자동차"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "615151_1_jj_5_미풍해장국 연동점_1_003.png",
+      "mapx": 33.4892399570733,
+      "mapy": 126.489598285509,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "미풍해장국 연동점(연동)",
+        "등받이의자, 테이블, 냉장고"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "615151_1_jj_5_미풍해장국 연동점_1_004.png",
+      "mapx": 33.4892399570733,
+      "mapy": 126.489598285509,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "미풍해장국 연동점(연동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "615151_1_jj_5_미풍해장국 연동점_1_005.png",
+      "mapx": 33.4892399570733,
+      "mapy": 126.489598285509,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "미풍해장국 연동점(연동)",
+        "해장국, 뚝배기, 접시"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "00:00 - 24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "미풍해장국 연동점,영업시간,00:00 - 24:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-745-0559",
+          "answer_wordNum": 1,
+          "fact": [
+            "미풍해장국 연동점,연락처,064-745-0559"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "미풍해장국 연동점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 제원길 7",
+          "answer_wordNum": 4,
+          "fact": [
+            "미풍해장국 연동점,주소,제주 제주시 제원길 7"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳은 무엇이 가능하나요?",
+          "question_wordNum": 4,
+          "answer": "리필",
+          "answer_wordNum": 1,
+          "fact": [
+            "미풍해장국 연동점,가능,리필"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "미풍해장국 연동점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 제원길 7",
+          "answer_wordNum": 4,
+          "fact": [
+            "미풍해장국 연동점,주소,제주 제주시 제원길 7"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "미풍해장국, 고등어회",
+          "answer_wordNum": 2,
+          "fact": [
+            "미풍해장국 연동점,메뉴,미풍해장국, 고등어회"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "미풍해장국 연동점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 제원길 7",
+          "answer_wordNum": 4,
+          "fact": [
+            "미풍해장국 연동점,주소,제주 제주시 제원길 7"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "미풍해장국, 고등어회",
+          "answer_wordNum": 2,
+          "fact": [
+            "미풍해장국 연동점,메뉴,미풍해장국, 고등어회"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "00:00 - 24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "미풍해장국 연동점,영업시간,00:00 - 24:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "88돼지, 청산에살자",
+          "answer_wordNum": 2,
+          "fact": [
+            "미풍해장국 연동점,인접,88돼지, 청산에살자"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "미풍해장국, 고등어회",
+          "answer_wordNum": 2,
+          "fact": [
+            "미풍해장국 연동점,메뉴,미풍해장국, 고등어회"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "00:00 - 24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "미풍해장국 연동점,영업시간,00:00 - 24:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 무엇이 가능하나요?",
+          "question_wordNum": 4,
+          "answer": "리필",
+          "answer_wordNum": 1,
+          "fact": [
+            "미풍해장국 연동점,가능,리필"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-745-0559",
+          "answer_wordNum": 1,
+          "fact": [
+            "미풍해장국 연동점,연락처,064-745-0559"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "00:00 - 24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "미풍해장국 연동점,영업시간,00:00 - 24:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳은 무엇이 가능하나요?",
+          "question_wordNum": 4,
+          "answer": "리필",
+          "answer_wordNum": 1,
+          "fact": [
+            "미풍해장국 연동점,가능,리필"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "미풍해장국 연동점,주차시설,있음"
+          ]
+        }
+      ]
+    }
+  ]
+}

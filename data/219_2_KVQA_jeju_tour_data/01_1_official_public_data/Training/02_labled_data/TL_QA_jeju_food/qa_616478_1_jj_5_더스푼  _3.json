@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "616478",
+    "travelType": "음식점",
+    "place": "더스푼  ",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "616478_1_jj_5_더스푼  _3_001.png",
+      "mapx": 33.4934020866382,
+      "mapy": 126.541151003242,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "더스푼(아라이동)",
+        "조명, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "616478_1_jj_5_더스푼  _3_002.png",
+      "mapx": 33.4934020866382,
+      "mapy": 126.541151003242,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "더스푼(아라이동)",
+        "자동차, 건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "616478_1_jj_5_더스푼  _3_003.png",
+      "mapx": 33.4934020866382,
+      "mapy": 126.541151003242,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "더스푼(아라이동)",
+        "등받이의자, 테이블"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "616478_1_jj_5_더스푼  _3_004.png",
+      "mapx": 33.4934020866382,
+      "mapy": 126.541151003242,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "더스푼(아라이동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "616478_1_jj_5_더스푼  _3_005.png",
+      "mapx": 33.4934020866382,
+      "mapy": 126.541151003242,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "더스푼(아라이동)",
+        "파스타"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 구남동1길 45 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "더스푼,주소,제주 제주시 구남동1길 45 1층"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1404-1324",
+          "answer_wordNum": 1,
+          "fact": [
+            "더스푼,연락처,0507-1404-1324"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "티라미수, 명란타르트",
+          "answer_wordNum": 2,
+          "fact": [
+            "더스푼,메뉴,티라미수, 명란타르트"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 월요일, 화요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "더스푼,휴무일,매주 월요일, 화요일"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "돈풍년갈비, 황금손가락, 설빙, 플레이리스트",
+          "answer_wordNum": 4,
+          "fact": [
+            "더스푼,인접,돈풍년갈비, 황금손가락, 설빙, 플레이리스트"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "더스푼,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 구남동1길 45 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "더스푼,주소,제주 제주시 구남동1길 45 1층"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 월요일, 화요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "더스푼,휴무일,매주 월요일, 화요일"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1404-1324",
+          "answer_wordNum": 1,
+          "fact": [
+            "더스푼,연락처,0507-1404-1324"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "더스푼,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 월요일, 화요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "더스푼,휴무일,매주 월요일, 화요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "티라미수, 명란타르트",
+          "answer_wordNum": 2,
+          "fact": [
+            "더스푼,메뉴,티라미수, 명란타르트"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1404-1324",
+          "answer_wordNum": 1,
+          "fact": [
+            "더스푼,연락처,0507-1404-1324"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "더스푼,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "12:00-22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "더스푼,영업시간,12:00-22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "티라미수, 명란타르트",
+          "answer_wordNum": 2,
+          "fact": [
+            "더스푼,메뉴,티라미수, 명란타르트"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1404-1324",
+          "answer_wordNum": 1,
+          "fact": [
+            "더스푼,연락처,0507-1404-1324"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "더스푼,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 구남동1길 45 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "더스푼,주소,제주 제주시 구남동1길 45 1층"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 월요일, 화요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "더스푼,휴무일,매주 월요일, 화요일"
+          ]
+        }
+      ]
+    }
+  ]
+}

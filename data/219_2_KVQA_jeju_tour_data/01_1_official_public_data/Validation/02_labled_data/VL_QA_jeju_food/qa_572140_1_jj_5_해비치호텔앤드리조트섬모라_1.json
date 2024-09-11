@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "572140",
+    "travelType": "음식점",
+    "place": "해비치호텔앤드리조트섬모라",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "572140_1_jj_5_해비치호텔앤드리조트섬모라_1_001.png",
+      "mapx": 33.3225989591113,
+      "mapy": 126.843977586306,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "해비치호텔앤드리조트섬모라(표선면)",
+        "조리대"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "572140_1_jj_5_해비치호텔앤드리조트섬모라_1_002.png",
+      "mapx": 33.3225989591113,
+      "mapy": 126.843977586306,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "해비치호텔앤드리조트섬모라(표선면)",
+        "건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "572140_1_jj_5_해비치호텔앤드리조트섬모라_1_003.png",
+      "mapx": 33.3225989591113,
+      "mapy": 126.843977586306,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "해비치호텔앤드리조트섬모라(표선면)",
+        "테이블, 등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "572140_1_jj_5_해비치호텔앤드리조트섬모라_1_004.png",
+      "mapx": 33.3225989591113,
+      "mapy": 126.843977586306,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "해비치호텔앤드리조트섬모라(표선면)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "572140_1_jj_5_해비치호텔앤드리조트섬모라_1_005.png",
+      "mapx": 33.3225989591113,
+      "mapy": 126.843977586306,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "해비치호텔앤드리조트섬모라(표선면)",
+        "케이크"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 표선면 민속해안로 537",
+          "answer_wordNum": 5,
+          "fact": [
+            "해비치호텔앤드리조트섬모라,주소,제주 서귀포시 표선면 민속해안로 537"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "해비치호텔앤드리조트섬모라,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "제주해비치리조트모루, 해비치호텔앤드리조트",
+          "answer_wordNum": 2,
+          "fact": [
+            "해비치호텔앤드리조트섬모라,인접,제주해비치리조트모루, 해비치호텔앤드리조트"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "해비치호텔앤드리조트섬모라,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "초밥, 샐러드",
+          "answer_wordNum": 2,
+          "fact": [
+            "해비치호텔앤드리조트섬모라,메뉴,초밥, 샐러드"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-780-8322",
+          "answer_wordNum": 1,
+          "fact": [
+            "해비치호텔앤드리조트섬모라,연락처,064-780-8322"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "07:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "해비치호텔앤드리조트섬모라,영업시간,07:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "해비치호텔앤드리조트섬모라,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "제주해비치리조트모루, 해비치호텔앤드리조트",
+          "answer_wordNum": 2,
+          "fact": [
+            "해비치호텔앤드리조트섬모라,인접,제주해비치리조트모루, 해비치호텔앤드리조트"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "초밥, 샐러드",
+          "answer_wordNum": 2,
+          "fact": [
+            "해비치호텔앤드리조트섬모라,메뉴,초밥, 샐러드"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 표선면 민속해안로 537",
+          "answer_wordNum": 5,
+          "fact": [
+            "해비치호텔앤드리조트섬모라,주소,제주 서귀포시 표선면 민속해안로 537"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "해비치호텔앤드리조트섬모라,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "제주해비치리조트모루, 해비치호텔앤드리조트",
+          "answer_wordNum": 2,
+          "fact": [
+            "해비치호텔앤드리조트섬모라,인접,제주해비치리조트모루, 해비치호텔앤드리조트"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "초밥, 샐러드",
+          "answer_wordNum": 2,
+          "fact": [
+            "해비치호텔앤드리조트섬모라,메뉴,초밥, 샐러드"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 표선면 민속해안로 537",
+          "answer_wordNum": 5,
+          "fact": [
+            "해비치호텔앤드리조트섬모라,주소,제주 서귀포시 표선면 민속해안로 537"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "07:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "해비치호텔앤드리조트섬모라,영업시간,07:00 - 22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "07:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "해비치호텔앤드리조트섬모라,영업시간,07:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "해비치호텔앤드리조트섬모라,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "해비치호텔앤드리조트섬모라,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "제주해비치리조트모루, 해비치호텔앤드리조트",
+          "answer_wordNum": 2,
+          "fact": [
+            "해비치호텔앤드리조트섬모라,인접,제주해비치리조트모루, 해비치호텔앤드리조트"
+          ]
+        }
+      ]
+    }
+  ]
+}

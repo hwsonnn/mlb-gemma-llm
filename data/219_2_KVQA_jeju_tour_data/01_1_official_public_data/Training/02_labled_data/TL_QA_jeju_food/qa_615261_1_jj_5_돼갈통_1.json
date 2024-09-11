@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "615261",
+    "travelType": "음식점",
+    "place": "돼갈통",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "615261_1_jj_5_돼갈통_1_001.png",
+      "mapx": 33.4902902185453,
+      "mapy": 126.491637438494,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "돼갈통(연동)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "615261_1_jj_5_돼갈통_1_002.png",
+      "mapx": 33.4902902185453,
+      "mapy": 126.491637438494,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "돼갈통(연동)",
+        "여닫이문, 간판, 건물, 메뉴판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "615261_1_jj_5_돼갈통_1_003.png",
+      "mapx": 33.4902902185453,
+      "mapy": 126.491637438494,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "돼갈통(연동)",
+        "테이블, 등받이 의자, 냉장고"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "615261_1_jj_5_돼갈통_1_004.png",
+      "mapx": 33.4902902185453,
+      "mapy": 126.491637438494,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "돼갈통(연동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "615261_1_jj_5_돼갈통_1_005.png",
+      "mapx": 33.4902902185453,
+      "mapy": 126.491637438494,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "돼갈통(연동)",
+        "치킨, 접시, 떡, 양파"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "돼갈통,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "돼갈통,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1497-9307",
+          "answer_wordNum": 1,
+          "fact": [
+            "돼갈통,연락처,0507-1497-9307"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "삼무곱창, 솔비식당",
+          "answer_wordNum": 2,
+          "fact": [
+            "돼갈통,인접,삼무곱창, 솔비식당"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳에서는 무엇을 제공하나요?",
+          "question_wordNum": 4,
+          "answer": "갈비소스, 매운소스, 와사비, 코우슬로소스",
+          "answer_wordNum": 4,
+          "fact": [
+            "돼갈통,제공,갈비소스, 매운소스, 와사비, 코우슬로소스"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "블랙페퍼 DGT, 매운양념DGT",
+          "answer_wordNum": 3,
+          "fact": [
+            "돼갈통,메뉴,블랙페퍼 DGT, 매운양념DGT"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "돼갈통,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 삼무로3길 39 1층 101호",
+          "answer_wordNum": 6,
+          "fact": [
+            "돼갈통,주소,제주 제주시 삼무로3길 39 1층 101호"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "16:00 - 23:40",
+          "answer_wordNum": 3,
+          "fact": [
+            "돼갈통,영업시간,16:00 - 23:40"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "돼갈통,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1497-9307",
+          "answer_wordNum": 1,
+          "fact": [
+            "돼갈통,연락처,0507-1497-9307"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳에서는 무엇을 제공하나요?",
+          "question_wordNum": 4,
+          "answer": "갈비소스, 매운소스, 와사비, 코우슬로소스",
+          "answer_wordNum": 4,
+          "fact": [
+            "돼갈통,제공,갈비소스, 매운소스, 와사비, 코우슬로소스"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 삼무로3길 39 1층 101호",
+          "answer_wordNum": 6,
+          "fact": [
+            "돼갈통,주소,제주 제주시 삼무로3길 39 1층 101호"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1497-9307",
+          "answer_wordNum": 1,
+          "fact": [
+            "돼갈통,연락처,0507-1497-9307"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "삼무곱창, 솔비식당",
+          "answer_wordNum": 2,
+          "fact": [
+            "돼갈통,인접,삼무곱창, 솔비식당"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "돼갈통,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "돼갈통,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "16:00 - 23:40",
+          "answer_wordNum": 3,
+          "fact": [
+            "돼갈통,영업시간,16:00 - 23:40"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에서는 무엇을 제공하나요?",
+          "question_wordNum": 4,
+          "answer": "갈비소스, 매운소스, 와사비, 코우슬로소스",
+          "answer_wordNum": 4,
+          "fact": [
+            "돼갈통,제공,갈비소스, 매운소스, 와사비, 코우슬로소스"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "블랙페퍼 DGT, 매운양념DGT",
+          "answer_wordNum": 3,
+          "fact": [
+            "돼갈통,메뉴,블랙페퍼 DGT, 매운양념DGT"
+          ]
+        }
+      ]
+    }
+  ]
+}

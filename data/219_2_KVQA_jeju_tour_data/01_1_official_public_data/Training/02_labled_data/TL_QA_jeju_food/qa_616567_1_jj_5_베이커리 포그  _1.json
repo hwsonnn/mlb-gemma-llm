@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "616567",
+    "travelType": "음식점",
+    "place": "베이커리 포그  ",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "616567_1_jj_5_베이커리 포그  _1_001.png",
+      "mapx": 33.4746011408753,
+      "mapy": 126.544383180914,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "베이커리 포그(아라일동)",
+        "간판, 건물"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "616567_1_jj_5_베이커리 포그  _1_002.png",
+      "mapx": 33.4746011408753,
+      "mapy": 126.544383180914,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "베이커리 포그(아라일동)",
+        "건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "616567_1_jj_5_베이커리 포그  _1_003.png",
+      "mapx": 33.4746011408753,
+      "mapy": 126.544383180914,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "베이커리 포그(아라일동)",
+        "테이블, 등받이의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "616567_1_jj_5_베이커리 포그  _1_004.png",
+      "mapx": 33.4746011408753,
+      "mapy": 126.544383180914,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "베이커리 포그(아라일동)",
+        "차림표"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "616567_1_jj_5_베이커리 포그  _1_005.png",
+      "mapx": 33.4746011408753,
+      "mapy": 126.544383180914,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "베이커리 포그(아라일동)",
+        "쿠키, 쟁반"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-753-0452",
+          "answer_wordNum": 1,
+          "fact": [
+            "베이커리 포그,연락처,064-753-0452"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 화요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "베이커리 포그,휴무일,매주 화요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "베이커리 포그,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "08:30 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "베이커리 포그,영업시간,08:30 - 22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "베이커리 포그,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 화요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "베이커리 포그,휴무일,매주 화요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "심청이쌈밥, 명륜진사갈비",
+          "answer_wordNum": 2,
+          "fact": [
+            "베이커리 포그,인접,심청이쌈밥, 명륜진사갈비"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "08:30 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "베이커리 포그,영업시간,08:30 - 22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 화요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "베이커리 포그,휴무일,매주 화요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "심청이쌈밥, 명륜진사갈비",
+          "answer_wordNum": 2,
+          "fact": [
+            "베이커리 포그,인접,심청이쌈밥, 명륜진사갈비"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "베이커리 포그,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-753-0452",
+          "answer_wordNum": 1,
+          "fact": [
+            "베이커리 포그,연락처,064-753-0452"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 화요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "베이커리 포그,휴무일,매주 화요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-753-0452",
+          "answer_wordNum": 1,
+          "fact": [
+            "베이커리 포그,연락처,064-753-0452"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 아란7길 10",
+          "answer_wordNum": 4,
+          "fact": [
+            "베이커리 포그,주소,제주 제주시 아란7길 10"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "심청이쌈밥, 명륜진사갈비",
+          "answer_wordNum": 2,
+          "fact": [
+            "베이커리 포그,인접,심청이쌈밥, 명륜진사갈비"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-753-0452",
+          "answer_wordNum": 1,
+          "fact": [
+            "베이커리 포그,연락처,064-753-0452"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "심청이쌈밥, 명륜진사갈비",
+          "answer_wordNum": 2,
+          "fact": [
+            "베이커리 포그,인접,심청이쌈밥, 명륜진사갈비"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "베이커리 포그,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "아메리카노, 카페라떼",
+          "answer_wordNum": 2,
+          "fact": [
+            "베이커리 포그,메뉴,아메리카노, 카페라떼"
+          ]
+        }
+      ]
+    }
+  ]
+}

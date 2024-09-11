@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "574169",
+    "travelType": "음식점",
+    "place": "어조횟집",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "574169_1_jj_5_어조횟집_1_001.png",
+      "mapx": 33.4604365394976,
+      "mapy": 126.930814997917,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "어조횟집(성산읍)",
+        "간판, 미닫이 문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "574169_1_jj_5_어조횟집_1_002.png",
+      "mapx": 33.4604365394976,
+      "mapy": 126.930814997917,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "어조횟집(성산읍)",
+        "간판, 미닫이 문, 수조"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "574169_1_jj_5_어조횟집_1_003.png",
+      "mapx": 33.4604365394976,
+      "mapy": 126.930814997917,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "어조횟집(성산읍)",
+        "테이블, 등받이 의자, 좌식 테이블, TV, 거울"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "574169_1_jj_5_어조횟집_1_004.png",
+      "mapx": 33.4604365394976,
+      "mapy": 126.930814997917,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "어조횟집(성산읍)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "574169_1_jj_5_어조횟집_1_005.png",
+      "mapx": 33.4604365394976,
+      "mapy": 126.930814997917,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "어조횟집(성산읍)",
+        "회, 문어, 반찬"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "12:00-23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "어조횟집,영업시간,12:00-23:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "어조횟집,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 성산읍 일출로 233",
+          "answer_wordNum": 5,
+          "fact": [
+            "어조횟집,주소,제주 서귀포시 성산읍 일출로 233"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "팔도강산, 성산촌뚝배기, 만조이천쌀밥 제주성산점",
+          "answer_wordNum": 4,
+          "fact": [
+            "어조횟집,인접,팔도강산, 성산촌뚝배기, 만조이천쌀밥 제주성산점"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 성산읍 일출로 233",
+          "answer_wordNum": 5,
+          "fact": [
+            "어조횟집,주소,제주 서귀포시 성산읍 일출로 233"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "팔도강산, 성산촌뚝배기, 만조이천쌀밥 제주성산점",
+          "answer_wordNum": 4,
+          "fact": [
+            "어조횟집,인접,팔도강산, 성산촌뚝배기, 만조이천쌀밥 제주성산점"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "고등어회, 딱새우회",
+          "answer_wordNum": 2,
+          "fact": [
+            "어조횟집,메뉴,고등어회, 딱새우회"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "어조횟집,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 성산읍 일출로 233",
+          "answer_wordNum": 5,
+          "fact": [
+            "어조횟집,주소,제주 서귀포시 성산읍 일출로 233"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "팔도강산, 성산촌뚝배기, 만조이천쌀밥 제주성산점",
+          "answer_wordNum": 4,
+          "fact": [
+            "어조횟집,인접,팔도강산, 성산촌뚝배기, 만조이천쌀밥 제주성산점"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "고등어회, 딱새우회",
+          "answer_wordNum": 2,
+          "fact": [
+            "어조횟집,메뉴,고등어회, 딱새우회"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "어조횟집,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "고등어회, 딱새우회",
+          "answer_wordNum": 2,
+          "fact": [
+            "어조횟집,메뉴,고등어회, 딱새우회"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "어조횟집,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "팔도강산, 성산촌뚝배기, 만조이천쌀밥 제주성산점",
+          "answer_wordNum": 4,
+          "fact": [
+            "어조횟집,인접,팔도강산, 성산촌뚝배기, 만조이천쌀밥 제주성산점"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1495-4001",
+          "answer_wordNum": 1,
+          "fact": [
+            "어조횟집,연락처,0507-1495-4001"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "어조횟집,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "팔도강산, 성산촌뚝배기, 만조이천쌀밥 제주성산점",
+          "answer_wordNum": 4,
+          "fact": [
+            "어조횟집,인접,팔도강산, 성산촌뚝배기, 만조이천쌀밥 제주성산점"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "12:00-23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "어조횟집,영업시간,12:00-23:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "고등어회, 딱새우회",
+          "answer_wordNum": 2,
+          "fact": [
+            "어조횟집,메뉴,고등어회, 딱새우회"
+          ]
+        }
+      ]
+    }
+  ]
+}

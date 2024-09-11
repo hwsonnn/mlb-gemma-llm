@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "574693",
+    "travelType": "음식점",
+    "place": "우차도리 제주삼화점",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "574693_1_jj_5_우차도리 제주삼화점_1_001.png",
+      "mapx": 33.5144304877886,
+      "mapy": 126.578453515235,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우차도리 제주삼화점(도련일동)",
+        "간판, 건물, 계단, 나무, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "574693_1_jj_5_우차도리 제주삼화점_1_002.png",
+      "mapx": 33.5144304877886,
+      "mapy": 126.578453515235,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우차도리 제주삼화점(도련일동)",
+        "건물, 간판, 여닫이문, 가로등, 횡단보도"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "574693_1_jj_5_우차도리 제주삼화점_1_003.png",
+      "mapx": 33.5144304877886,
+      "mapy": 126.578453515235,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우차도리 제주삼화점(도련일동)",
+        "냉장고, 테이블, 등받이 의자, 연기 환풍구, 화분, 에어컨"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "574693_1_jj_5_우차도리 제주삼화점_1_004.png",
+      "mapx": 33.5144304877886,
+      "mapy": 126.578453515235,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우차도리 제주삼화점(도련일동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "574693_1_jj_5_우차도리 제주삼화점_1_005.png",
+      "mapx": 33.5144304877886,
+      "mapy": 126.578453515235,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우차도리 제주삼화점(도련일동)",
+        "우삼겹, 콩나물, 초밥"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "차돌박이, 우삼겹",
+          "answer_wordNum": 2,
+          "fact": [
+            "우차도리 제주삼화점,메뉴,차돌박이, 우삼겹"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우차도리 제주삼화점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-722-0175",
+          "answer_wordNum": 1,
+          "fact": [
+            "우차도리 제주삼화점,연락처,064-722-0175"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "맨드라미공원, 근린공원",
+          "answer_wordNum": 2,
+          "fact": [
+            "우차도리 제주삼화점,인접,맨드라미공원, 근린공원"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "16:00-23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "우차도리 제주삼화점,영업시간,16:00-23:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "맨드라미공원, 근린공원",
+          "answer_wordNum": 2,
+          "fact": [
+            "우차도리 제주삼화점,인접,맨드라미공원, 근린공원"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "차돌박이, 우삼겹",
+          "answer_wordNum": 2,
+          "fact": [
+            "우차도리 제주삼화점,메뉴,차돌박이, 우삼겹"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "둘째, 넷째 일요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "우차도리 제주삼화점,휴무일,둘째, 넷째 일요일"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "둘째, 넷째 일요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "우차도리 제주삼화점,휴무일,둘째, 넷째 일요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "맨드라미공원, 근린공원",
+          "answer_wordNum": 2,
+          "fact": [
+            "우차도리 제주삼화점,인접,맨드라미공원, 근린공원"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우차도리 제주삼화점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "16:00-23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "우차도리 제주삼화점,영업시간,16:00-23:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-722-0175",
+          "answer_wordNum": 1,
+          "fact": [
+            "우차도리 제주삼화점,연락처,064-722-0175"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 건주로6길 42",
+          "answer_wordNum": 4,
+          "fact": [
+            "우차도리 제주삼화점,주소,제주 제주시 건주로6길 42"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "맨드라미공원, 근린공원",
+          "answer_wordNum": 2,
+          "fact": [
+            "우차도리 제주삼화점,인접,맨드라미공원, 근린공원"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우차도리 제주삼화점,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "차돌박이, 우삼겹",
+          "answer_wordNum": 2,
+          "fact": [
+            "우차도리 제주삼화점,메뉴,차돌박이, 우삼겹"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 건주로6길 42",
+          "answer_wordNum": 4,
+          "fact": [
+            "우차도리 제주삼화점,주소,제주 제주시 건주로6길 42"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "16:00-23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "우차도리 제주삼화점,영업시간,16:00-23:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우차도리 제주삼화점,주차시설,있음"
+          ]
+        }
+      ]
+    }
+  ]
+}

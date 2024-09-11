@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "615591",
+    "travelType": "음식점",
+    "place": "그리너 제주인화점",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "615591_1_jj_5_그리너 제주인화점_1_001.png",
+      "mapx": 33.5083613256688,
+      "mapy": 126.540180928988,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "그리너 제주인화점(일도이동)",
+        "건물, 간판, 안내판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "615591_1_jj_5_그리너 제주인화점_1_002.png",
+      "mapx": 33.5083613256688,
+      "mapy": 126.540180928988,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "그리너 제주인화점(일도이동)",
+        "건물, 간판, 여닫이문, 안내판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "615591_1_jj_5_그리너 제주인화점_1_003.png",
+      "mapx": 33.5083613256688,
+      "mapy": 126.540180928988,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "그리너 제주인화점(일도이동)",
+        "테이블, 등받이 의자, 메뉴판, 화분"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "615591_1_jj_5_그리너 제주인화점_1_004.png",
+      "mapx": 33.5083613256688,
+      "mapy": 126.540180928988,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "그리너 제주인화점(일도이동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "615591_1_jj_5_그리너 제주인화점_1_005.png",
+      "mapx": 33.5083613256688,
+      "mapy": 126.540180928988,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "그리너 제주인화점(일도이동)",
+        "파스타, 컵, 쟁반"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "10:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "그리너 제주인화점,영업시간,10:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "그리너 제주인화점,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 고마로 67",
+          "answer_wordNum": 4,
+          "fact": [
+            "그리너 제주인화점,주소,제주 제주시 고마로 67"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 어떤 곳인가요?",
+          "question_wordNum": 4,
+          "answer": "샐러드 가게, 그릭요거트 가게",
+          "answer_wordNum": 4,
+          "fact": [
+            "그리너 제주인화점,이다,샐러드 가게, 그릭요거트 가게"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-759-0597",
+          "answer_wordNum": 1,
+          "fact": [
+            "그리너 제주인화점,연락처,064-759-0597"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "연어 아보카도 샐러드, 트리니티 파스타 샐러드",
+          "answer_wordNum": 6,
+          "fact": [
+            "그리너 제주인화점,메뉴,연어 아보카도 샐러드, 트리니티 파스타 샐러드"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "버무리떡볶이 제주일도점, BBQ치킨 제주인제점",
+          "answer_wordNum": 4,
+          "fact": [
+            "그리너 제주인화점,인접,버무리떡볶이 제주일도점, BBQ치킨 제주인제점"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 위치는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "인제 사거리",
+          "answer_wordNum": 2,
+          "fact": [
+            "그리너 제주인화점,위치,인제 사거리"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 고마로 67",
+          "answer_wordNum": 4,
+          "fact": [
+            "그리너 제주인화점,주소,제주 제주시 고마로 67"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "그리너 제주인화점,영업시간,10:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-759-0597",
+          "answer_wordNum": 1,
+          "fact": [
+            "그리너 제주인화점,연락처,064-759-0597"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "그리너 제주인화점,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "그리너 제주인화점,영업시간,10:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 고마로 67",
+          "answer_wordNum": 4,
+          "fact": [
+            "그리너 제주인화점,주소,제주 제주시 고마로 67"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "그리너 제주인화점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "주요 메뉴는 어떻게 되나요?",
+          "question_wordNum": 4,
+          "answer": "연어 아보카도 샐러드, 트리니티 파스타 샐러드",
+          "answer_wordNum": 6,
+          "fact": [
+            "그리너 제주인화점,메뉴,연어 아보카도 샐러드, 트리니티 파스타 샐러드"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-759-0597",
+          "answer_wordNum": 1,
+          "fact": [
+            "그리너 제주인화점,연락처,064-759-0597"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "연어 아보카도 샐러드, 트리니티 파스타 샐러드",
+          "answer_wordNum": 6,
+          "fact": [
+            "그리너 제주인화점,메뉴,연어 아보카도 샐러드, 트리니티 파스타 샐러드"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "그리너 제주인화점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "10:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "그리너 제주인화점,영업시간,10:00 - 22:00"
+          ]
+        }
+      ]
+    }
+  ]
+}

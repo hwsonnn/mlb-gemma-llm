@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "573403",
+    "travelType": "음식점",
+    "place": "돌미롱 흑돼지 그릴",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "573403_1_jj_5_돌미롱 흑돼지 그릴_1_001.png",
+      "mapx": 33.2336794657051,
+      "mapy": 126.489040381289,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "돌미롱 흑돼지 그릴(강정동)",
+        "건물, 창문, 간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "573403_1_jj_5_돌미롱 흑돼지 그릴_1_002.png",
+      "mapx": 33.2336794657051,
+      "mapy": 126.489040381289,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "돌미롱 흑돼지 그릴(강정동)",
+        "건물,창문, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "573403_1_jj_5_돌미롱 흑돼지 그릴_1_003.png",
+      "mapx": 33.2336794657051,
+      "mapy": 126.489040381289,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "돌미롱 흑돼지 그릴(강정동)",
+        "선풍기, 테이블, 등받이의자, 그릇"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "573403_1_jj_5_돌미롱 흑돼지 그릴_1_004.png",
+      "mapx": 33.2336794657051,
+      "mapy": 126.489040381289,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "돌미롱 흑돼지 그릴(강정동)",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "573403_1_jj_5_돌미롱 흑돼지 그릴_1_005.png",
+      "mapx": 33.2336794657051,
+      "mapy": 126.489040381289,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "돌미롱 흑돼지 그릴(강정동)",
+        "흑돼지 오겹살"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "돌미롱 흑돼지 그릴,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-739-0272",
+          "answer_wordNum": 1,
+          "fact": [
+            "돌미롱 흑돼지 그릴,연락처,064-739-0272"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "흑돼지 오겹살, 푸짐 海 해물라면",
+          "answer_wordNum": 5,
+          "fact": [
+            "돌미롱 흑돼지 그릴,메뉴,흑돼지 오겹살, 푸짐 海 해물라면"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 이어도로 684 돌미롱 흑돼지 그릴",
+          "answer_wordNum": 7,
+          "fact": [
+            "돌미롱 흑돼지 그릴,주소,제주 서귀포시 이어도로 684 돌미롱 흑돼지 그릴"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 이어도로 684 돌미롱 흑돼지 그릴",
+          "answer_wordNum": 7,
+          "fact": [
+            "돌미롱 흑돼지 그릴,주소,제주 서귀포시 이어도로 684 돌미롱 흑돼지 그릴"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "17:30 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "돌미롱 흑돼지 그릴,영업시간,17:30 - 22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "켄싱턴 리조트 서귀포점 야외정원",
+          "answer_wordNum": 4,
+          "fact": [
+            "돌미롱 흑돼지 그릴,인접,켄싱턴 리조트 서귀포점 야외정원"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-739-0272",
+          "answer_wordNum": 1,
+          "fact": [
+            "돌미롱 흑돼지 그릴,연락처,064-739-0272"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-739-0272",
+          "answer_wordNum": 1,
+          "fact": [
+            "돌미롱 흑돼지 그릴,연락처,064-739-0272"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "켄싱턴 리조트 서귀포점 야외정원",
+          "answer_wordNum": 4,
+          "fact": [
+            "돌미롱 흑돼지 그릴,인접,켄싱턴 리조트 서귀포점 야외정원"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 이어도로 684 돌미롱 흑돼지 그릴",
+          "answer_wordNum": 7,
+          "fact": [
+            "돌미롱 흑돼지 그릴,주소,제주 서귀포시 이어도로 684 돌미롱 흑돼지 그릴"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "돌미롱 흑돼지 그릴,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "돌미롱 흑돼지 그릴,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "켄싱턴 리조트 서귀포점 야외정원",
+          "answer_wordNum": 4,
+          "fact": [
+            "돌미롱 흑돼지 그릴,인접,켄싱턴 리조트 서귀포점 야외정원"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "17:30 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "돌미롱 흑돼지 그릴,영업시간,17:30 - 22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "흑돼지 오겹살, 푸짐 海 해물라면",
+          "answer_wordNum": 5,
+          "fact": [
+            "돌미롱 흑돼지 그릴,메뉴,흑돼지 오겹살, 푸짐 海 해물라면"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "켄싱턴 리조트 서귀포점 야외정원",
+          "answer_wordNum": 4,
+          "fact": [
+            "돌미롱 흑돼지 그릴,인접,켄싱턴 리조트 서귀포점 야외정원"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-739-0272",
+          "answer_wordNum": 1,
+          "fact": [
+            "돌미롱 흑돼지 그릴,연락처,064-739-0272"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "돌미롱 흑돼지 그릴,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 이어도로 684 돌미롱 흑돼지 그릴",
+          "answer_wordNum": 7,
+          "fact": [
+            "돌미롱 흑돼지 그릴,주소,제주 서귀포시 이어도로 684 돌미롱 흑돼지 그릴"
+          ]
+        }
+      ]
+    }
+  ]
+}

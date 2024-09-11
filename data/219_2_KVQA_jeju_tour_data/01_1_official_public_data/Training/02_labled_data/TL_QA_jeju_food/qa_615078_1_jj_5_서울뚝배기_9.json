@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "615078",
+    "travelType": "음식점",
+    "place": "서울뚝배기",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "615078_1_jj_5_서울뚝배기_9_001.png",
+      "mapx": 33.4807501315657,
+      "mapy": 126.496635580436,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "서울뚝배기(연동)",
+        "간판, 건물, 실외기, 수족관, 창문, 여닫이문, 화분"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "615078_1_jj_5_서울뚝배기_9_002.png",
+      "mapx": 33.4807501315657,
+      "mapy": 126.496635580436,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "서울뚝배기(연동)",
+        "간판, 건물, 자동차, 나무"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "615078_1_jj_5_서울뚝배기_9_003.png",
+      "mapx": 33.4807501315657,
+      "mapy": 126.496635580436,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "서울뚝배기(연동)",
+        "테이블, 등받이의자, 메뉴판, 선풍기, 에어컨, 냉장고"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "615078_1_jj_5_서울뚝배기_9_004.png",
+      "mapx": 33.4807501315657,
+      "mapy": 126.496635580436,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "서울뚝배기(연동)",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "615078_1_jj_5_서울뚝배기_9_005.png",
+      "mapx": 33.4807501315657,
+      "mapy": 126.496635580436,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "서울뚝배기(연동)",
+        "뚝배기, 밑반찬"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "서울뚝배기,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-712-4550",
+          "answer_wordNum": 1,
+          "fact": [
+            "서울뚝배기,연락처,064-712-4550"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "06:00 - 20:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "서울뚝배기,영업시간,06:00 - 20:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "연안식당, 유리네식당",
+          "answer_wordNum": 2,
+          "fact": [
+            "서울뚝배기,인접,연안식당, 유리네식당"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "전복뚝배기, 은갈치 조림",
+          "answer_wordNum": 3,
+          "fact": [
+            "서울뚝배기,메뉴,전복뚝배기, 은갈치 조림"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "서울뚝배기,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 아연로 10",
+          "answer_wordNum": 4,
+          "fact": [
+            "서울뚝배기,주소,제주 제주시 아연로 10"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "06:00 - 20:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "서울뚝배기,영업시간,06:00 - 20:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "연안식당, 유리네식당",
+          "answer_wordNum": 2,
+          "fact": [
+            "서울뚝배기,인접,연안식당, 유리네식당"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 아연로 10",
+          "answer_wordNum": 4,
+          "fact": [
+            "서울뚝배기,주소,제주 제주시 아연로 10"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "서울뚝배기,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "전복뚝배기, 은갈치 조림",
+          "answer_wordNum": 3,
+          "fact": [
+            "서울뚝배기,메뉴,전복뚝배기, 은갈치 조림"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "06:00 - 20:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "서울뚝배기,영업시간,06:00 - 20:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-712-4550",
+          "answer_wordNum": 1,
+          "fact": [
+            "서울뚝배기,연락처,064-712-4550"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "전복뚝배기, 은갈치 조림",
+          "answer_wordNum": 3,
+          "fact": [
+            "서울뚝배기,메뉴,전복뚝배기, 은갈치 조림"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "연안식당, 유리네식당",
+          "answer_wordNum": 2,
+          "fact": [
+            "서울뚝배기,인접,연안식당, 유리네식당"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "서울뚝배기,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-712-4550",
+          "answer_wordNum": 1,
+          "fact": [
+            "서울뚝배기,연락처,064-712-4550"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "서울뚝배기,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "연안식당, 유리네식당",
+          "answer_wordNum": 2,
+          "fact": [
+            "서울뚝배기,인접,연안식당, 유리네식당"
+          ]
+        }
+      ]
+    }
+  ]
+}

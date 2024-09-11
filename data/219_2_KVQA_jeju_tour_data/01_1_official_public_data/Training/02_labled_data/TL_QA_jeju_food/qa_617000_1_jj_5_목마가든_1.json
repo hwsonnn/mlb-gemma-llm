@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "617000",
+    "travelType": "음식점",
+    "place": "목마가든",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "617000_1_jj_5_목마가든_1_001.png",
+      "mapx": 33.5230845027868,
+      "mapy": 126.559587956001,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "목마가든(화북일동)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "617000_1_jj_5_목마가든_1_002.png",
+      "mapx": 33.5230845027868,
+      "mapy": 126.559587956001,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "목마가든(화북일동)",
+        "건물, 간판, 벤치, 화분"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "617000_1_jj_5_목마가든_1_003.png",
+      "mapx": 33.5230845027868,
+      "mapy": 126.559587956001,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "목마가든(화북일동)",
+        "테이블, 의자, 냉장고"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "617000_1_jj_5_목마가든_1_004.png",
+      "mapx": 33.5230845027868,
+      "mapy": 126.559587956001,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "목마가든(화북일동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "617000_1_jj_5_목마가든_1_005.png",
+      "mapx": 33.5230845027868,
+      "mapy": 126.559587956001,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "목마가든(화북일동)",
+        "소고기"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "곤을커피, 하나모터스",
+          "answer_wordNum": 2,
+          "fact": [
+            "목마가든,인접,곤을커피, 하나모터스"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "육회, 소금구이",
+          "answer_wordNum": 2,
+          "fact": [
+            "목마가든,메뉴,육회, 소금구이"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "목마가든,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-753-1855",
+          "answer_wordNum": 1,
+          "fact": [
+            "목마가든,연락처,064-753-1855"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "육회, 소금구이",
+          "answer_wordNum": 2,
+          "fact": [
+            "목마가든,메뉴,육회, 소금구이"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "곤을커피, 하나모터스",
+          "answer_wordNum": 2,
+          "fact": [
+            "목마가든,인접,곤을커피, 하나모터스"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "목마가든,영업시간,11:00~22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 곤을길 23 목마가든",
+          "answer_wordNum": 5,
+          "fact": [
+            "목마가든,주소,제주 제주시 곤을길 23 목마가든"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "둘째, 넷째 일요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "목마가든,휴무일,둘째, 넷째 일요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-753-1855",
+          "answer_wordNum": 1,
+          "fact": [
+            "목마가든,연락처,064-753-1855"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "목마가든,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "육회, 소금구이",
+          "answer_wordNum": 2,
+          "fact": [
+            "목마가든,메뉴,육회, 소금구이"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "육회, 소금구이",
+          "answer_wordNum": 2,
+          "fact": [
+            "목마가든,메뉴,육회, 소금구이"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 곤을길 23 목마가든",
+          "answer_wordNum": 5,
+          "fact": [
+            "목마가든,주소,제주 제주시 곤을길 23 목마가든"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "목마가든,영업시간,11:00~22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "곤을커피, 하나모터스",
+          "answer_wordNum": 2,
+          "fact": [
+            "목마가든,인접,곤을커피, 하나모터스"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "둘째, 넷째 일요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "목마가든,휴무일,둘째, 넷째 일요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "곤을커피, 하나모터스",
+          "answer_wordNum": 2,
+          "fact": [
+            "목마가든,인접,곤을커피, 하나모터스"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-753-1855",
+          "answer_wordNum": 1,
+          "fact": [
+            "목마가든,연락처,064-753-1855"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 곤을길 23 목마가든",
+          "answer_wordNum": 5,
+          "fact": [
+            "목마가든,주소,제주 제주시 곤을길 23 목마가든"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "616146",
+    "travelType": "음식점",
+    "place": "만나빵집",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "616146_1_jj_5_만나빵집_1_001.png",
+      "mapx": 33.493243668921,
+      "mapy": 126.897032147909,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "만나빵집(구좌읍)",
+        "간판, 여닫이문, 야외용의자, 화분, 입간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "616146_1_jj_5_만나빵집_1_002.png",
+      "mapx": 33.493243668921,
+      "mapy": 126.897032147909,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "만나빵집(구좌읍)",
+        "건물, 야외용테이블, 야외용의자, 나무, 우산, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "616146_1_jj_5_만나빵집_1_003.png",
+      "mapx": 33.493243668921,
+      "mapy": 126.897032147909,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "만나빵집(구좌읍)",
+        "빵, 화분, 진열장"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "616146_1_jj_5_만나빵집_1_004.png",
+      "mapx": 33.493243668921,
+      "mapy": 126.897032147909,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "만나빵집(구좌읍)",
+        "빵, 바구니, 가격표"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "616146_1_jj_5_만나빵집_1_005.png",
+      "mapx": 33.493243668921,
+      "mapy": 126.897032147909,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "만나빵집(구좌읍)",
+        "빵, 바구니, 진열장, 가격표"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "만나빵집,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "종달초등학교, 책약방",
+          "answer_wordNum": 2,
+          "fact": [
+            "만나빵집,인접,종달초등학교, 책약방"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1346-1885",
+          "answer_wordNum": 1,
+          "fact": [
+            "만나빵집,연락처,0507-1346-1885"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "종달리소금빵, 우유식빵",
+          "answer_wordNum": 2,
+          "fact": [
+            "만나빵집,메뉴,종달리소금빵, 우유식빵"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 토요일, 공휴일",
+          "answer_wordNum": 3,
+          "fact": [
+            "만나빵집,휴무일,매주 토요일, 공휴일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 구좌읍 종달로5길 5-1",
+          "answer_wordNum": 5,
+          "fact": [
+            "만나빵집,주소,제주 제주시 구좌읍 종달로5길 5-1"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "종달리소금빵, 우유식빵",
+          "answer_wordNum": 2,
+          "fact": [
+            "만나빵집,메뉴,종달리소금빵, 우유식빵"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00~16:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "만나빵집,영업시간,11:00~16:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:00~16:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "만나빵집,영업시간,11:00~16:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "종달리소금빵, 우유식빵",
+          "answer_wordNum": 2,
+          "fact": [
+            "만나빵집,메뉴,종달리소금빵, 우유식빵"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "만나빵집,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "종달초등학교, 책약방",
+          "answer_wordNum": 2,
+          "fact": [
+            "만나빵집,인접,종달초등학교, 책약방"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1346-1885",
+          "answer_wordNum": 1,
+          "fact": [
+            "만나빵집,연락처,0507-1346-1885"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 토요일, 공휴일",
+          "answer_wordNum": 3,
+          "fact": [
+            "만나빵집,휴무일,매주 토요일, 공휴일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "종달리소금빵, 우유식빵",
+          "answer_wordNum": 2,
+          "fact": [
+            "만나빵집,메뉴,종달리소금빵, 우유식빵"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00~16:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "만나빵집,영업시간,11:00~16:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 구좌읍 종달로5길 5-1",
+          "answer_wordNum": 5,
+          "fact": [
+            "만나빵집,주소,제주 제주시 구좌읍 종달로5길 5-1"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "종달리소금빵, 우유식빵",
+          "answer_wordNum": 2,
+          "fact": [
+            "만나빵집,메뉴,종달리소금빵, 우유식빵"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "만나빵집,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "종달초등학교, 책약방",
+          "answer_wordNum": 2,
+          "fact": [
+            "만나빵집,인접,종달초등학교, 책약방"
+          ]
+        }
+      ]
+    }
+  ]
+}

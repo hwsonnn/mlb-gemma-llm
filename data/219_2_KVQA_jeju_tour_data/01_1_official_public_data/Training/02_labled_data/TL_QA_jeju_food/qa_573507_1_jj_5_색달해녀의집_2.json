@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "573507",
+    "travelType": "음식점",
+    "place": "색달해녀의집",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "573507_1_jj_5_색달해녀의집_2_001.png",
+      "mapx": 33.2450403542925,
+      "mapy": 126.415599158242,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "색달해녀의집(색달동)",
+        "건물, 간판, 유리창, 계단, 풀"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "573507_1_jj_5_색달해녀의집_2_002.png",
+      "mapx": 33.2450403542925,
+      "mapy": 126.415599158242,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "색달해녀의집(색달동)",
+        "건물, 간판, 테이블, 의자, 유리창, 계단"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "573507_1_jj_5_색달해녀의집_2_003.png",
+      "mapx": 33.2450403542925,
+      "mapy": 126.415599158242,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "색달해녀의집(색달동)",
+        "테이블, 등받이 의자, 시계, 유리창"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "573507_1_jj_5_색달해녀의집_2_004.png",
+      "mapx": 33.2450403542925,
+      "mapy": 126.415599158242,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "색달해녀의집(색달동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "573507_1_jj_5_색달해녀의집_2_005.png",
+      "mapx": 33.2450403542925,
+      "mapy": 126.415599158242,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "색달해녀의집(색달동)",
+        "문어, 접시"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "위치는 어디인가요?",
+          "question_wordNum": 2,
+          "answer": "색달해변가 아래",
+          "answer_wordNum": 2,
+          "fact": [
+            "색달해녀의집,위치,색달해변가 아래"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "중문색달해수욕장야영장, 더클리프",
+          "answer_wordNum": 2,
+          "fact": [
+            "색달해녀의집,인접,중문색달해수욕장야영장, 더클리프"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 중문관광로 154-17",
+          "answer_wordNum": 4,
+          "fact": [
+            "색달해녀의집,주소,제주 서귀포시 중문관광로 154-17"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 먹을 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "해산물",
+          "answer_wordNum": 1,
+          "fact": [
+            "색달해녀의집,먹을수있다,해산물"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "색달해녀의집,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳은 무엇을 맛볼 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "회",
+          "answer_wordNum": 1,
+          "fact": [
+            "색달해녀의집,맛볼수있다,회"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "중문색달해수욕장야영장, 더클리프",
+          "answer_wordNum": 2,
+          "fact": [
+            "색달해녀의집,인접,중문색달해수욕장야영장, 더클리프"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 중문관광로 154-17",
+          "answer_wordNum": 4,
+          "fact": [
+            "색달해녀의집,주소,제주 서귀포시 중문관광로 154-17"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 맛볼 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "회",
+          "answer_wordNum": 1,
+          "fact": [
+            "색달해녀의집,맛볼수있다,회"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "색달해녀의집,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "12:00 - 16:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "색달해녀의집,영업시간,12:00 - 16:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 위치는 어디인가요?",
+          "question_wordNum": 4,
+          "answer": "색달해변가 아래",
+          "answer_wordNum": 2,
+          "fact": [
+            "색달해녀의집,위치,색달해변가 아래"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "해삼, 멍게",
+          "answer_wordNum": 2,
+          "fact": [
+            "색달해녀의집,메뉴,해삼, 멍게"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-738-6042",
+          "answer_wordNum": 1,
+          "fact": [
+            "색달해녀의집,연락처,064-738-6042"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "이 곳은 무엇이 있나요?",
+          "question_wordNum": 4,
+          "answer": "야외 테이블",
+          "answer_wordNum": 2,
+          "fact": [
+            "색달해녀의집,있다,야외 테이블"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "12:00 - 16:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "색달해녀의집,영업시간,12:00 - 16:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳에 주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "색달해녀의집,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "12:00 - 16:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "색달해녀의집,영업시간,12:00 - 16:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "해삼, 멍게",
+          "answer_wordNum": 2,
+          "fact": [
+            "색달해녀의집,메뉴,해삼, 멍게"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "색달해녀의집,휴무일,알수없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

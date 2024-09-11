@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "615277",
+    "travelType": "음식점",
+    "place": "흑돈 시범이네 접짝뼈국",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "615277_1_jj_5_흑돈 시범이네 접짝뼈국_1_001.png",
+      "mapx": 33.4847230778679,
+      "mapy": 126.46687869407,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "흑돈 시범이네 접짝뼈국(노형동)",
+        "간판, 여닫이문, 건물"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "615277_1_jj_5_흑돈 시범이네 접짝뼈국_1_002.png",
+      "mapx": 33.4847230778679,
+      "mapy": 126.46687869407,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "흑돈 시범이네 접짝뼈국(노형동)",
+        "건물, 현수막, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "615277_1_jj_5_흑돈 시범이네 접짝뼈국_1_003.png",
+      "mapx": 33.4847230778679,
+      "mapy": 126.46687869407,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "흑돈 시범이네 접짝뼈국(노형동)",
+        "테이블, 등받이 의자, 선반, 현수막"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "615277_1_jj_5_흑돈 시범이네 접짝뼈국_1_004.png",
+      "mapx": 33.4847230778679,
+      "mapy": 126.46687869407,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "흑돈 시범이네 접짝뼈국(노형동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "615277_1_jj_5_흑돈 시범이네 접짝뼈국_1_005.png",
+      "mapx": 33.4847230778679,
+      "mapy": 126.46687869407,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "흑돈 시범이네 접짝뼈국(노형동)",
+        "마늘, 삼겹살, 불판"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1357-7057",
+          "answer_wordNum": 1,
+          "fact": [
+            "흑돈 시범이네 접짝뼈국,연락처,0507-1357-7057"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "10:00~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "흑돈 시범이네 접짝뼈국,영업시간,10:00~22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 광평동로 65 흑돈 시범이네",
+          "answer_wordNum": 6,
+          "fact": [
+            "흑돈 시범이네 접짝뼈국,주소,제주 제주시 광평동로 65 흑돈 시범이네"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "흑돈 시범이네 접짝뼈국,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "중흥 S클래스 아파트, 진도새기, 맘스터치",
+          "answer_wordNum": 5,
+          "fact": [
+            "흑돈 시범이네 접짝뼈국,인접,중흥 S클래스 아파트, 진도새기, 맘스터치"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:00~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "흑돈 시범이네 접짝뼈국,영업시간,10:00~22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1357-7057",
+          "answer_wordNum": 1,
+          "fact": [
+            "흑돈 시범이네 접짝뼈국,연락처,0507-1357-7057"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "흑돈 시범이네 접짝뼈국,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "흑오겹살, 흑목살",
+          "answer_wordNum": 2,
+          "fact": [
+            "흑돈 시범이네 접짝뼈국,메뉴,흑오겹살, 흑목살"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "흑돈 시범이네 접짝뼈국,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "흑돈 시범이네 접짝뼈국,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 광평동로 65 흑돈 시범이네",
+          "answer_wordNum": 6,
+          "fact": [
+            "흑돈 시범이네 접짝뼈국,주소,제주 제주시 광평동로 65 흑돈 시범이네"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 광평동로 65 흑돈 시범이네",
+          "answer_wordNum": 6,
+          "fact": [
+            "흑돈 시범이네 접짝뼈국,주소,제주 제주시 광평동로 65 흑돈 시범이네"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "흑오겹살, 흑목살",
+          "answer_wordNum": 2,
+          "fact": [
+            "흑돈 시범이네 접짝뼈국,메뉴,흑오겹살, 흑목살"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1357-7057",
+          "answer_wordNum": 1,
+          "fact": [
+            "흑돈 시범이네 접짝뼈국,연락처,0507-1357-7057"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "10:00~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "흑돈 시범이네 접짝뼈국,영업시간,10:00~22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "10:00~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "흑돈 시범이네 접짝뼈국,영업시간,10:00~22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "중흥 S클래스 아파트, 진도새기, 맘스터치",
+          "answer_wordNum": 5,
+          "fact": [
+            "흑돈 시범이네 접짝뼈국,인접,중흥 S클래스 아파트, 진도새기, 맘스터치"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "흑돈 시범이네 접짝뼈국,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "흑오겹살, 흑목살",
+          "answer_wordNum": 2,
+          "fact": [
+            "흑돈 시범이네 접짝뼈국,메뉴,흑오겹살, 흑목살"
+          ]
+        }
+      ]
+    }
+  ]
+}

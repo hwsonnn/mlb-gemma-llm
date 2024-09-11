@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "572498",
+    "travelType": "음식점",
+    "place": "양주고을부대찌개",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "572498_1_jj_5_양주고을부대찌개_1_001.png",
+      "mapx": 33.2520262860463,
+      "mapy": 126.561648859106,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "양주고을부대찌개(서귀동)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "572498_1_jj_5_양주고을부대찌개_1_002.png",
+      "mapx": 33.2520262860463,
+      "mapy": 126.561648859106,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "양주고을부대찌개(서귀동)",
+        "간판, 건물, 화분"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "572498_1_jj_5_양주고을부대찌개_1_003.png",
+      "mapx": 33.2520262860463,
+      "mapy": 126.561648859106,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "양주고을부대찌개(서귀동)",
+        "테이블, 등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "572498_1_jj_5_양주고을부대찌개_1_004.png",
+      "mapx": 33.2520262860463,
+      "mapy": 126.561648859106,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "양주고을부대찌개(서귀동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "572498_1_jj_5_양주고을부대찌개_1_005.png",
+      "mapx": 33.2520262860463,
+      "mapy": 126.561648859106,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "양주고을부대찌개(서귀동)",
+        "부대찌개"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 동문동로53번길 14 아라네",
+          "answer_wordNum": 5,
+          "fact": [
+            "양주고을부대찌개,주소,제주 서귀포시 동문동로53번길 14 아라네"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "황구네, 모티프",
+          "answer_wordNum": 2,
+          "fact": [
+            "양주고을부대찌개,인접,황구네, 모티프"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-732-9989",
+          "answer_wordNum": 1,
+          "fact": [
+            "양주고을부대찌개,연락처,064-732-9989"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "양주고을부대찌개,주차시설,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "양주고을부대찌개,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "양주고을부대찌개,영업시간,11:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-732-9989",
+          "answer_wordNum": 1,
+          "fact": [
+            "양주고을부대찌개,연락처,064-732-9989"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "부대찌개, 닭볶음탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "양주고을부대찌개,메뉴,부대찌개, 닭볶음탕"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "양주고을부대찌개,영업시간,11:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-732-9989",
+          "answer_wordNum": 1,
+          "fact": [
+            "양주고을부대찌개,연락처,064-732-9989"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "부대찌개, 닭볶음탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "양주고을부대찌개,메뉴,부대찌개, 닭볶음탕"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 동문동로53번길 14 아라네",
+          "answer_wordNum": 5,
+          "fact": [
+            "양주고을부대찌개,주소,제주 서귀포시 동문동로53번길 14 아라네"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-732-9989",
+          "answer_wordNum": 1,
+          "fact": [
+            "양주고을부대찌개,연락처,064-732-9989"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "부대찌개, 닭볶음탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "양주고을부대찌개,메뉴,부대찌개, 닭볶음탕"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "양주고을부대찌개,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "황구네, 모티프",
+          "answer_wordNum": 2,
+          "fact": [
+            "양주고을부대찌개,인접,황구네, 모티프"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-732-9989",
+          "answer_wordNum": 1,
+          "fact": [
+            "양주고을부대찌개,연락처,064-732-9989"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "양주고을부대찌개,영업시간,11:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "양주고을부대찌개,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "부대찌개, 닭볶음탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "양주고을부대찌개,메뉴,부대찌개, 닭볶음탕"
+          ]
+        }
+      ]
+    }
+  ]
+}

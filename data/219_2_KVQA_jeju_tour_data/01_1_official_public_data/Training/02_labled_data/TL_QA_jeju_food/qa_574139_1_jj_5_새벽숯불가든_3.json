@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "574139",
+    "travelType": "음식점",
+    "place": "새벽숯불가든",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "574139_1_jj_5_새벽숯불가든_3_001.png",
+      "mapx": 33.4676156699205,
+      "mapy": 126.906701739594,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "새벽숯불가든(성산읍)",
+        "간판, 미닫이 문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "574139_1_jj_5_새벽숯불가든_3_002.png",
+      "mapx": 33.4676156699205,
+      "mapy": 126.906701739594,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "새벽숯불가든(성산읍)",
+        "건물, 간판, 나무"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "574139_1_jj_5_새벽숯불가든_3_003.png",
+      "mapx": 33.4676156699205,
+      "mapy": 126.906701739594,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "새벽숯불가든(성산읍)",
+        "테이블, 등받이 의자, 연기 환풍구, tv"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "574139_1_jj_5_새벽숯불가든_3_004.png",
+      "mapx": 33.4676156699205,
+      "mapy": 126.906701739594,
+      "width": 3844,
+      "height": 2160,
+      "caption_info": [
+        "새벽숯불가든(성산읍)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "574139_1_jj_5_새벽숯불가든_3_005.png",
+      "mapx": 33.4676156699205,
+      "mapy": 126.906701739594,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "새벽숯불가든(성산읍)",
+        "생오겹살, 반찬"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주흑돼지 생오겹살, 제주흑돼지 생목살",
+          "answer_wordNum": 4,
+          "fact": [
+            "새벽숯불가든,메뉴,제주흑돼지 생오겹살, 제주흑돼지 생목살"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "새벽숯불가든,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 성산읍 일주동로 4036",
+          "answer_wordNum": 5,
+          "fact": [
+            "새벽숯불가든,주소,제주 서귀포시 성산읍 일주동로 4036"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "성산국민체육센터, 오름디자인, 대풍",
+          "answer_wordNum": 3,
+          "fact": [
+            "새벽숯불가든,인접,성산국민체육센터, 오름디자인, 대풍"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "제주흑돼지 생오겹살, 제주흑돼지 생목살",
+          "answer_wordNum": 4,
+          "fact": [
+            "새벽숯불가든,메뉴,제주흑돼지 생오겹살, 제주흑돼지 생목살"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "새벽숯불가든,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:30/17:00-22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "새벽숯불가든,영업시간,11:30/17:00-22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "성산국민체육센터, 오름디자인, 대풍",
+          "answer_wordNum": 3,
+          "fact": [
+            "새벽숯불가든,인접,성산국민체육센터, 오름디자인, 대풍"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "새벽숯불가든,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 성산읍 일주동로 4036",
+          "answer_wordNum": 5,
+          "fact": [
+            "새벽숯불가든,주소,제주 서귀포시 성산읍 일주동로 4036"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:30/17:00-22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "새벽숯불가든,영업시간,11:30/17:00-22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "성산국민체육센터, 오름디자인, 대풍",
+          "answer_wordNum": 3,
+          "fact": [
+            "새벽숯불가든,인접,성산국민체육센터, 오름디자인, 대풍"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주흑돼지 생오겹살, 제주흑돼지 생목살",
+          "answer_wordNum": 4,
+          "fact": [
+            "새벽숯불가든,메뉴,제주흑돼지 생오겹살, 제주흑돼지 생목살"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "새벽숯불가든,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:30/17:00-22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "새벽숯불가든,영업시간,11:30/17:00-22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 성산읍 일주동로 4036",
+          "answer_wordNum": 5,
+          "fact": [
+            "새벽숯불가든,주소,제주 서귀포시 성산읍 일주동로 4036"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "제주흑돼지 생오겹살, 제주흑돼지 생목살",
+          "answer_wordNum": 4,
+          "fact": [
+            "새벽숯불가든,메뉴,제주흑돼지 생오겹살, 제주흑돼지 생목살"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1402-9589",
+          "answer_wordNum": 1,
+          "fact": [
+            "새벽숯불가든,연락처,0507-1402-9589"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "새벽숯불가든,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 성산읍 일주동로 4036",
+          "answer_wordNum": 5,
+          "fact": [
+            "새벽숯불가든,주소,제주 서귀포시 성산읍 일주동로 4036"
+          ]
+        }
+      ]
+    }
+  ]
+}

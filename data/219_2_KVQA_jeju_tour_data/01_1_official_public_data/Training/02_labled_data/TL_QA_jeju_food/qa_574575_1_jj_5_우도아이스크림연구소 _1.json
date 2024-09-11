@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "574575",
+    "travelType": "음식점",
+    "place": "우도아이스크림연구소 ",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "574575_1_jj_5_우도아이스크림연구소 _1_001.png",
+      "mapx": 33.4935497327458,
+      "mapy": 126.959660037926,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우도아이스크림연구소(우도면)",
+        "건물, 간판, 미닫이문, 야외용테이블, 등받이의자"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "574575_1_jj_5_우도아이스크림연구소 _1_002.png",
+      "mapx": 33.4935497327458,
+      "mapy": 126.959660037926,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우도아이스크림연구소(우도면)",
+        "건물, 간판, 접이식문, 야외용테이블, 입간판, 등받이의자"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "574575_1_jj_5_우도아이스크림연구소 _1_003.png",
+      "mapx": 33.4935497327458,
+      "mapy": 126.959660037926,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우도아이스크림연구소(우도면)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "574575_1_jj_5_우도아이스크림연구소 _1_004.png",
+      "mapx": 33.4935497327458,
+      "mapy": 126.959660037926,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우도아이스크림연구소(우도면)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "574575_1_jj_5_우도아이스크림연구소 _1_005.png",
+      "mapx": 33.4935497327458,
+      "mapy": 126.959660037926,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우도아이스크림연구소(우도면)",
+        "아이스크림, 아이스크림스푼, 이름표"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1314-7578",
+          "answer_wordNum": 1,
+          "fact": [
+            "우도아이스크림연구소,연락처,0507-1314-7578"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "수제 우도 땅콩아이스크림, 아메리카노",
+          "answer_wordNum": 4,
+          "fact": [
+            "우도아이스크림연구소,메뉴,수제 우도 땅콩아이스크림, 아메리카노"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우도아이스크림연구소,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "천진항, 하우목동항, 소머리오름, 우도봉, 섬머리, 검멀레해수욕장, 우도유채꽃 정보화마을",
+          "answer_wordNum": 8,
+          "fact": [
+            "우도아이스크림연구소,인접,천진항, 하우목동항, 소머리오름, 우도봉, 섬머리, 검멀레해수욕장, 우도유채꽃 정보화마을"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "수제 우도 땅콩아이스크림, 아메리카노",
+          "answer_wordNum": 4,
+          "fact": [
+            "우도아이스크림연구소,메뉴,수제 우도 땅콩아이스크림, 아메리카노"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "09:00-18:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "우도아이스크림연구소,영업시간,09:00-18:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우도아이스크림연구소,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 우도면 우도봉길 47 1층",
+          "answer_wordNum": 6,
+          "fact": [
+            "우도아이스크림연구소,주소,제주 제주시 우도면 우도봉길 47 1층"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우도아이스크림연구소,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "천진항, 하우목동항, 소머리오름, 우도봉, 섬머리, 검멀레해수욕장, 우도유채꽃 정보화마을",
+          "answer_wordNum": 8,
+          "fact": [
+            "우도아이스크림연구소,인접,천진항, 하우목동항, 소머리오름, 우도봉, 섬머리, 검멀레해수욕장, 우도유채꽃 정보화마을"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "09:00-18:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "우도아이스크림연구소,영업시간,09:00-18:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "수제 우도 땅콩아이스크림, 아메리카노",
+          "answer_wordNum": 4,
+          "fact": [
+            "우도아이스크림연구소,메뉴,수제 우도 땅콩아이스크림, 아메리카노"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "수제 우도 땅콩아이스크림, 아메리카노",
+          "answer_wordNum": 4,
+          "fact": [
+            "우도아이스크림연구소,메뉴,수제 우도 땅콩아이스크림, 아메리카노"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "09:00-18:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "우도아이스크림연구소,영업시간,09:00-18:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1314-7578",
+          "answer_wordNum": 1,
+          "fact": [
+            "우도아이스크림연구소,연락처,0507-1314-7578"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우도아이스크림연구소,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우도아이스크림연구소,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "천진항, 하우목동항, 소머리오름, 우도봉, 섬머리, 검멀레해수욕장, 우도유채꽃 정보화마을",
+          "answer_wordNum": 8,
+          "fact": [
+            "우도아이스크림연구소,인접,천진항, 하우목동항, 소머리오름, 우도봉, 섬머리, 검멀레해수욕장, 우도유채꽃 정보화마을"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 우도면 우도봉길 47 1층",
+          "answer_wordNum": 6,
+          "fact": [
+            "우도아이스크림연구소,주소,제주 제주시 우도면 우도봉길 47 1층"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "수제 우도 땅콩아이스크림, 아메리카노",
+          "answer_wordNum": 4,
+          "fact": [
+            "우도아이스크림연구소,메뉴,수제 우도 땅콩아이스크림, 아메리카노"
+          ]
+        }
+      ]
+    }
+  ]
+}

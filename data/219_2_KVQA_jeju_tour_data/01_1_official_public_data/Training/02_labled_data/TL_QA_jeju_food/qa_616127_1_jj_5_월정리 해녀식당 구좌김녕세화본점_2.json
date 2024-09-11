@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "616127",
+    "travelType": "음식점",
+    "place": "월정리 해녀식당 구좌김녕세화본점",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "616127_1_jj_5_월정리 해녀식당 구좌김녕세화본점_2_001.png",
+      "mapx": 33.5578038882139,
+      "mapy": 126.794470249609,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "월정리 해녀식당 구좌김녕세화본점(구좌읍)",
+        "간판, 테이블, 유리창"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "616127_1_jj_5_월정리 해녀식당 구좌김녕세화본점_2_002.png",
+      "mapx": 33.5578038882139,
+      "mapy": 126.794470249609,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "월정리 해녀식당 구좌김녕세화본점(구좌읍)",
+        "간판, 건물, 테이블, 유리창"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "616127_1_jj_5_월정리 해녀식당 구좌김녕세화본점_2_003.png",
+      "mapx": 33.5578038882139,
+      "mapy": 126.794470249609,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "월정리 해녀식당 구좌김녕세화본점(구좌읍)",
+        "테이블, 의자, 선반, 액자, 에어컨, 조명"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "616127_1_jj_5_월정리 해녀식당 구좌김녕세화본점_2_004.png",
+      "mapx": 33.5578038882139,
+      "mapy": 126.794470249609,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "월정리 해녀식당 구좌김녕세화본점(구좌읍)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "616127_1_jj_5_월정리 해녀식당 구좌김녕세화본점_2_005.png",
+      "mapx": 33.5578038882139,
+      "mapy": 126.794470249609,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "월정리 해녀식당 구좌김녕세화본점(구좌읍)",
+        "제주흑돼기 불고기"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳은 무엇이 가능한가요?",
+          "question_wordNum": 4,
+          "answer": "아침식사",
+          "answer_wordNum": 1,
+          "fact": [
+            "월정리 해녀식당 구좌김녕세화본점,가능,아침식사"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 위치를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "월정리 해수욕장 바로 앞",
+          "answer_wordNum": 4,
+          "fact": [
+            "월정리 해녀식당 구좌김녕세화본점,위치,월정리 해수욕장 바로 앞"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "배롱개, 포구식당",
+          "answer_wordNum": 2,
+          "fact": [
+            "월정리 해녀식당 구좌김녕세화본점,인접,배롱개, 포구식당"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 즐길 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "월정리 해변",
+          "answer_wordNum": 2,
+          "fact": [
+            "월정리 해녀식당 구좌김녕세화본점,즐길수있다,월정리 해변"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 즐길 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "월정리 해변",
+          "answer_wordNum": 2,
+          "fact": [
+            "월정리 해녀식당 구좌김녕세화본점,즐길수있다,월정리 해변"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 구좌읍 해맞이해안로 434",
+          "answer_wordNum": 5,
+          "fact": [
+            "월정리 해녀식당 구좌김녕세화본점,주소,제주 제주시 구좌읍 해맞이해안로 434"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1343-6644",
+          "answer_wordNum": 1,
+          "fact": [
+            "월정리 해녀식당 구좌김녕세화본점,연락처,0507-1343-6644"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "08:00 - 21:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "월정리 해녀식당 구좌김녕세화본점,영업시간,08:00 - 21:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "08:00 - 21:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "월정리 해녀식당 구좌김녕세화본점,영업시간,08:00 - 21:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "월정리 해녀식당 구좌김녕세화본점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "갈치조림, 전복해물뚝배기",
+          "answer_wordNum": 2,
+          "fact": [
+            "월정리 해녀식당 구좌김녕세화본점,메뉴,갈치조림, 전복해물뚝배기"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "월정리 해녀식당 구좌김녕세화본점,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳은 무엇이 가능한가요?",
+          "question_wordNum": 4,
+          "answer": "아침식사",
+          "answer_wordNum": 1,
+          "fact": [
+            "월정리 해녀식당 구좌김녕세화본점,가능,아침식사"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "배롱개, 포구식당",
+          "answer_wordNum": 2,
+          "fact": [
+            "월정리 해녀식당 구좌김녕세화본점,인접,배롱개, 포구식당"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳은 무엇이 있나요?",
+          "question_wordNum": 4,
+          "answer": "제주도 향토음식",
+          "answer_wordNum": 2,
+          "fact": [
+            "월정리 해녀식당 구좌김녕세화본점,있다,제주도 향토음식"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1343-6644",
+          "answer_wordNum": 1,
+          "fact": [
+            "월정리 해녀식당 구좌김녕세화본점,연락처,0507-1343-6644"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "08:00 - 21:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "월정리 해녀식당 구좌김녕세화본점,영업시간,08:00 - 21:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "갈치조림, 전복해물뚝배기",
+          "answer_wordNum": 2,
+          "fact": [
+            "월정리 해녀식당 구좌김녕세화본점,메뉴,갈치조림, 전복해물뚝배기"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 위치는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "월정리 해수욕장 바로 앞",
+          "answer_wordNum": 4,
+          "fact": [
+            "월정리 해녀식당 구좌김녕세화본점,위치,월정리 해수욕장 바로 앞"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 즐길 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "월정리 해변",
+          "answer_wordNum": 2,
+          "fact": [
+            "월정리 해녀식당 구좌김녕세화본점,즐길수있다,월정리 해변"
+          ]
+        }
+      ]
+    }
+  ]
+}

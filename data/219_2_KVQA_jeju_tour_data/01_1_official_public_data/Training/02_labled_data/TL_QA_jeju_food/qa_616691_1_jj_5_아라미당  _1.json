@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "616691",
+    "travelType": "음식점",
+    "place": "아라미당  ",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "616691_1_jj_5_아라미당  _1_001.png",
+      "mapx": 33.4783075944698,
+      "mapy": 126.542324873665,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "아라미당(아라일동)",
+        "건물, 간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "616691_1_jj_5_아라미당  _1_002.png",
+      "mapx": 33.4783075944698,
+      "mapy": 126.542324873665,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "아라미당(아라일동)",
+        "건물, 간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "616691_1_jj_5_아라미당  _1_003.png",
+      "mapx": 33.4783075944698,
+      "mapy": 126.542324873665,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "아라미당(아라일동)",
+        "화분, 가림막, 연기흡입기"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "616691_1_jj_5_아라미당  _1_004.png",
+      "mapx": 33.4783075944698,
+      "mapy": 126.542324873665,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "아라미당(아라일동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "616691_1_jj_5_아라미당  _1_005.png",
+      "mapx": 33.4783075944698,
+      "mapy": 126.542324873665,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "아라미당(아라일동)",
+        "비빔냉면"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "한우살치살, 한우생갈비",
+          "answer_wordNum": 2,
+          "fact": [
+            "아라미당,메뉴,한우살치살, 한우생갈비"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "아라미당,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "아라미당,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "제주디딤돌공인중개사사무소, 카카오라",
+          "answer_wordNum": 2,
+          "fact": [
+            "아라미당,인접,제주디딤돌공인중개사사무소, 카카오라"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "아라미당,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 아연로 595",
+          "answer_wordNum": 4,
+          "fact": [
+            "아라미당,주소,제주 제주시 아연로 595"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:30 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "아라미당,영업시간,11:30 - 22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "한우살치살, 한우생갈비",
+          "answer_wordNum": 2,
+          "fact": [
+            "아라미당,메뉴,한우살치살, 한우생갈비"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 아연로 595",
+          "answer_wordNum": 4,
+          "fact": [
+            "아라미당,주소,제주 제주시 아연로 595"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "아라미당,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "한우살치살, 한우생갈비",
+          "answer_wordNum": 2,
+          "fact": [
+            "아라미당,메뉴,한우살치살, 한우생갈비"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-751-2266",
+          "answer_wordNum": 1,
+          "fact": [
+            "아라미당,연락처,064-751-2266"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "아라미당,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-751-2266",
+          "answer_wordNum": 1,
+          "fact": [
+            "아라미당,연락처,064-751-2266"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "아라미당,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "제주디딤돌공인중개사사무소, 카카오라",
+          "answer_wordNum": 2,
+          "fact": [
+            "아라미당,인접,제주디딤돌공인중개사사무소, 카카오라"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:30 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "아라미당,영업시간,11:30 - 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "아라미당,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "제주디딤돌공인중개사사무소, 카카오라",
+          "answer_wordNum": 2,
+          "fact": [
+            "아라미당,인접,제주디딤돌공인중개사사무소, 카카오라"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "아라미당,주차시설,있음"
+          ]
+        }
+      ]
+    }
+  ]
+}

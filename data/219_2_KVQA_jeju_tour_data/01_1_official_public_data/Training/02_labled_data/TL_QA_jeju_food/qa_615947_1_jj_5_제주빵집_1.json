@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "615947",
+    "travelType": "음식점",
+    "place": "제주빵집",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "615947_1_jj_5_제주빵집_1_001.png",
+      "mapx": 33.3931778799612,
+      "mapy": 126.38317885864,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "제주빵집(애월읍)",
+        "간판, 여닫이문, 테이블, 긴의자"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "615947_1_jj_5_제주빵집_1_002.png",
+      "mapx": 33.3931778799612,
+      "mapy": 126.38317885864,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "제주빵집(애월읍)",
+        "간판, 건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "615947_1_jj_5_제주빵집_1_003.png",
+      "mapx": 33.3931778799612,
+      "mapy": 126.38317885864,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "제주빵집(애월읍)",
+        "테이블, 의자, 시스템에어컨"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "615947_1_jj_5_제주빵집_1_004.png",
+      "mapx": 33.3931778799612,
+      "mapy": 126.38317885864,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "제주빵집(애월읍)",
+        "가격표"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "615947_1_jj_5_제주빵집_1_005.png",
+      "mapx": 33.3931778799612,
+      "mapy": 126.38317885864,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "제주빵집(애월읍)",
+        "빵, 쟁반"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "딸기라떼, 자몽에이드",
+          "answer_wordNum": 2,
+          "fact": [
+            "제주빵집,메뉴,딸기라떼, 자몽에이드"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 애월읍 상가목장길 84",
+          "answer_wordNum": 5,
+          "fact": [
+            "제주빵집,주소,제주 제주시 애월읍 상가목장길 84"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "09:00 - 20:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "제주빵집,영업시간,09:00 - 20:30"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "제주빵집,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "베수비오리조트, 크라운돼지입구",
+          "answer_wordNum": 2,
+          "fact": [
+            "제주빵집,인접,베수비오리조트, 크라운돼지입구"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "070-4042-5090",
+          "answer_wordNum": 1,
+          "fact": [
+            "제주빵집,연락처,070-4042-5090"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 애월읍 상가목장길 84",
+          "answer_wordNum": 5,
+          "fact": [
+            "제주빵집,주소,제주 제주시 애월읍 상가목장길 84"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "제주빵집,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "딸기라떼, 자몽에이드",
+          "answer_wordNum": 2,
+          "fact": [
+            "제주빵집,메뉴,딸기라떼, 자몽에이드"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "070-4042-5090",
+          "answer_wordNum": 1,
+          "fact": [
+            "제주빵집,연락처,070-4042-5090"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "09:00 - 20:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "제주빵집,영업시간,09:00 - 20:30"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "베수비오리조트, 크라운돼지입구",
+          "answer_wordNum": 2,
+          "fact": [
+            "제주빵집,인접,베수비오리조트, 크라운돼지입구"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "제주빵집,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "딸기라떼, 자몽에이드",
+          "answer_wordNum": 2,
+          "fact": [
+            "제주빵집,메뉴,딸기라떼, 자몽에이드"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 애월읍 상가목장길 84",
+          "answer_wordNum": 5,
+          "fact": [
+            "제주빵집,주소,제주 제주시 애월읍 상가목장길 84"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "베수비오리조트, 크라운돼지입구",
+          "answer_wordNum": 2,
+          "fact": [
+            "제주빵집,인접,베수비오리조트, 크라운돼지입구"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "070-4042-5090",
+          "answer_wordNum": 1,
+          "fact": [
+            "제주빵집,연락처,070-4042-5090"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "09:00 - 20:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "제주빵집,영업시간,09:00 - 20:30"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "제주빵집,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "제주빵집,휴무일,없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

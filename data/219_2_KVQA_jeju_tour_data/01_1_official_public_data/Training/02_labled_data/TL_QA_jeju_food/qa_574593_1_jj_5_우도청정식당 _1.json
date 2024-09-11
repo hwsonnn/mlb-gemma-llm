@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "574593",
+    "travelType": "음식점",
+    "place": "우도청정식당 ",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "574593_1_jj_5_우도청정식당 _1_001.png",
+      "mapx": 33.5139774824083,
+      "mapy": 126.957045714669,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우도청정식당(우도면)",
+        "수조, 미닫이문, 수조"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "574593_1_jj_5_우도청정식당 _1_002.png",
+      "mapx": 33.5139774824083,
+      "mapy": 126.957045714669,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우도청정식당(우도면)",
+        "건물, 계단, 간판, 수조, 계단, 안전펜스"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "574593_1_jj_5_우도청정식당 _1_003.png",
+      "mapx": 33.5139774824083,
+      "mapy": 126.957045714669,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우도청정식당(우도면)",
+        "테이블, 등받이 의자, 선풍기, 미닫이문"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "574593_1_jj_5_우도청정식당 _1_004.png",
+      "mapx": 33.5139774824083,
+      "mapy": 126.957045714669,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우도청정식당(우도면)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "574593_1_jj_5_우도청정식당 _1_005.png",
+      "mapx": 33.5139774824083,
+      "mapy": 126.957045714669,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우도청정식당(우도면)",
+        "매운탕, 콜라, 버너"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "09:00-21:00/22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "우도청정식당,영업시간,09:00-21:00/22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우도청정식당,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1305-9934",
+          "answer_wordNum": 1,
+          "fact": [
+            "우도청정식당,연락처,0507-1305-9934"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 우도면 우도해안길 804",
+          "answer_wordNum": 5,
+          "fact": [
+            "우도청정식당,주소,제주 제주시 우도면 우도해안길 804"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳의 위치는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "하고수동 해수욕장 앞 1층",
+          "answer_wordNum": 4,
+          "fact": [
+            "우도청정식당,위치,하고수동 해수욕장 앞 1층"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "오봉리사무소, 하고수동포구",
+          "answer_wordNum": 2,
+          "fact": [
+            "우도청정식당,인접,오봉리사무소, 하고수동포구"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우도청정식당,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "우럭매운탕, 해물탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "우도청정식당,메뉴,우럭매운탕, 해물탕"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우도청정식당,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1305-9934",
+          "answer_wordNum": 1,
+          "fact": [
+            "우도청정식당,연락처,0507-1305-9934"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 우도면 우도해안길 804",
+          "answer_wordNum": 5,
+          "fact": [
+            "우도청정식당,주소,제주 제주시 우도면 우도해안길 804"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "09:00-21:00/22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "우도청정식당,영업시간,09:00-21:00/22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "오봉리사무소, 하고수동포구",
+          "answer_wordNum": 2,
+          "fact": [
+            "우도청정식당,인접,오봉리사무소, 하고수동포구"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우도청정식당,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "우럭매운탕, 해물탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "우도청정식당,메뉴,우럭매운탕, 해물탕"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 위치는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "하고수동 해수욕장 앞 1층",
+          "answer_wordNum": 4,
+          "fact": [
+            "우도청정식당,위치,하고수동 해수욕장 앞 1층"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1305-9934",
+          "answer_wordNum": 1,
+          "fact": [
+            "우도청정식당,연락처,0507-1305-9934"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 우도면 우도해안길 804",
+          "answer_wordNum": 5,
+          "fact": [
+            "우도청정식당,주소,제주 제주시 우도면 우도해안길 804"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "09:00-21:00/22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "우도청정식당,영업시간,09:00-21:00/22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우도청정식당,주차시설,있음"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "574463",
+    "travelType": "음식점",
+    "place": "일마레가든앤스테이 ",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "574463_1_jj_5_일마레가든앤스테이 _1_001.png",
+      "mapx": 33.3072878784512,
+      "mapy": 126.19200361196,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "일마레가든앤스테이 (한경면)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "574463_1_jj_5_일마레가든앤스테이 _1_002.png",
+      "mapx": 33.3072878784512,
+      "mapy": 126.19200361196,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "일마레가든앤스테이 (한경면)",
+        "건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "574463_1_jj_5_일마레가든앤스테이 _1_003.png",
+      "mapx": 33.3072878784512,
+      "mapy": 126.19200361196,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "일마레가든앤스테이 (한경면)",
+        "이층침대, 옷걸이"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "574463_1_jj_5_일마레가든앤스테이 _1_004.png",
+      "mapx": 33.3072878784512,
+      "mapy": 126.19200361196,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "일마레가든앤스테이 (한경면)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "574463_1_jj_5_일마레가든앤스테이 _1_005.png",
+      "mapx": 33.3072878784512,
+      "mapy": 126.19200361196,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "일마레가든앤스테이 (한경면)",
+        "갈치조림, 미역국, 반찬, 밥"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "1566-7138",
+          "answer_wordNum": 1,
+          "fact": [
+            "일마레가든앤스테이,연락처,1566-7138"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "일마레가든앤스테이,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "일마레가든앤스테이,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "CU, 신협",
+          "answer_wordNum": 2,
+          "fact": [
+            "일마레가든앤스테이,인접,CU, 신협"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 한경면 고조로 105 일마레 가든 앤 스테이",
+          "answer_wordNum": 9,
+          "fact": [
+            "일마레가든앤스테이,주소,제주 제주시 한경면 고조로 105 일마레 가든 앤 스테이"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "일마레가든앤스테이,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "일마레가든앤스테이,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "1566-7138",
+          "answer_wordNum": 1,
+          "fact": [
+            "일마레가든앤스테이,연락처,1566-7138"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "1566-7138",
+          "answer_wordNum": 1,
+          "fact": [
+            "일마레가든앤스테이,연락처,1566-7138"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "일마레가든앤스테이,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "일마레가든앤스테이,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 한경면 고조로 105 일마레 가든 앤 스테이",
+          "answer_wordNum": 9,
+          "fact": [
+            "일마레가든앤스테이,주소,제주 제주시 한경면 고조로 105 일마레 가든 앤 스테이"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "CU, 신협",
+          "answer_wordNum": 2,
+          "fact": [
+            "일마레가든앤스테이,인접,CU, 신협"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "1566-7138",
+          "answer_wordNum": 1,
+          "fact": [
+            "일마레가든앤스테이,연락처,1566-7138"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "일마레가든앤스테이,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "일마레가든앤스테이,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "CU, 신협",
+          "answer_wordNum": 2,
+          "fact": [
+            "일마레가든앤스테이,인접,CU, 신협"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "파티, 공연",
+          "answer_wordNum": 2,
+          "fact": [
+            "일마레가든앤스테이,메뉴,파티, 공연"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "1566-7138",
+          "answer_wordNum": 1,
+          "fact": [
+            "일마레가든앤스테이,연락처,1566-7138"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "일마레가든앤스테이,휴무일,없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

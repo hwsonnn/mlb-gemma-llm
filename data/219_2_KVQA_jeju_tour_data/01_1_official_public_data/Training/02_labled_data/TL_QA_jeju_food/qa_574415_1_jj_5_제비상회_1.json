@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "574415",
+    "travelType": "음식점",
+    "place": "제비상회",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "574415_1_jj_5_제비상회_1_001.png",
+      "mapx": 33.3484675238258,
+      "mapy": 126.187441882192,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "제비상회(한경면)",
+        "미닫이문, 간판, 화분, 등받이 의자"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "574415_1_jj_5_제비상회_1_002.png",
+      "mapx": 33.3484675238258,
+      "mapy": 126.187441882192,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "제비상회(한경면)",
+        "간판, 건물, 계단"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "574415_1_jj_5_제비상회_1_003.png",
+      "mapx": 33.3484675238258,
+      "mapy": 126.187441882192,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "제비상회(한경면)",
+        "등받이 의자, 테이블, 화분, 미닫이문, 포스터"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "574415_1_jj_5_제비상회_1_004.png",
+      "mapx": 33.3484675238258,
+      "mapy": 126.187441882192,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "제비상회(한경면)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "574415_1_jj_5_제비상회_1_005.png",
+      "mapx": 33.3484675238258,
+      "mapy": 126.187441882192,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "제비상회(한경면)",
+        "딱새우"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "17:00-22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "제비상회,영업시간,17:00-22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 한경면 신한로 45",
+          "answer_wordNum": 5,
+          "fact": [
+            "제비상회,주소,제주 제주시 한경면 신한로 45"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "딱새우회, 제비통닭",
+          "answer_wordNum": 2,
+          "fact": [
+            "제비상회,메뉴,딱새우회, 제비통닭"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "010-4573-5016",
+          "answer_wordNum": 1,
+          "fact": [
+            "제비상회,연락처,010-4573-5016"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 한경면 신한로 45",
+          "answer_wordNum": 5,
+          "fact": [
+            "제비상회,주소,제주 제주시 한경면 신한로 45"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "제비상회,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "010-4573-5016",
+          "answer_wordNum": 1,
+          "fact": [
+            "제비상회,연락처,010-4573-5016"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "하나로마트 한경농협본점, 신창상동마을회관",
+          "answer_wordNum": 3,
+          "fact": [
+            "제비상회,인접,하나로마트 한경농협본점, 신창상동마을회관"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 한경면 신한로 45",
+          "answer_wordNum": 5,
+          "fact": [
+            "제비상회,주소,제주 제주시 한경면 신한로 45"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "딱새우회, 제비통닭",
+          "answer_wordNum": 2,
+          "fact": [
+            "제비상회,메뉴,딱새우회, 제비통닭"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "하나로마트 한경농협본점, 신창상동마을회관",
+          "answer_wordNum": 3,
+          "fact": [
+            "제비상회,인접,하나로마트 한경농협본점, 신창상동마을회관"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "제비상회,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "제비상회,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "하나로마트 한경농협본점, 신창상동마을회관",
+          "answer_wordNum": 3,
+          "fact": [
+            "제비상회,인접,하나로마트 한경농협본점, 신창상동마을회관"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "딱새우회, 제비통닭",
+          "answer_wordNum": 2,
+          "fact": [
+            "제비상회,메뉴,딱새우회, 제비통닭"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "17:00-22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "제비상회,영업시간,17:00-22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "제비상회,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "제비상회,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "하나로마트 한경농협본점, 신창상동마을회관",
+          "answer_wordNum": 3,
+          "fact": [
+            "제비상회,인접,하나로마트 한경농협본점, 신창상동마을회관"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 한경면 신한로 45",
+          "answer_wordNum": 5,
+          "fact": [
+            "제비상회,주소,제주 제주시 한경면 신한로 45"
+          ]
+        }
+      ]
+    }
+  ]
+}

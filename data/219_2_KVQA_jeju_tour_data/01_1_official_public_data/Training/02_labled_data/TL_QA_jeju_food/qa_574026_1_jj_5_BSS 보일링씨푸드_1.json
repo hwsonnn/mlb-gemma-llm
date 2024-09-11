@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "574026",
+    "travelType": "음식점",
+    "place": "BSS 보일링씨푸드",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "574026_1_jj_5_BSS 보일링씨푸드_1_001.png",
+      "mapx": 33.4602975523449,
+      "mapy": 126.929448034221,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "BSS 보일링씨푸드(성산읍)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "574026_1_jj_5_BSS 보일링씨푸드_1_002.png",
+      "mapx": 33.4602975523449,
+      "mapy": 126.929448034221,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "BSS 보일링씨푸드(성산읍)",
+        "간판, 건물, 울타리"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "574026_1_jj_5_BSS 보일링씨푸드_1_003.png",
+      "mapx": 33.4602975523449,
+      "mapy": 126.929448034221,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "BSS 보일링씨푸드(성산읍)",
+        "테이블, 등받이 의자, 나무"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "574026_1_jj_5_BSS 보일링씨푸드_1_004.png",
+      "mapx": 33.4602975523449,
+      "mapy": 126.929448034221,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "BSS 보일링씨푸드(성산읍)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "574026_1_jj_5_BSS 보일링씨푸드_1_005.png",
+      "mapx": 33.4602975523449,
+      "mapy": 126.929448034221,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "BSS 보일링씨푸드(성산읍)",
+        "해물찜"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 화요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "BSS 보일링씨푸드,휴무일,매주 화요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:30-23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "BSS 보일링씨푸드,영업시간,11:30-23:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-784-9992",
+          "answer_wordNum": 1,
+          "fact": [
+            "BSS 보일링씨푸드,연락처,064-784-9992"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 성산읍 성산등용로17번길 55 리치유클래시아 상가 D 101호",
+          "answer_wordNum": 9,
+          "fact": [
+            "BSS 보일링씨푸드,주소,제주 서귀포시 성산읍 성산등용로17번길 55 리치유클래시아 상가 D 101호"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 화요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "BSS 보일링씨푸드,휴무일,매주 화요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "샤오츠, 레몬비",
+          "answer_wordNum": 2,
+          "fact": [
+            "BSS 보일링씨푸드,인접,샤오츠, 레몬비"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-784-9992",
+          "answer_wordNum": 1,
+          "fact": [
+            "BSS 보일링씨푸드,연락처,064-784-9992"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "BSS 보일링씨푸드,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "랍스터, 해장뚝배기파스타",
+          "answer_wordNum": 2,
+          "fact": [
+            "BSS 보일링씨푸드,메뉴,랍스터, 해장뚝배기파스타"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-784-9992",
+          "answer_wordNum": 1,
+          "fact": [
+            "BSS 보일링씨푸드,연락처,064-784-9992"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 성산읍 성산등용로17번길 55 리치유클래시아 상가 D 101호",
+          "answer_wordNum": 9,
+          "fact": [
+            "BSS 보일링씨푸드,주소,제주 서귀포시 성산읍 성산등용로17번길 55 리치유클래시아 상가 D 101호"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:30-23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "BSS 보일링씨푸드,영업시간,11:30-23:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:30-23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "BSS 보일링씨푸드,영업시간,11:30-23:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "랍스터, 해장뚝배기파스타",
+          "answer_wordNum": 2,
+          "fact": [
+            "BSS 보일링씨푸드,메뉴,랍스터, 해장뚝배기파스타"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 화요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "BSS 보일링씨푸드,휴무일,매주 화요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 성산읍 성산등용로17번길 55 리치유클래시아 상가 D 101호",
+          "answer_wordNum": 9,
+          "fact": [
+            "BSS 보일링씨푸드,주소,제주 서귀포시 성산읍 성산등용로17번길 55 리치유클래시아 상가 D 101호"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "BSS 보일링씨푸드,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:30-23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "BSS 보일링씨푸드,영업시간,11:30-23:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 성산읍 성산등용로17번길 55 리치유클래시아 상가 D 101호",
+          "answer_wordNum": 9,
+          "fact": [
+            "BSS 보일링씨푸드,주소,제주 서귀포시 성산읍 성산등용로17번길 55 리치유클래시아 상가 D 101호"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "샤오츠, 레몬비",
+          "answer_wordNum": 2,
+          "fact": [
+            "BSS 보일링씨푸드,인접,샤오츠, 레몬비"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "572207",
+    "travelType": "음식점",
+    "place": "흑돼지삼형제",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "572207_1_jj_5_흑돼지삼형제_1_001.png",
+      "mapx": 33.325450205589,
+      "mapy": 126.842426678468,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "흑돼지삼형제(표선면)",
+        "건물, 간판, 여닫이문, 테이블, 의자, 화분"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "572207_1_jj_5_흑돼지삼형제_1_002.png",
+      "mapx": 33.325450205589,
+      "mapy": 126.842426678468,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "흑돼지삼형제(표선면)",
+        "건물, 간판, 여닫이문, 화분"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "572207_1_jj_5_흑돼지삼형제_1_003.png",
+      "mapx": 33.325450205589,
+      "mapy": 126.842426678468,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "흑돼지삼형제(표선면)",
+        "시계, 테이블, 등받이 의자, 냉장고, 서랍장"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "572207_1_jj_5_흑돼지삼형제_1_004.png",
+      "mapx": 33.325450205589,
+      "mapy": 126.842426678468,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "흑돼지삼형제(표선면)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "572207_1_jj_5_흑돼지삼형제_1_005.png",
+      "mapx": 33.325450205589,
+      "mapy": 126.842426678468,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "흑돼지삼형제(표선면)",
+        "오겹살, 불판"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "당케올레국수, 제이투뷰티샵",
+          "answer_wordNum": 2,
+          "fact": [
+            "흑돼지삼형제,인접,당케올레국수, 제이투뷰티샵"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1488-4478",
+          "answer_wordNum": 1,
+          "fact": [
+            "흑돼지삼형제,연락처,0507-1488-4478"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "흑돼지삼형제,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이곳은 무엇을 제공 하나요?",
+          "question_wordNum": 4,
+          "answer": "멜젓, 묵은지, 고사리",
+          "answer_wordNum": 3,
+          "fact": [
+            "흑돼지삼형제,제공,멜젓, 묵은지, 고사리"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "당케올레국수, 제이투뷰티샵",
+          "answer_wordNum": 2,
+          "fact": [
+            "흑돼지삼형제,인접,당케올레국수, 제이투뷰티샵"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "흑돼지삼형제,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1488-4478",
+          "answer_wordNum": 1,
+          "fact": [
+            "흑돼지삼형제,연락처,0507-1488-4478"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "흑돼지삼형제,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "흑돼지삼형제,영업시간,11:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "흑돼지삼형제,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 표선면 민속해안로 594",
+          "answer_wordNum": 5,
+          "fact": [
+            "흑돼지삼형제,주소,제주 서귀포시 표선면 민속해안로 594"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1488-4478",
+          "answer_wordNum": 1,
+          "fact": [
+            "흑돼지삼형제,연락처,0507-1488-4478"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "흑돼지모듬, 흑돼지목살",
+          "answer_wordNum": 2,
+          "fact": [
+            "흑돼지삼형제,메뉴,흑돼지모듬, 흑돼지목살"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "당케올레국수, 제이투뷰티샵",
+          "answer_wordNum": 2,
+          "fact": [
+            "흑돼지삼형제,인접,당케올레국수, 제이투뷰티샵"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "흑돼지삼형제,영업시간,11:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이곳은 무엇을 사용 하나요?",
+          "question_wordNum": 4,
+          "answer": "원적외선 불판, 집 된장, 시판된장",
+          "answer_wordNum": 5,
+          "fact": [
+            "흑돼지삼형제,사용,원적외선 불판, 집 된장, 시판된장"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 표선면 민속해안로 594",
+          "answer_wordNum": 5,
+          "fact": [
+            "흑돼지삼형제,주소,제주 서귀포시 표선면 민속해안로 594"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1488-4478",
+          "answer_wordNum": 1,
+          "fact": [
+            "흑돼지삼형제,연락처,0507-1488-4478"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "흑돼지삼형제,영업시간,11:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "흑돼지삼형제,휴무일,알수없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

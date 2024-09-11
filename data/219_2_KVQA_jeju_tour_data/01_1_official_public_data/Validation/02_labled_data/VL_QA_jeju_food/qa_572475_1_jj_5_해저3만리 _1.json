@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "572475",
+    "travelType": "음식점",
+    "place": "해저3만리 ",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "572475_1_jj_5_해저3만리 _1_001.png",
+      "mapx": 33.2476814570588,
+      "mapy": 126.559770286605,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "해저3만리 (서귀포시)",
+        "미닫이문, 간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "572475_1_jj_5_해저3만리 _1_002.png",
+      "mapx": 33.2476814570588,
+      "mapy": 126.559770286605,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "해저3만리 (서귀포시)",
+        "간판, 미닫이문"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "572475_1_jj_5_해저3만리 _1_003.png",
+      "mapx": 33.2476814570588,
+      "mapy": 126.559770286605,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "해저3만리 (서귀포시)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "572475_1_jj_5_해저3만리 _1_004.png",
+      "mapx": 33.2476814570588,
+      "mapy": 126.559770286605,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "해저3만리 (서귀포시)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "572475_1_jj_5_해저3만리 _1_005.png",
+      "mapx": 33.2476814570588,
+      "mapy": 126.559770286605,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "해저3만리 (서귀포시)",
+        "생선, 레몬"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "08:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "해저3만리,영업시간,08:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "갈치구이, 옥돔구이",
+          "answer_wordNum": 2,
+          "fact": [
+            "해저3만리,메뉴,갈치구이, 옥돔구이"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "해저3만리,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 중정로 31",
+          "answer_wordNum": 4,
+          "fact": [
+            "해저3만리,주소,제주 서귀포시 중정로 31"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 중정로 31",
+          "answer_wordNum": 4,
+          "fact": [
+            "해저3만리,주소,제주 서귀포시 중정로 31"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1332-3221",
+          "answer_wordNum": 1,
+          "fact": [
+            "해저3만리,연락처,0507-1332-3221"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "해저3만리,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "08:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "해저3만리,영업시간,08:00 - 22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1332-3221",
+          "answer_wordNum": 1,
+          "fact": [
+            "해저3만리,연락처,0507-1332-3221"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 중정로 31",
+          "answer_wordNum": 4,
+          "fact": [
+            "해저3만리,주소,제주 서귀포시 중정로 31"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "08:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "해저3만리,영업시간,08:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "격주 화요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "해저3만리,휴무일,격주 화요일"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 중정로 31",
+          "answer_wordNum": 4,
+          "fact": [
+            "해저3만리,주소,제주 서귀포시 중정로 31"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "해저3만리,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1332-3221",
+          "answer_wordNum": 1,
+          "fact": [
+            "해저3만리,연락처,0507-1332-3221"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "격주 화요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "해저3만리,휴무일,격주 화요일"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1332-3221",
+          "answer_wordNum": 1,
+          "fact": [
+            "해저3만리,연락처,0507-1332-3221"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "격주 화요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "해저3만리,휴무일,격주 화요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "해저3만리,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 중정로 31",
+          "answer_wordNum": 4,
+          "fact": [
+            "해저3만리,주소,제주 서귀포시 중정로 31"
+          ]
+        }
+      ]
+    }
+  ]
+}

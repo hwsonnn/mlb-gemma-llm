@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "573997",
+    "travelType": "음식점",
+    "place": "섭지코지한끼",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "573997_1_jj_5_섭지코지한끼_1_001.png",
+      "mapx": 33.4364006068588,
+      "mapy": 126.920366661716,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "섭지코지한끼(성산읍)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "573997_1_jj_5_섭지코지한끼_1_002.png",
+      "mapx": 33.4364006068588,
+      "mapy": 126.920366661716,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "섭지코지한끼(성산읍)",
+        "간판, 건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "573997_1_jj_5_섭지코지한끼_1_003.png",
+      "mapx": 33.4364006068588,
+      "mapy": 126.920366661716,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "섭지코지한끼(성산읍)",
+        "테이블, 등받이 의자, 선풍기"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "573997_1_jj_5_섭지코지한끼_1_004.png",
+      "mapx": 33.4364006068588,
+      "mapy": 126.920366661716,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "섭지코지한끼(성산읍)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "573997_1_jj_5_섭지코지한끼_1_005.png",
+      "mapx": 33.4364006068588,
+      "mapy": 126.920366661716,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "섭지코지한끼(성산읍)",
+        "돈까스, 계란후라이, 밥, 국, 반찬, 샐러드"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "해물카레덮밥, 흑돼지돈까스",
+          "answer_wordNum": 2,
+          "fact": [
+            "섭지코지한끼,메뉴,해물카레덮밥, 흑돼지돈까스"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "신양리숯불바베큐, 망고레이 섭지코지점",
+          "answer_wordNum": 3,
+          "fact": [
+            "섭지코지한끼,인접,신양리숯불바베큐, 망고레이 섭지코지점"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "격주 월요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "섭지코지한끼,휴무일,격주 월요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 성산읍 신양로 100 1층",
+          "answer_wordNum": 6,
+          "fact": [
+            "섭지코지한끼,주소,제주 서귀포시 성산읍 신양로 100 1층"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 성산읍 신양로 100 1층",
+          "answer_wordNum": 6,
+          "fact": [
+            "섭지코지한끼,주소,제주 서귀포시 성산읍 신양로 100 1층"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "12:30/13:00-23:00/23:30",
+          "answer_wordNum": 1,
+          "fact": [
+            "섭지코지한끼,영업시간,12:30/13:00-23:00/23:30"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "신양리숯불바베큐, 망고레이 섭지코지점",
+          "answer_wordNum": 3,
+          "fact": [
+            "섭지코지한끼,인접,신양리숯불바베큐, 망고레이 섭지코지점"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "해물카레덮밥, 흑돼지돈까스",
+          "answer_wordNum": 2,
+          "fact": [
+            "섭지코지한끼,메뉴,해물카레덮밥, 흑돼지돈까스"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "12:30/13:00-23:00/23:30",
+          "answer_wordNum": 1,
+          "fact": [
+            "섭지코지한끼,영업시간,12:30/13:00-23:00/23:30"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1370-0995",
+          "answer_wordNum": 1,
+          "fact": [
+            "섭지코지한끼,연락처,0507-1370-0995"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "섭지코지한끼,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 성산읍 신양로 100 1층",
+          "answer_wordNum": 6,
+          "fact": [
+            "섭지코지한끼,주소,제주 서귀포시 성산읍 신양로 100 1층"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "섭지코지한끼,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "해물카레덮밥, 흑돼지돈까스",
+          "answer_wordNum": 2,
+          "fact": [
+            "섭지코지한끼,메뉴,해물카레덮밥, 흑돼지돈까스"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1370-0995",
+          "answer_wordNum": 1,
+          "fact": [
+            "섭지코지한끼,연락처,0507-1370-0995"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "신양리숯불바베큐, 망고레이 섭지코지점",
+          "answer_wordNum": 3,
+          "fact": [
+            "섭지코지한끼,인접,신양리숯불바베큐, 망고레이 섭지코지점"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1370-0995",
+          "answer_wordNum": 1,
+          "fact": [
+            "섭지코지한끼,연락처,0507-1370-0995"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "12:30/13:00-23:00/23:30",
+          "answer_wordNum": 1,
+          "fact": [
+            "섭지코지한끼,영업시간,12:30/13:00-23:00/23:30"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "신양리숯불바베큐, 망고레이 섭지코지점",
+          "answer_wordNum": 3,
+          "fact": [
+            "섭지코지한끼,인접,신양리숯불바베큐, 망고레이 섭지코지점"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "섭지코지한끼,주차시설,있음"
+          ]
+        }
+      ]
+    }
+  ]
+}

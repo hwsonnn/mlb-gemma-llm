@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "573165",
+    "travelType": "음식점",
+    "place": "중문해녀의집",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "573165_1_jj_5_중문해녀의집_2_001.png",
+      "mapx": 33.2423776837508,
+      "mapy": 126.419141171189,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "중문해녀의집(중문동)",
+        "간판 "
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "573165_1_jj_5_중문해녀의집_2_002.png",
+      "mapx": 33.2423776837508,
+      "mapy": 126.419141171189,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "중문해녀의집(중문동)",
+        "건물 "
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "573165_1_jj_5_중문해녀의집_2_003.png",
+      "mapx": 33.2423776837508,
+      "mapy": 126.419141171189,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "중문해녀의집(중문동)",
+        "테이블"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "573165_1_jj_5_중문해녀의집_2_004.png",
+      "mapx": 33.2423776837508,
+      "mapy": 126.419141171189,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "중문해녀의집(중문동)",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "573165_1_jj_5_중문해녀의집_2_005.png",
+      "mapx": 33.2423776837508,
+      "mapy": 126.419141171189,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "중문해녀의집(중문동)",
+        "소라숙회, 문어숙회"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-738-9557",
+          "answer_wordNum": 1,
+          "fact": [
+            "중문해녀의집,연락처,064-738-9557"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "중문해녀의집,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "중문어촌계, 씨에스호텔앤리조트",
+          "answer_wordNum": 2,
+          "fact": [
+            "중문해녀의집,인접,중문어촌계, 씨에스호텔앤리조트"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "전복죽, 소라",
+          "answer_wordNum": 2,
+          "fact": [
+            "중문해녀의집,메뉴,전복죽, 소라"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-738-9557",
+          "answer_wordNum": 1,
+          "fact": [
+            "중문해녀의집,연락처,064-738-9557"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "중문해녀의집,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "중문해녀의집,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "중문어촌계, 씨에스호텔앤리조트",
+          "answer_wordNum": 2,
+          "fact": [
+            "중문해녀의집,인접,중문어촌계, 씨에스호텔앤리조트"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 중문관광로 194",
+          "answer_wordNum": 4,
+          "fact": [
+            "중문해녀의집,주소,제주 서귀포시 중문관광로 194"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-738-9557",
+          "answer_wordNum": 1,
+          "fact": [
+            "중문해녀의집,연락처,064-738-9557"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "중문해녀의집,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "중문해녀의집,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "중문해녀의집,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "중문어촌계, 씨에스호텔앤리조트",
+          "answer_wordNum": 2,
+          "fact": [
+            "중문해녀의집,인접,중문어촌계, 씨에스호텔앤리조트"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "12:00 - 17:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "중문해녀의집,영업시간,12:00 - 17:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 중문관광로 194",
+          "answer_wordNum": 4,
+          "fact": [
+            "중문해녀의집,주소,제주 서귀포시 중문관광로 194"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 중문관광로 194",
+          "answer_wordNum": 4,
+          "fact": [
+            "중문해녀의집,주소,제주 서귀포시 중문관광로 194"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "중문어촌계, 씨에스호텔앤리조트",
+          "answer_wordNum": 2,
+          "fact": [
+            "중문해녀의집,인접,중문어촌계, 씨에스호텔앤리조트"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "12:00 - 17:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "중문해녀의집,영업시간,12:00 - 17:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-738-9557",
+          "answer_wordNum": 1,
+          "fact": [
+            "중문해녀의집,연락처,064-738-9557"
+          ]
+        }
+      ]
+    }
+  ]
+}

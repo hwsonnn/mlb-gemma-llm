@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "616110",
+    "travelType": "음식점",
+    "place": "카페책자국",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "616110_1_jj_5_카페책자국_1_001.png",
+      "mapx": 33.4962393451741,
+      "mapy": 126.90767894138,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "카페책자국(구좌읍)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "616110_1_jj_5_카페책자국_1_002.png",
+      "mapx": 33.4962393451741,
+      "mapy": 126.90767894138,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "카페책자국(구좌읍)",
+        "건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "616110_1_jj_5_카페책자국_1_003.png",
+      "mapx": 33.4962393451741,
+      "mapy": 126.90767894138,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "카페책자국(구좌읍)",
+        "테이블"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "616110_1_jj_5_카페책자국_1_004.png",
+      "mapx": 33.4962393451741,
+      "mapy": 126.90767894138,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "카페책자국(구좌읍)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "616110_1_jj_5_카페책자국_1_005.png",
+      "mapx": 33.4962393451741,
+      "mapy": 126.90767894138,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "카페책자국(구좌읍)",
+        "초밥"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 위치는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 동쪽 끝",
+          "answer_wordNum": 3,
+          "fact": [
+            "카페책자국,위치,제주 동쪽 끝"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 판매하나요?",
+          "question_wordNum": 4,
+          "answer": "책",
+          "answer_wordNum": 1,
+          "fact": [
+            "카페책자국,판매,책"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "밭담사이, 종달부부",
+          "answer_wordNum": 2,
+          "fact": [
+            "카페책자국,인접,밭담사이, 종달부부"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 어디인가요?",
+          "question_wordNum": 3,
+          "answer": "북 카페, 북셀렉샵",
+          "answer_wordNum": 3,
+          "fact": [
+            "카페책자국,이다,북 카페, 북셀렉샵"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳은 어디인가요?",
+          "question_wordNum": 3,
+          "answer": "북 카페, 북셀렉샵",
+          "answer_wordNum": 3,
+          "fact": [
+            "카페책자국,이다,북 카페, 북셀렉샵"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 구좌읍 종달로1길 117",
+          "answer_wordNum": 5,
+          "fact": [
+            "카페책자국,주소,제주 제주시 구좌읍 종달로1길 117"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "010-3701-1989",
+          "answer_wordNum": 1,
+          "fact": [
+            "카페책자국,연락처,010-3701-1989"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:30 - 18:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "카페책자국,영업시간,10:30 - 18:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:30 - 18:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "카페책자국,영업시간,10:30 - 18:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 화요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "카페책자국,휴무일,매주 화요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "아메리카노, 청귤카푸치노",
+          "answer_wordNum": 2,
+          "fact": [
+            "카페책자국,메뉴,아메리카노, 청귤카푸치노"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "카페책자국,주차시설,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "이 곳은 무엇을 판매하나요?",
+          "question_wordNum": 4,
+          "answer": "책",
+          "answer_wordNum": 1,
+          "fact": [
+            "카페책자국,판매,책"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳은 어디인가요?",
+          "question_wordNum": 3,
+          "answer": "북 카페, 북셀렉샵",
+          "answer_wordNum": 3,
+          "fact": [
+            "카페책자국,이다,북 카페, 북셀렉샵"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "010-3701-1989",
+          "answer_wordNum": 1,
+          "fact": [
+            "카페책자국,연락처,010-3701-1989"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 화요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "카페책자국,휴무일,매주 화요일"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "아메리카노, 청귤카푸치노",
+          "answer_wordNum": 2,
+          "fact": [
+            "카페책자국,메뉴,아메리카노, 청귤카푸치노"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:30 - 18:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "카페책자국,영업시간,10:30 - 18:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 구좌읍 종달로1길 117",
+          "answer_wordNum": 5,
+          "fact": [
+            "카페책자국,주소,제주 제주시 구좌읍 종달로1길 117"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "밭담사이, 종달부부",
+          "answer_wordNum": 2,
+          "fact": [
+            "카페책자국,인접,밭담사이, 종달부부"
+          ]
+        }
+      ]
+    }
+  ]
+}

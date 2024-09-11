@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "614980",
+    "travelType": "음식점",
+    "place": "몸생각",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "614980_1_jj_5_몸생각_1_001.png",
+      "mapx": 33.5208160967164,
+      "mapy": 126.58137535346,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "몸생각(삼양이동)",
+        "계단, 화분, 미닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "614980_1_jj_5_몸생각_1_002.png",
+      "mapx": 33.5208160967164,
+      "mapy": 126.58137535346,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "몸생각(삼양이동)",
+        "건물, 간판, 자동차, 전봇대"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "614980_1_jj_5_몸생각_1_003.png",
+      "mapx": 33.5208160967164,
+      "mapy": 126.58137535346,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "몸생각(삼양이동)",
+        "메뉴판, 청소기, 화분"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "614980_1_jj_5_몸생각_1_004.png",
+      "mapx": 33.5208160967164,
+      "mapy": 126.58137535346,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "몸생각(삼양이동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "614980_1_jj_5_몸생각_1_005.png",
+      "mapx": 33.5208160967164,
+      "mapy": 126.58137535346,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "몸생각(삼양이동)",
+        "뚝배기, 접시, 공깃밥"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "김치찌개, 우거지탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "몸생각,메뉴,김치찌개, 우거지탕"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "10:00~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "몸생각,영업시간,10:00~22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-755-5459",
+          "answer_wordNum": 1,
+          "fact": [
+            "몸생각,연락처,064-755-5459"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "몸생각,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "10:00~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "몸생각,영업시간,10:00~22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "몸생각,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "몸생각,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 지석8길 4",
+          "answer_wordNum": 4,
+          "fact": [
+            "몸생각,주소,제주 제주시 지석8길 4"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "몸생각,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "철가방, 소원",
+          "answer_wordNum": 2,
+          "fact": [
+            "몸생각,인접,철가방, 소원"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 지석8길 4",
+          "answer_wordNum": 4,
+          "fact": [
+            "몸생각,주소,제주 제주시 지석8길 4"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "김치찌개, 우거지탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "몸생각,메뉴,김치찌개, 우거지탕"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "철가방, 소원",
+          "answer_wordNum": 2,
+          "fact": [
+            "몸생각,인접,철가방, 소원"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-755-5459",
+          "answer_wordNum": 1,
+          "fact": [
+            "몸생각,연락처,064-755-5459"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "김치찌개, 우거지탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "몸생각,메뉴,김치찌개, 우거지탕"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "10:00~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "몸생각,영업시간,10:00~22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-755-5459",
+          "answer_wordNum": 1,
+          "fact": [
+            "몸생각,연락처,064-755-5459"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "몸생각,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "10:00~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "몸생각,영업시간,10:00~22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "몸생각,주차시설,있음"
+          ]
+        }
+      ]
+    }
+  ]
+}

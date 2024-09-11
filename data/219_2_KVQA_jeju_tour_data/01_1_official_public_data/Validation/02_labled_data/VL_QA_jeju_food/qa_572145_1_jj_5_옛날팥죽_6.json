@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "572145",
+    "travelType": "음식점",
+    "place": "옛날팥죽",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "572145_1_jj_5_옛날팥죽_6_001.png",
+      "mapx": 33.3886141525358,
+      "mapy": 126.798910707099,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "옛날팥죽(표선면)",
+        "간판, 미닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "572145_1_jj_5_옛날팥죽_6_002.png",
+      "mapx": 33.3886141525358,
+      "mapy": 126.798910707099,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "옛날팥죽(표선면)",
+        "건물, 실외기, 화분"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "572145_1_jj_5_옛날팥죽_6_003.png",
+      "mapx": 33.3886141525358,
+      "mapy": 126.798910707099,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "옛날팥죽(표선면)",
+        "테이블, 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "572145_1_jj_5_옛날팥죽_6_004.png",
+      "mapx": 33.3886141525358,
+      "mapy": 126.798910707099,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "옛날팥죽(표선면)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "572145_1_jj_5_옛날팥죽_6_005.png",
+      "mapx": 33.3886141525358,
+      "mapy": 126.798910707099,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "옛날팥죽(표선면)",
+        "팥죽"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "대성농장, 서문터가든",
+          "answer_wordNum": 2,
+          "fact": [
+            "옛날팥죽,인접,대성농장, 서문터가든"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 표선면 성읍민속로 130",
+          "answer_wordNum": 5,
+          "fact": [
+            "옛날팥죽,주소,제주 서귀포시 표선면 성읍민속로 130"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "옛날팥죽,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 월요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "옛날팥죽,휴무일,매주 월요일"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "10:00 - 17:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "옛날팥죽,영업시간,10:00 - 17:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "새알팥죽, 팥칼국수",
+          "answer_wordNum": 2,
+          "fact": [
+            "옛날팥죽,메뉴,새알팥죽, 팥칼국수"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "대성농장, 서문터가든",
+          "answer_wordNum": 2,
+          "fact": [
+            "옛날팥죽,인접,대성농장, 서문터가든"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1358-3479",
+          "answer_wordNum": 1,
+          "fact": [
+            "옛날팥죽,연락처,0507-1358-3479"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "옛날팥죽,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "새알팥죽, 팥칼국수",
+          "answer_wordNum": 2,
+          "fact": [
+            "옛날팥죽,메뉴,새알팥죽, 팥칼국수"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "대성농장, 서문터가든",
+          "answer_wordNum": 2,
+          "fact": [
+            "옛날팥죽,인접,대성농장, 서문터가든"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1358-3479",
+          "answer_wordNum": 1,
+          "fact": [
+            "옛날팥죽,연락처,0507-1358-3479"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "10:00 - 17:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "옛날팥죽,영업시간,10:00 - 17:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "새알팥죽, 팥칼국수",
+          "answer_wordNum": 2,
+          "fact": [
+            "옛날팥죽,메뉴,새알팥죽, 팥칼국수"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 월요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "옛날팥죽,휴무일,매주 월요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "옛날팥죽,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "대성농장, 서문터가든",
+          "answer_wordNum": 2,
+          "fact": [
+            "옛날팥죽,인접,대성농장, 서문터가든"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1358-3479",
+          "answer_wordNum": 1,
+          "fact": [
+            "옛날팥죽,연락처,0507-1358-3479"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 표선면 성읍민속로 130",
+          "answer_wordNum": 5,
+          "fact": [
+            "옛날팥죽,주소,제주 서귀포시 표선면 성읍민속로 130"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 월요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "옛날팥죽,휴무일,매주 월요일"
+          ]
+        }
+      ]
+    }
+  ]
+}

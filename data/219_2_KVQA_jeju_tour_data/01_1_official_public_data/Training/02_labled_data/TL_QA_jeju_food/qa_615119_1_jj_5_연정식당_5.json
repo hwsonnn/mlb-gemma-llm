@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "615119",
+    "travelType": "음식점",
+    "place": "연정식당",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "615119_1_jj_5_연정식당_5_001.png",
+      "mapx": 33.4837857124499,
+      "mapy": 126.486766966444,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "연정식당(연동)",
+        "간판, 여닫이문, 화분"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "615119_1_jj_5_연정식당_5_002.png",
+      "mapx": 33.4837857124499,
+      "mapy": 126.486766966444,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "연정식당(연동)",
+        "간판, 건물, 실외기"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "615119_1_jj_5_연정식당_5_003.png",
+      "mapx": 33.4837857124499,
+      "mapy": 126.486766966444,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "연정식당(연동)",
+        "테이블, 등받이의자, 휴지, 냉장고, TV, 메뉴판"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "615119_1_jj_5_연정식당_5_004.png",
+      "mapx": 33.4837857124499,
+      "mapy": 126.486766966444,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "연정식당(연동)",
+        "메뉴판, 장그릇"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "615119_1_jj_5_연정식당_5_005.png",
+      "mapx": 33.4837857124499,
+      "mapy": 126.486766966444,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "연정식당(연동)",
+        "불판, 고기, 장"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "09:00~21:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "연정식당,영업시간,09:00~21:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-747-3959",
+          "answer_wordNum": 1,
+          "fact": [
+            "연정식당,연락처,064-747-3959"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "첫째, 셋째 일요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "연정식당,휴무일,첫째, 셋째 일요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 신광로10길 29",
+          "answer_wordNum": 4,
+          "fact": [
+            "연정식당,주소,제주 제주시 신광로10길 29"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "연정식당,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "첫째, 셋째 일요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "연정식당,휴무일,첫째, 셋째 일요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 신광로10길 29",
+          "answer_wordNum": 4,
+          "fact": [
+            "연정식당,주소,제주 제주시 신광로10길 29"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "가브리살, 목살",
+          "answer_wordNum": 2,
+          "fact": [
+            "연정식당,메뉴,가브리살, 목살"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "CU, 빽다방",
+          "answer_wordNum": 2,
+          "fact": [
+            "연정식당,인접,CU, 빽다방"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 신광로10길 29",
+          "answer_wordNum": 4,
+          "fact": [
+            "연정식당,주소,제주 제주시 신광로10길 29"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "가브리살, 목살",
+          "answer_wordNum": 2,
+          "fact": [
+            "연정식당,메뉴,가브리살, 목살"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "09:00~21:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "연정식당,영업시간,09:00~21:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-747-3959",
+          "answer_wordNum": 1,
+          "fact": [
+            "연정식당,연락처,064-747-3959"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "가브리살, 목살",
+          "answer_wordNum": 2,
+          "fact": [
+            "연정식당,메뉴,가브리살, 목살"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "09:00~21:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "연정식당,영업시간,09:00~21:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "연정식당,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "첫째, 셋째 일요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "연정식당,휴무일,첫째, 셋째 일요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "09:00~21:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "연정식당,영업시간,09:00~21:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "연정식당,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "CU, 빽다방",
+          "answer_wordNum": 2,
+          "fact": [
+            "연정식당,인접,CU, 빽다방"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "573787",
+    "travelType": "음식점",
+    "place": "바당길",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "573787_1_jj_5_바당길_2_001.png",
+      "mapx": 33.263204870861,
+      "mapy": 126.640915247947,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "바당길(남원읍)",
+        "미닫이문, 화분"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "573787_1_jj_5_바당길_2_002.png",
+      "mapx": 33.263204870861,
+      "mapy": 126.640915247947,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "바당길(남원읍)",
+        "간판, 화분, 건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "573787_1_jj_5_바당길_2_003.png",
+      "mapx": 33.263204870861,
+      "mapy": 126.640915247947,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "바당길(남원읍)",
+        "등받이 의자, 테이블, 냉장고"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "573787_1_jj_5_바당길_2_004.png",
+      "mapx": 33.263204870861,
+      "mapy": 126.640915247947,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "바당길(남원읍)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "573787_1_jj_5_바당길_2_005.png",
+      "mapx": 33.263204870861,
+      "mapy": 126.640915247947,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "바당길(남원읍)",
+        "전복죽, 반찬"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "CU, 신협",
+          "answer_wordNum": 2,
+          "fact": [
+            "바당길,인접,CU, 신협"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "바당길,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "바당길,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "백반, 음료",
+          "answer_wordNum": 2,
+          "fact": [
+            "바당길,메뉴,백반, 음료"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1300-2104",
+          "answer_wordNum": 1,
+          "fact": [
+            "바당길,연락처,0507-1300-2104"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 남원읍 공천포로 47-4 1층 바당길 서귀포점",
+          "answer_wordNum": 8,
+          "fact": [
+            "바당길,주소,제주 서귀포시 남원읍 공천포로 47-4 1층 바당길 서귀포점"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "CU, 신협",
+          "answer_wordNum": 2,
+          "fact": [
+            "바당길,인접,CU, 신협"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "백반, 음료",
+          "answer_wordNum": 2,
+          "fact": [
+            "바당길,메뉴,백반, 음료"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "바당길,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "바당길,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "CU, 신협",
+          "answer_wordNum": 2,
+          "fact": [
+            "바당길,인접,CU, 신협"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1300-2104",
+          "answer_wordNum": 1,
+          "fact": [
+            "바당길,연락처,0507-1300-2104"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 남원읍 공천포로 47-4 1층 바당길 서귀포점",
+          "answer_wordNum": 8,
+          "fact": [
+            "바당길,주소,제주 서귀포시 남원읍 공천포로 47-4 1층 바당길 서귀포점"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "바당길,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "백반, 음료",
+          "answer_wordNum": 2,
+          "fact": [
+            "바당길,메뉴,백반, 음료"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1300-2104",
+          "answer_wordNum": 1,
+          "fact": [
+            "바당길,연락처,0507-1300-2104"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "백반, 음료",
+          "answer_wordNum": 2,
+          "fact": [
+            "바당길,메뉴,백반, 음료"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 남원읍 공천포로 47-4 1층 바당길 서귀포점",
+          "answer_wordNum": 8,
+          "fact": [
+            "바당길,주소,제주 서귀포시 남원읍 공천포로 47-4 1층 바당길 서귀포점"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1300-2104",
+          "answer_wordNum": 1,
+          "fact": [
+            "바당길,연락처,0507-1300-2104"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "바당길,주차시설,있음"
+          ]
+        }
+      ]
+    }
+  ]
+}

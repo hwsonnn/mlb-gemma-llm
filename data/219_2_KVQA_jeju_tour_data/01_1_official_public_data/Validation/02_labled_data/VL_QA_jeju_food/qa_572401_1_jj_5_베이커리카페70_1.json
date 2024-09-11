@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "572401",
+    "travelType": "음식점",
+    "place": "베이커리카페70",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "572401_1_jj_5_베이커리카페70_1_001.png",
+      "mapx": 33.2449932653755,
+      "mapy": 126.569304321433,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "베이커리카페70(서귀동)",
+        "건물, 간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "572401_1_jj_5_베이커리카페70_1_002.png",
+      "mapx": 33.2449932653755,
+      "mapy": 126.569304321433,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "베이커리카페70(서귀동)",
+        "건물, 간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "572401_1_jj_5_베이커리카페70_1_003.png",
+      "mapx": 33.2449932653755,
+      "mapy": 126.569304321433,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "베이커리카페70(서귀동)",
+        "테이블, 의자, 시계, 액자, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "572401_1_jj_5_베이커리카페70_1_004.png",
+      "mapx": 33.2449932653755,
+      "mapy": 126.569304321433,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "베이커리카페70(서귀동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "572401_1_jj_5_베이커리카페70_1_005.png",
+      "mapx": 33.2449932653755,
+      "mapy": 126.569304321433,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "베이커리카페70(서귀동)",
+        "크루와상, 접시, 컵"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "크루아상, 오늘의커피",
+          "answer_wordNum": 2,
+          "fact": [
+            "베이커리카페70,메뉴,크루아상, 오늘의커피"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 소암로 33 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "베이커리카페70,주소,제주 서귀포시 소암로 33 1층"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "베이커리카페70,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "무드우드, 만사성",
+          "answer_wordNum": 2,
+          "fact": [
+            "베이커리카페70,인접,무드우드, 만사성"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "베이커리카페70,휴무일,매주 일요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "베이커리카페70,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "무드우드, 만사성",
+          "answer_wordNum": 2,
+          "fact": [
+            "베이커리카페70,인접,무드우드, 만사성"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이곳은 무엇을 전문으로 하나요?",
+          "question_wordNum": 4,
+          "answer": "페이스트리 크로와상, 라이트로스팅 핸드드립",
+          "answer_wordNum": 4,
+          "fact": [
+            "베이커리카페70,전문,페이스트리 크로와상, 라이트로스팅 핸드드립"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "크루아상, 오늘의커피",
+          "answer_wordNum": 2,
+          "fact": [
+            "베이커리카페70,메뉴,크루아상, 오늘의커피"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "09:00 - 16:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "베이커리카페70,영업시간,09:00 - 16:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "베이커리카페70,휴무일,매주 일요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-733-7077",
+          "answer_wordNum": 1,
+          "fact": [
+            "베이커리카페70,연락처,064-733-7077"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "무드우드, 만사성",
+          "answer_wordNum": 2,
+          "fact": [
+            "베이커리카페70,인접,무드우드, 만사성"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-733-7077",
+          "answer_wordNum": 1,
+          "fact": [
+            "베이커리카페70,연락처,064-733-7077"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 소암로 33 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "베이커리카페70,주소,제주 서귀포시 소암로 33 1층"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "크루아상, 오늘의커피",
+          "answer_wordNum": 2,
+          "fact": [
+            "베이커리카페70,메뉴,크루아상, 오늘의커피"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "크루아상, 오늘의커피",
+          "answer_wordNum": 2,
+          "fact": [
+            "베이커리카페70,메뉴,크루아상, 오늘의커피"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-733-7077",
+          "answer_wordNum": 1,
+          "fact": [
+            "베이커리카페70,연락처,064-733-7077"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "09:00 - 16:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "베이커리카페70,영업시간,09:00 - 16:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "베이커리카페70,주차시설,있음"
+          ]
+        }
+      ]
+    }
+  ]
+}

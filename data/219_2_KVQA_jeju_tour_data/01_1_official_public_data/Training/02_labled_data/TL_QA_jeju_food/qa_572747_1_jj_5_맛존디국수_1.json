@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "572747",
+    "travelType": "음식점",
+    "place": "맛존디국수",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "572747_1_jj_5_맛존디국수_1_001.png",
+      "mapx": 33.2449747285062,
+      "mapy": 126.526856977981,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "맛존디국수(호근동)",
+        "미닫이문, 간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "572747_1_jj_5_맛존디국수_1_002.png",
+      "mapx": 33.2449747285062,
+      "mapy": 126.526856977981,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "맛존디국수(호근동)",
+        "간판, 미닫이문"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "572747_1_jj_5_맛존디국수_1_003.png",
+      "mapx": 33.2449747285062,
+      "mapy": 126.526856977981,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "맛존디국수(호근동)",
+        "테이블, 등받이의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "572747_1_jj_5_맛존디국수_1_004.png",
+      "mapx": 33.2449747285062,
+      "mapy": 126.526856977981,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "맛존디국수(호근동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "572747_1_jj_5_맛존디국수_1_005.png",
+      "mapx": 33.2449747285062,
+      "mapy": 126.526856977981,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "맛존디국수(호근동)",
+        "국밥, 뚝배기"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "어떤 방식을 사용하나요?",
+          "question_wordNum": 3,
+          "answer": "가마솥 방식",
+          "answer_wordNum": 2,
+          "fact": [
+            "맛존디국수,사용,가마솥 방식"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "맛존디국수,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "09:30 - 15:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "맛존디국수,영업시간,09:30 - 15:30"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "켄싱턴리조트, 강정천 유원지, 서귀포 월드컵 경기장, 서귀포 이마트, 세리월드, 미로공원, 새연교, 새섬공원, 법환포구, 외돌개, 황우지해안, 서귀포여자고등학교, 건강체험민박, 일동기업사",
+          "answer_wordNum": 18,
+          "fact": [
+            "맛존디국수,인접,켄싱턴리조트, 강정천 유원지, 서귀포 월드컵 경기장, 서귀포 이마트, 세리월드, 미로공원, 새연교, 새섬공원, 법환포구, 외돌개, 황우지해안, 서귀포여자고등학교, 건강체험민박, 일동기업사"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 태평로 36",
+          "answer_wordNum": 4,
+          "fact": [
+            "맛존디국수,주소,제주 서귀포시 태평로 36"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "09:30 - 15:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "맛존디국수,영업시간,09:30 - 15:30"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1343-1278",
+          "answer_wordNum": 1,
+          "fact": [
+            "맛존디국수,연락처,0507-1343-1278"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "맛존디국수,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "고기국수, 돔베고기",
+          "answer_wordNum": 2,
+          "fact": [
+            "맛존디국수,메뉴,고기국수, 돔베고기"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 태평로 36",
+          "answer_wordNum": 4,
+          "fact": [
+            "맛존디국수,주소,제주 서귀포시 태평로 36"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "맛존디국수,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1343-1278",
+          "answer_wordNum": 1,
+          "fact": [
+            "맛존디국수,연락처,0507-1343-1278"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "고기국수, 돔베고기",
+          "answer_wordNum": 2,
+          "fact": [
+            "맛존디국수,메뉴,고기국수, 돔베고기"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "09:30 - 15:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "맛존디국수,영업시간,09:30 - 15:30"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "맛존디국수,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "고기국수, 돔베고기",
+          "answer_wordNum": 2,
+          "fact": [
+            "맛존디국수,메뉴,고기국수, 돔베고기"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 태평로 36",
+          "answer_wordNum": 4,
+          "fact": [
+            "맛존디국수,주소,제주 서귀포시 태평로 36"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1343-1278",
+          "answer_wordNum": 1,
+          "fact": [
+            "맛존디국수,연락처,0507-1343-1278"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "맛존디국수,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "켄싱턴리조트, 강정천 유원지, 서귀포 월드컵 경기장, 서귀포 이마트, 세리월드, 미로공원, 새연교, 새섬공원, 법환포구, 외돌개, 황우지해안, 서귀포여자고등학교, 건강체험민박, 일동기업사",
+          "answer_wordNum": 18,
+          "fact": [
+            "맛존디국수,인접,켄싱턴리조트, 강정천 유원지, 서귀포 월드컵 경기장, 서귀포 이마트, 세리월드, 미로공원, 새연교, 새섬공원, 법환포구, 외돌개, 황우지해안, 서귀포여자고등학교, 건강체험민박, 일동기업사"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "615668",
+    "travelType": "음식점",
+    "place": "금능반지하",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "615668_1_jj_5_금능반지하_1_001.png",
+      "mapx": 33.3910733394765,
+      "mapy": 126.22863126772,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "금능반지하(한림읍)",
+        "유리창, 벤치의자"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "615668_1_jj_5_금능반지하_1_002.png",
+      "mapx": 33.3910733394765,
+      "mapy": 126.22863126772,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "금능반지하(한림읍)",
+        "의자, 건물, 조명"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "615668_1_jj_5_금능반지하_1_003.png",
+      "mapx": 33.3910733394765,
+      "mapy": 126.22863126772,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "금능반지하(한림읍)",
+        "조명, 테이블, 등받이의자, 액자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "615668_1_jj_5_금능반지하_1_004.png",
+      "mapx": 33.3910733394765,
+      "mapy": 126.22863126772,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "금능반지하(한림읍)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "615668_1_jj_5_금능반지하_1_005.png",
+      "mapx": 33.3910733394765,
+      "mapy": 126.22863126772,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "금능반지하(한림읍)",
+        "슈바인학센, 감자튀김, 맥주, 소스, 조명"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "금능반지하,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "칵테일, 생맥주",
+          "answer_wordNum": 2,
+          "fact": [
+            "금능반지하,메뉴,칵테일, 생맥주"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "15:00 - 24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "금능반지하,영업시간,15:00 - 24:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "인접한 시설이 있나요?",
+          "question_wordNum": 3,
+          "answer": "금능방파제, 코지하우스",
+          "answer_wordNum": 2,
+          "fact": [
+            "금능반지하,인접,금능방파제, 코지하우스"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1333-4337",
+          "answer_wordNum": 1,
+          "fact": [
+            "금능반지하,연락처,0507-1333-4337"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "칵테일, 생맥주",
+          "answer_wordNum": 2,
+          "fact": [
+            "금능반지하,메뉴,칵테일, 생맥주"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "금능반지하,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "금능반지하,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 한림읍 금능9길 30",
+          "answer_wordNum": 5,
+          "fact": [
+            "금능반지하,주소,제주 제주시 한림읍 금능9길 30"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "금능반지하,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "칵테일, 생맥주",
+          "answer_wordNum": 2,
+          "fact": [
+            "금능반지하,메뉴,칵테일, 생맥주"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1333-4337",
+          "answer_wordNum": 1,
+          "fact": [
+            "금능반지하,연락처,0507-1333-4337"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "칵테일, 생맥주",
+          "answer_wordNum": 2,
+          "fact": [
+            "금능반지하,메뉴,칵테일, 생맥주"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "15:00 - 24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "금능반지하,영업시간,15:00 - 24:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 한림읍 금능9길 30",
+          "answer_wordNum": 5,
+          "fact": [
+            "금능반지하,주소,제주 제주시 한림읍 금능9길 30"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "인접한 시설이 있나요?",
+          "question_wordNum": 3,
+          "answer": "금능방파제, 코지하우스",
+          "answer_wordNum": 2,
+          "fact": [
+            "금능반지하,인접,금능방파제, 코지하우스"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1333-4337",
+          "answer_wordNum": 1,
+          "fact": [
+            "금능반지하,연락처,0507-1333-4337"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "칵테일, 생맥주",
+          "answer_wordNum": 2,
+          "fact": [
+            "금능반지하,메뉴,칵테일, 생맥주"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "금능반지하,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "금능반지하,휴무일,없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

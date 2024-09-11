@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "615932",
+    "travelType": "음식점",
+    "place": "돌담길괴기집 애월곽지",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "615932_1_jj_5_돌담길괴기집 애월곽지_1_001.png",
+      "mapx": 33.4497932277457,
+      "mapy": 126.307101465289,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "돌담길괴기집 애월곽지(애월읍)",
+        "간판, 현수막, 가스통"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "615932_1_jj_5_돌담길괴기집 애월곽지_1_002.png",
+      "mapx": 33.4497932277457,
+      "mapy": 126.307101465289,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "돌담길괴기집 애월곽지(애월읍)",
+        "건물, 파라솔, 테이블\n"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "615932_1_jj_5_돌담길괴기집 애월곽지_1_003.png",
+      "mapx": 33.4497932277457,
+      "mapy": 126.307101465289,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "돌담길괴기집 애월곽지(애월읍)",
+        "테이블, 등받이의자, 정수기, 이동식트레이"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "615932_1_jj_5_돌담길괴기집 애월곽지_1_004.png",
+      "mapx": 33.4497932277457,
+      "mapy": 126.307101465289,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "돌담길괴기집 애월곽지(애월읍)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "615932_1_jj_5_돌담길괴기집 애월곽지_1_005.png",
+      "mapx": 33.4497932277457,
+      "mapy": 126.307101465289,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "돌담길괴기집 애월곽지(애월읍)",
+        "돼지고기, 불판, 로즈마리"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "충청북도교육청제주교육원, 자주올레펜션",
+          "answer_wordNum": 2,
+          "fact": [
+            "돌담길괴기집 애월곽지,인접,충청북도교육청제주교육원, 자주올레펜션"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 흑돼지 근고기, 흑돼지 김치찌개",
+          "answer_wordNum": 5,
+          "fact": [
+            "돌담길괴기집 애월곽지,메뉴,제주 흑돼지 근고기, 흑돼지 김치찌개"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "17:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "돌담길괴기집 애월곽지,영업시간,17:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "돌담길괴기집 애월곽지,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "충청북도교육청제주교육원, 자주올레펜션",
+          "answer_wordNum": 2,
+          "fact": [
+            "돌담길괴기집 애월곽지,인접,충청북도교육청제주교육원, 자주올레펜션"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1361-1107",
+          "answer_wordNum": 1,
+          "fact": [
+            "돌담길괴기집 애월곽지,연락처,0507-1361-1107"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "돌담길괴기집 애월곽지,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "돌담길괴기집 애월곽지,휴무일,매주 일요일"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "17:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "돌담길괴기집 애월곽지,영업시간,17:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1361-1107",
+          "answer_wordNum": 1,
+          "fact": [
+            "돌담길괴기집 애월곽지,연락처,0507-1361-1107"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "제주 흑돼지 근고기, 흑돼지 김치찌개",
+          "answer_wordNum": 5,
+          "fact": [
+            "돌담길괴기집 애월곽지,메뉴,제주 흑돼지 근고기, 흑돼지 김치찌개"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "돌담길괴기집 애월곽지,휴무일,매주 일요일"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1361-1107",
+          "answer_wordNum": 1,
+          "fact": [
+            "돌담길괴기집 애월곽지,연락처,0507-1361-1107"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "17:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "돌담길괴기집 애월곽지,영업시간,17:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 애월읍 곽지5길 8-11",
+          "answer_wordNum": 5,
+          "fact": [
+            "돌담길괴기집 애월곽지,주소,제주 제주시 애월읍 곽지5길 8-11"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳에서 무엇을 먹을 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "젓갈",
+          "answer_wordNum": 1,
+          "fact": [
+            "돌담길괴기집 애월곽지,먹을수있다,젓갈"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "돌담길괴기집 애월곽지,휴무일,매주 일요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 흑돼지 근고기, 흑돼지 김치찌개",
+          "answer_wordNum": 5,
+          "fact": [
+            "돌담길괴기집 애월곽지,메뉴,제주 흑돼지 근고기, 흑돼지 김치찌개"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 애월읍 곽지5길 8-11",
+          "answer_wordNum": 5,
+          "fact": [
+            "돌담길괴기집 애월곽지,주소,제주 제주시 애월읍 곽지5길 8-11"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳에서 무엇을 먹을 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "젓갈",
+          "answer_wordNum": 1,
+          "fact": [
+            "돌담길괴기집 애월곽지,먹을수있다,젓갈"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "574682",
+    "travelType": "음식점",
+    "place": "팔도실비집 삼화점",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "574682_1_jj_5_팔도실비집 삼화점_1_001.png",
+      "mapx": 33.5164214315062,
+      "mapy": 126.579900493025,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "팔도실비집 삼화점(도련일동)",
+        "간판, 건물, 화환"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "574682_1_jj_5_팔도실비집 삼화점_1_002.png",
+      "mapx": 33.5164214315062,
+      "mapy": 126.579900493025,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "팔도실비집 삼화점(도련일동)",
+        "건물, 간판, 미닫이 문"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "574682_1_jj_5_팔도실비집 삼화점_1_003.png",
+      "mapx": 33.5164214315062,
+      "mapy": 126.579900493025,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "팔도실비집 삼화점(도련일동)",
+        "테이블, 의자, 냉장고, 메뉴판, 전등, 가스버너"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "574682_1_jj_5_팔도실비집 삼화점_1_004.png",
+      "mapx": 33.5164214315062,
+      "mapy": 126.579900493025,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "팔도실비집 삼화점(도련일동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "574682_1_jj_5_팔도실비집 삼화점_1_005.png",
+      "mapx": 33.5164214315062,
+      "mapy": 126.579900493025,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "팔도실비집 삼화점(도련일동)",
+        "닭 두루치기"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 건주로4길 10-4",
+          "answer_wordNum": 4,
+          "fact": [
+            "팔도실비집 삼화점,주소,제주 제주시 건주로4길 10-4"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "묵은지김치전골, 해물파전",
+          "answer_wordNum": 2,
+          "fact": [
+            "팔도실비집 삼화점,메뉴,묵은지김치전골, 해물파전"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "16:00/17:00-03:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "팔도실비집 삼화점,영업시간,16:00/17:00-03:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "맨드라미공원, 근린공원",
+          "answer_wordNum": 2,
+          "fact": [
+            "팔도실비집 삼화점,인접,맨드라미공원, 근린공원"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "맨드라미공원, 근린공원",
+          "answer_wordNum": 2,
+          "fact": [
+            "팔도실비집 삼화점,인접,맨드라미공원, 근린공원"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "팔도실비집 삼화점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "팔도실비집 삼화점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "16:00/17:00-03:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "팔도실비집 삼화점,영업시간,16:00/17:00-03:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "16:00/17:00-03:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "팔도실비집 삼화점,영업시간,16:00/17:00-03:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "맨드라미공원, 근린공원",
+          "answer_wordNum": 2,
+          "fact": [
+            "팔도실비집 삼화점,인접,맨드라미공원, 근린공원"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1421-8589",
+          "answer_wordNum": 1,
+          "fact": [
+            "팔도실비집 삼화점,연락처,0507-1421-8589"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "팔도실비집 삼화점,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "팔도실비집 삼화점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "묵은지김치전골, 해물파전",
+          "answer_wordNum": 2,
+          "fact": [
+            "팔도실비집 삼화점,메뉴,묵은지김치전골, 해물파전"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "맨드라미공원, 근린공원",
+          "answer_wordNum": 2,
+          "fact": [
+            "팔도실비집 삼화점,인접,맨드라미공원, 근린공원"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1421-8589",
+          "answer_wordNum": 1,
+          "fact": [
+            "팔도실비집 삼화점,연락처,0507-1421-8589"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "팔도실비집 삼화점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "묵은지김치전골, 해물파전",
+          "answer_wordNum": 2,
+          "fact": [
+            "팔도실비집 삼화점,메뉴,묵은지김치전골, 해물파전"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 건주로4길 10-4",
+          "answer_wordNum": 4,
+          "fact": [
+            "팔도실비집 삼화점,주소,제주 제주시 건주로4길 10-4"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "16:00/17:00-03:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "팔도실비집 삼화점,영업시간,16:00/17:00-03:00"
+          ]
+        }
+      ]
+    }
+  ]
+}

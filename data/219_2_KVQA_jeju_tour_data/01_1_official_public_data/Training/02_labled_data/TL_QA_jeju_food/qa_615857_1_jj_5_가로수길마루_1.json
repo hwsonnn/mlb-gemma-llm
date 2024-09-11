@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "615857",
+    "travelType": "음식점",
+    "place": "가로수길마루",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "615857_1_jj_5_가로수길마루_1_001.png",
+      "mapx": 33.4601140551333,
+      "mapy": 126.311231581006,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "가로수길마루(애월읍)",
+        "여닫이문, 배너, 간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "615857_1_jj_5_가로수길마루_1_002.png",
+      "mapx": 33.4601140551333,
+      "mapy": 126.311231581006,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "가로수길마루(애월읍)",
+        "유리창, 간판, 건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "615857_1_jj_5_가로수길마루_1_003.png",
+      "mapx": 33.4601140551333,
+      "mapy": 126.311231581006,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "가로수길마루(애월읍)",
+        "테이블, 등받이의자, 메뉴판, 진열대"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "615857_1_jj_5_가로수길마루_1_004.png",
+      "mapx": 33.4601140551333,
+      "mapy": 126.311231581006,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "가로수길마루(애월읍)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "615857_1_jj_5_가로수길마루_1_005.png",
+      "mapx": 33.4601140551333,
+      "mapy": 126.311231581006,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "가로수길마루(애월읍)",
+        "딱새우사시미"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "17:00 - 01:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "가로수길마루,영업시간,17:00 - 01:30"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "가로수길마루,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1385-2929",
+          "answer_wordNum": 1,
+          "fact": [
+            "가로수길마루,연락처,0507-1385-2929"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "딱새우사시미, 문어해물라면",
+          "answer_wordNum": 2,
+          "fact": [
+            "가로수길마루,메뉴,딱새우사시미, 문어해물라면"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "17:00 - 01:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "가로수길마루,영업시간,17:00 - 01:30"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "딱새우사시미, 문어해물라면",
+          "answer_wordNum": 2,
+          "fact": [
+            "가로수길마루,메뉴,딱새우사시미, 문어해물라면"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "가로수길마루,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "옛날밥상, GS25 한담애월점",
+          "answer_wordNum": 3,
+          "fact": [
+            "가로수길마루,인접,옛날밥상, GS25 한담애월점"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "가로수길마루,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "옛날밥상, GS25 한담애월점",
+          "answer_wordNum": 3,
+          "fact": [
+            "가로수길마루,인접,옛날밥상, GS25 한담애월점"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1385-2929",
+          "answer_wordNum": 1,
+          "fact": [
+            "가로수길마루,연락처,0507-1385-2929"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "가로수길마루,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 애월읍 애월로 11",
+          "answer_wordNum": 5,
+          "fact": [
+            "가로수길마루,주소,제주 제주시 애월읍 애월로 11"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳은 무엇이 가능하나요?",
+          "question_wordNum": 4,
+          "answer": "전 메뉴 포장",
+          "answer_wordNum": 3,
+          "fact": [
+            "가로수길마루,가능,전 메뉴 포장"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "옛날밥상, GS25 한담애월점",
+          "answer_wordNum": 3,
+          "fact": [
+            "가로수길마루,인접,옛날밥상, GS25 한담애월점"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "17:00 - 01:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "가로수길마루,영업시간,17:00 - 01:30"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳은 무엇이 가능하나요?",
+          "question_wordNum": 4,
+          "answer": "전 메뉴 포장",
+          "answer_wordNum": 3,
+          "fact": [
+            "가로수길마루,가능,전 메뉴 포장"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "가로수길마루,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 애월읍 애월로 11",
+          "answer_wordNum": 5,
+          "fact": [
+            "가로수길마루,주소,제주 제주시 애월읍 애월로 11"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "딱새우사시미, 문어해물라면",
+          "answer_wordNum": 2,
+          "fact": [
+            "가로수길마루,메뉴,딱새우사시미, 문어해물라면"
+          ]
+        }
+      ]
+    }
+  ]
+}

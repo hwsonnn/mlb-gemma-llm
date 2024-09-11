@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "574526",
+    "travelType": "음식점",
+    "place": "탐라반상 ",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "574526_1_jj_5_탐라반상 _1_001.png",
+      "mapx": 33.3207589515279,
+      "mapy": 126.264400579141,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "탐라반상(한경면)",
+        "여닫이문, 돌하르방, 유리창"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "574526_1_jj_5_탐라반상 _1_002.png",
+      "mapx": 33.3207589515279,
+      "mapy": 126.264400579141,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "탐라반상(한경면)",
+        "건물, 등받이 의자, 돌하르방, 여닫이문, 유리창, 간판, 계단"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "574526_1_jj_5_탐라반상 _1_003.png",
+      "mapx": 33.3207589515279,
+      "mapy": 126.264400579141,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "탐라반상(한경면)",
+        "테이블, 등받이 의자, 연기흡입기, 휴지, 유리창, 시스템 에어컨, 화분"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "574526_1_jj_5_탐라반상 _1_004.png",
+      "mapx": 33.3207589515279,
+      "mapy": 126.264400579141,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "탐라반상(한경면)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "574526_1_jj_5_탐라반상 _1_005.png",
+      "mapx": 33.3207589515279,
+      "mapy": 126.264400579141,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "탐라반상(한경면)",
+        "고기, 버섯, 양파"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주자연한식, 탐라반상",
+          "answer_wordNum": 2,
+          "fact": [
+            "탐라반상,메뉴,제주자연한식, 탐라반상"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 한경면 녹차분재로 571",
+          "answer_wordNum": 5,
+          "fact": [
+            "탐라반상,주소,제주 제주시 한경면 녹차분재로 571"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "환상숲, 오설록, 신화월드, 산양큰엉곶, 운잔항, 새별오름, 카멜리아힐, 중문, 서귀포, 산방산, 송악산, 마라도, 금오름, 신창풍차해안도로, 현재해수욕장, 금릉해변, 중문색달변해변, 애월한담해변, 제주공항, 명이동못, 고운물",
+          "answer_wordNum": 21,
+          "fact": [
+            "탐라반상,인접,환상숲, 오설록, 신화월드, 산양큰엉곶, 운잔항, 새별오름, 카멜리아힐, 중문, 서귀포, 산방산, 송악산, 마라도, 금오름, 신창풍차해안도로, 현재해수욕장, 금릉해변, 중문색달변해변, 애월한담해변, 제주공항, 명이동못, 고운물"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "어떤 재료를 황용하나요?",
+          "question_wordNum": 3,
+          "answer": "제주 로컬 식재료",
+          "answer_wordNum": 3,
+          "fact": [
+            "탐라반상,활용,제주 로컬 식재료"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 한경면 녹차분재로 571",
+          "answer_wordNum": 5,
+          "fact": [
+            "탐라반상,주소,제주 제주시 한경면 녹차분재로 571"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주자연한식, 탐라반상",
+          "answer_wordNum": 2,
+          "fact": [
+            "탐라반상,메뉴,제주자연한식, 탐라반상"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐라반상,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "무엇이 가능한가요?",
+          "question_wordNum": 2,
+          "answer": "단독대관, 프라이빗 대관, 케이터링, 스몰웨딩",
+          "answer_wordNum": 5,
+          "fact": [
+            "탐라반상,가능,단독대관, 프라이빗 대관, 케이터링, 스몰웨딩"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:00-20:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐라반상,영업시간,11:00-20:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "환상숲, 오설록, 신화월드, 산양큰엉곶, 운잔항, 새별오름, 카멜리아힐, 중문, 서귀포, 산방산, 송악산, 마라도, 금오름, 신창풍차해안도로, 현재해수욕장, 금릉해변, 중문색달변해변, 애월한담해변, 제주공항, 명이동못, 고운물",
+          "answer_wordNum": 21,
+          "fact": [
+            "탐라반상,인접,환상숲, 오설록, 신화월드, 산양큰엉곶, 운잔항, 새별오름, 카멜리아힐, 중문, 서귀포, 산방산, 송악산, 마라도, 금오름, 신창풍차해안도로, 현재해수욕장, 금릉해변, 중문색달변해변, 애월한담해변, 제주공항, 명이동못, 고운물"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "제주 제주시 한경면 녹차분재로 571",
+          "answer_wordNum": 5,
+          "fact": [
+            "탐라반상,주소,제주 제주시 한경면 녹차분재로 571"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1337-2070",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐라반상,연락처,0507-1337-2070"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐라반상,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐라반상,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주자연한식, 탐라반상",
+          "answer_wordNum": 2,
+          "fact": [
+            "탐라반상,메뉴,제주자연한식, 탐라반상"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "환상숲, 오설록, 신화월드, 산양큰엉곶, 운잔항, 새별오름, 카멜리아힐, 중문, 서귀포, 산방산, 송악산, 마라도, 금오름, 신창풍차해안도로, 현재해수욕장, 금릉해변, 중문색달변해변, 애월한담해변, 제주공항, 명이동못, 고운물",
+          "answer_wordNum": 21,
+          "fact": [
+            "탐라반상,인접,환상숲, 오설록, 신화월드, 산양큰엉곶, 운잔항, 새별오름, 카멜리아힐, 중문, 서귀포, 산방산, 송악산, 마라도, 금오름, 신창풍차해안도로, 현재해수욕장, 금릉해변, 중문색달변해변, 애월한담해변, 제주공항, 명이동못, 고운물"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00-20:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐라반상,영업시간,11:00-20:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주자연한식, 탐라반상",
+          "answer_wordNum": 2,
+          "fact": [
+            "탐라반상,메뉴,제주자연한식, 탐라반상"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 한경면 녹차분재로 571",
+          "answer_wordNum": 5,
+          "fact": [
+            "탐라반상,주소,제주 제주시 한경면 녹차분재로 571"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐라반상,휴무일,없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

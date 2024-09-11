@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "573919",
+    "travelType": "음식점",
+    "place": "위미브런치",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "573919_1_jj_5_위미브런치_1_001.png",
+      "mapx": 33.2753644893172,
+      "mapy": 126.676119468946,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "위미브런치(남원읍)",
+        "여닫이문, 테라스, 파라솔"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "573919_1_jj_5_위미브런치_1_002.png",
+      "mapx": 33.2753644893172,
+      "mapy": 126.676119468946,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "위미브런치(남원읍)",
+        "여닫이문, 계단, 테라스, 나무"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "573919_1_jj_5_위미브런치_1_003.png",
+      "mapx": 33.2753644893172,
+      "mapy": 126.676119468946,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "위미브런치(남원읍)",
+        "테이블, 등받이 의자, 커튼, 전등, 화분"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "573919_1_jj_5_위미브런치_1_004.png",
+      "mapx": 33.2753644893172,
+      "mapy": 126.676119468946,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "위미브런치(남원읍)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "573919_1_jj_5_위미브런치_1_005.png",
+      "mapx": 33.2753644893172,
+      "mapy": 126.676119468946,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "위미브런치(남원읍)",
+        "브런치, 아메리카노, 포크, 커피"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "위미브런치,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "10:00-17:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "위미브런치,영업시간,10:00-17:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-764-1101",
+          "answer_wordNum": 1,
+          "fact": [
+            "위미브런치,연락처,064-764-1101"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "모모하우스, 연화사",
+          "answer_wordNum": 2,
+          "fact": [
+            "위미브런치,인접,모모하우스, 연화사"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "10:00-17:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "위미브런치,영업시간,10:00-17:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 남원읍 태위로 268 1층 위미브런치",
+          "answer_wordNum": 7,
+          "fact": [
+            "위미브런치,주소,제주 서귀포시 남원읍 태위로 268 1층 위미브런치"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "위미브런치,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "소이브런치, 위미브런치",
+          "answer_wordNum": 2,
+          "fact": [
+            "위미브런치,메뉴,소이브런치, 위미브런치"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 남원읍 태위로 268 1층 위미브런치",
+          "answer_wordNum": 7,
+          "fact": [
+            "위미브런치,주소,제주 서귀포시 남원읍 태위로 268 1층 위미브런치"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "소이브런치, 위미브런치",
+          "answer_wordNum": 2,
+          "fact": [
+            "위미브런치,메뉴,소이브런치, 위미브런치"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "모모하우스, 연화사",
+          "answer_wordNum": 2,
+          "fact": [
+            "위미브런치,인접,모모하우스, 연화사"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 월요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "위미브런치,휴무일,매주 월요일"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "소이브런치, 위미브런치",
+          "answer_wordNum": 2,
+          "fact": [
+            "위미브런치,메뉴,소이브런치, 위미브런치"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "10:00-17:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "위미브런치,영업시간,10:00-17:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 남원읍 태위로 268 1층 위미브런치",
+          "answer_wordNum": 7,
+          "fact": [
+            "위미브런치,주소,제주 서귀포시 남원읍 태위로 268 1층 위미브런치"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "모모하우스, 연화사",
+          "answer_wordNum": 2,
+          "fact": [
+            "위미브런치,인접,모모하우스, 연화사"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "위미브런치,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 월요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "위미브런치,휴무일,매주 월요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "모모하우스, 연화사",
+          "answer_wordNum": 2,
+          "fact": [
+            "위미브런치,인접,모모하우스, 연화사"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "카페",
+          "answer_wordNum": 1,
+          "fact": [
+            "위미브런치,이다,카페"
+          ]
+        }
+      ]
+    }
+  ]
+}

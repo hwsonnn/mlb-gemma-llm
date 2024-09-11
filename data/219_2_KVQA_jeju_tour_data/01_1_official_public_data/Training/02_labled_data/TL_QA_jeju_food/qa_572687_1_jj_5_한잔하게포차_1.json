@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "572687",
+    "travelType": "음식점",
+    "place": "한잔하게포차",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "572687_1_jj_5_한잔하게포차_1_001.png",
+      "mapx": 33.2522510787201,
+      "mapy": 126.511243608621,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "한잔하게포차(서호동)",
+        "에어간판, 여닫이문, 계단"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "572687_1_jj_5_한잔하게포차_1_002.png",
+      "mapx": 33.2522510787201,
+      "mapy": 126.511243608621,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "한잔하게포차(서호동)",
+        "간판, 계단, 나무"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "572687_1_jj_5_한잔하게포차_1_003.png",
+      "mapx": 33.2522510787201,
+      "mapy": 126.511243608621,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "한잔하게포차(서호동)",
+        "등받이의자, 책상, 조명, 선반"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "572687_1_jj_5_한잔하게포차_1_004.png",
+      "mapx": 33.2522510787201,
+      "mapy": 126.511243608621,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "한잔하게포차(서호동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "572687_1_jj_5_한잔하게포차_1_005.png",
+      "mapx": 33.2522510787201,
+      "mapy": 126.511243608621,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "한잔하게포차(서호동)",
+        "전, 간장"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "17:00 - 02:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "한잔하게포차,영업시간,17:00 - 02:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "바삭순살 간장파닭, 포테이토",
+          "answer_wordNum": 3,
+          "fact": [
+            "한잔하게포차,메뉴,바삭순살 간장파닭, 포테이토"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "한잔하게포차,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳에 인접한 시설은 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "오아시스, 봉금펍",
+          "answer_wordNum": 2,
+          "fact": [
+            "한잔하게포차,인접,오아시스, 봉금펍"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "바삭순살 간장파닭, 포테이토",
+          "answer_wordNum": 3,
+          "fact": [
+            "한잔하게포차,메뉴,바삭순살 간장파닭, 포테이토"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "한잔하게포차,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "17:00 - 02:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "한잔하게포차,영업시간,17:00 - 02:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "주소가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "제주 서귀포시 신동로27번길 27 한잔하게포차 1층",
+          "answer_wordNum": 6,
+          "fact": [
+            "한잔하게포차,주소,제주 서귀포시 신동로27번길 27 한잔하게포차 1층"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "바삭순살 간장파닭, 포테이토",
+          "answer_wordNum": 3,
+          "fact": [
+            "한잔하게포차,메뉴,바삭순살 간장파닭, 포테이토"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1360-0077",
+          "answer_wordNum": 1,
+          "fact": [
+            "한잔하게포차,연락처,0507-1360-0077"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설은 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "오아시스, 봉금펍",
+          "answer_wordNum": 2,
+          "fact": [
+            "한잔하게포차,인접,오아시스, 봉금펍"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "한잔하게포차,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설은 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "오아시스, 봉금펍",
+          "answer_wordNum": 2,
+          "fact": [
+            "한잔하게포차,인접,오아시스, 봉금펍"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 신동로27번길 27 한잔하게포차 1층",
+          "answer_wordNum": 6,
+          "fact": [
+            "한잔하게포차,주소,제주 서귀포시 신동로27번길 27 한잔하게포차 1층"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "한잔하게포차,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 주차시설이 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "한잔하게포차,주차시설,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "한잔하게포차,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 신동로27번길 27 한잔하게포차 1층",
+          "answer_wordNum": 6,
+          "fact": [
+            "한잔하게포차,주소,제주 서귀포시 신동로27번길 27 한잔하게포차 1층"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설은 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "오아시스, 봉금펍",
+          "answer_wordNum": 2,
+          "fact": [
+            "한잔하게포차,인접,오아시스, 봉금펍"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "한잔하게포차,휴무일,없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

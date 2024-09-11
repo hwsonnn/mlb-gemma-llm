@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "574484",
+    "travelType": "음식점",
+    "place": "미온당",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "574484_1_jj_5_미온당_1_001.png",
+      "mapx": 33.3259172867669,
+      "mapy": 126.252470809378,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "미온당(한경면)",
+        "간판, 미닫이문, 화분, 조명"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "574484_1_jj_5_미온당_1_002.png",
+      "mapx": 33.3259172867669,
+      "mapy": 126.252470809378,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "미온당(한경면)",
+        "건물, 미닫이문, 창문, 조명"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "574484_1_jj_5_미온당_1_003.png",
+      "mapx": 33.3259172867669,
+      "mapy": 126.252470809378,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "미온당(한경면)",
+        "태이블, 냅킨, 등받이 의자, 카운터, 조명"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "574484_1_jj_5_미온당_1_004.png",
+      "mapx": 33.3259172867669,
+      "mapy": 126.252470809378,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "미온당(한경면)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "574484_1_jj_5_미온당_1_005.png",
+      "mapx": 33.3259172867669,
+      "mapy": 126.252470809378,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "미온당(한경면)",
+        "두루치기"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1414-0781",
+          "answer_wordNum": 1,
+          "fact": [
+            "미온당,연락처,0507-1414-0781"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "미온당,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "불맛 주꾸미 덮밥, 불맛 철판제주산흑돼지두루치기",
+          "answer_wordNum": 5,
+          "fact": [
+            "미온당,메뉴,불맛 주꾸미 덮밥, 불맛 철판제주산흑돼지두루치기"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 한경면 중산간서로 3594",
+          "answer_wordNum": 5,
+          "fact": [
+            "미온당,주소,제주 제주시 한경면 중산간서로 3594"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "미온당,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 한경면 중산간서로 3594",
+          "answer_wordNum": 5,
+          "fact": [
+            "미온당,주소,제주 제주시 한경면 중산간서로 3594"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "불맛 주꾸미 덮밥, 불맛 철판제주산흑돼지두루치기",
+          "answer_wordNum": 5,
+          "fact": [
+            "미온당,메뉴,불맛 주꾸미 덮밥, 불맛 철판제주산흑돼지두루치기"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "10:00-22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "미온당,영업시간,10:00-22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "미온당,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1414-0781",
+          "answer_wordNum": 1,
+          "fact": [
+            "미온당,연락처,0507-1414-0781"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "불맛 주꾸미 덮밥, 불맛 철판제주산흑돼지두루치기",
+          "answer_wordNum": 5,
+          "fact": [
+            "미온당,메뉴,불맛 주꾸미 덮밥, 불맛 철판제주산흑돼지두루치기"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:00-22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "미온당,영업시간,10:00-22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "10:00-22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "미온당,영업시간,10:00-22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "엘리슈퍼, 저청초등학교, 저청중학교",
+          "answer_wordNum": 3,
+          "fact": [
+            "미온당,인접,엘리슈퍼, 저청초등학교, 저청중학교"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "미온당,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1414-0781",
+          "answer_wordNum": 1,
+          "fact": [
+            "미온당,연락처,0507-1414-0781"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "불맛 주꾸미 덮밥, 불맛 철판제주산흑돼지두루치기",
+          "answer_wordNum": 5,
+          "fact": [
+            "미온당,메뉴,불맛 주꾸미 덮밥, 불맛 철판제주산흑돼지두루치기"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "엘리슈퍼, 저청초등학교, 저청중학교",
+          "answer_wordNum": 3,
+          "fact": [
+            "미온당,인접,엘리슈퍼, 저청초등학교, 저청중학교"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1414-0781",
+          "answer_wordNum": 1,
+          "fact": [
+            "미온당,연락처,0507-1414-0781"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "미온당,휴무일,없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

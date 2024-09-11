@@ -1,0 +1,60 @@
+﻿{
+  "triples": [
+    {
+      "POI_id": "574590",
+      "triple": [
+        "Jimmys natural icecream",
+        "인접",
+        "우도저수지, 영일동포구"
+      ]
+    },
+    {
+      "POI_id": "574590",
+      "triple": [
+        "Jimmys natural icecream",
+        "주소",
+        "제주 제주시 우도면 우도해안길 1132"
+      ]
+    },
+    {
+      "POI_id": "574590",
+      "triple": [
+        "Jimmys natural icecream",
+        "연락처",
+        "010-9868-8633"
+      ]
+    },
+    {
+      "POI_id": "574590",
+      "triple": [
+        "Jimmys natural icecream",
+        "영업시간",
+        "08:00-18:10"
+      ]
+    },
+    {
+      "POI_id": "574590",
+      "triple": [
+        "Jimmys natural icecream",
+        "휴무일",
+        "없음"
+      ]
+    },
+    {
+      "POI_id": "574590",
+      "triple": [
+        "Jimmys natural icecream",
+        "메뉴",
+        "원조우도땅콩아이스크림, 한라봉.천혜향아이스크림"
+      ]
+    },
+    {
+      "POI_id": "574590",
+      "triple": [
+        "Jimmys natural icecream",
+        "주차시설",
+        "있음"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "615839",
+    "travelType": "음식점",
+    "place": "우영담",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "615839_1_jj_5_우영담_1_001.png",
+      "mapx": 33.4643020679784,
+      "mapy": 126.316619092598,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우영담(애월읍)",
+        "여닫이문, 유리창"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "615839_1_jj_5_우영담_1_002.png",
+      "mapx": 33.4643020679784,
+      "mapy": 126.316619092598,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우영담(애월읍)",
+        "횡단보도, 자동차, 건물, 간판, 나무"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "615839_1_jj_5_우영담_1_003.png",
+      "mapx": 33.4643020679784,
+      "mapy": 126.316619092598,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우영담(애월읍)",
+        "냉장고, 서빙카트, 정수기, 시계"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "615839_1_jj_5_우영담_1_004.png",
+      "mapx": 33.4643020679784,
+      "mapy": 126.316619092598,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우영담(애월읍)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "615839_1_jj_5_우영담_1_005.png",
+      "mapx": 33.4643020679784,
+      "mapy": 126.316619092598,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우영담(애월읍)",
+        "생선구이, 돌솥밥, 반찬"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1341-0138",
+          "answer_wordNum": 1,
+          "fact": [
+            "우영담,연락처,0507-1341-0138"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "전복돌솥밥, 전복뚝배기",
+          "answer_wordNum": 2,
+          "fact": [
+            "우영담,메뉴,전복돌솥밥, 전복뚝배기"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우영담,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "09:00 - 19:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "우영담,영업시간,09:00 - 19:30"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "09:00 - 19:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "우영담,영업시간,09:00 - 19:30"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우영담,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "전복돌솥밥, 전복뚝배기",
+          "answer_wordNum": 2,
+          "fact": [
+            "우영담,메뉴,전복돌솥밥, 전복뚝배기"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "한담길스테이, 유한개발",
+          "answer_wordNum": 2,
+          "fact": [
+            "우영담,인접,한담길스테이, 유한개발"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우영담,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우영담,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "한담길스테이, 유한개발",
+          "answer_wordNum": 2,
+          "fact": [
+            "우영담,인접,한담길스테이, 유한개발"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1341-0138",
+          "answer_wordNum": 1,
+          "fact": [
+            "우영담,연락처,0507-1341-0138"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "전복돌솥밥, 전복뚝배기",
+          "answer_wordNum": 2,
+          "fact": [
+            "우영담,메뉴,전복돌솥밥, 전복뚝배기"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "한담길스테이, 유한개발",
+          "answer_wordNum": 2,
+          "fact": [
+            "우영담,인접,한담길스테이, 유한개발"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 맛볼수 있나요?",
+          "question_wordNum": 5,
+          "answer": "요리",
+          "answer_wordNum": 1,
+          "fact": [
+            "우영담,맛볼수있다,요리"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 애월읍 애월로 86",
+          "answer_wordNum": 5,
+          "fact": [
+            "우영담,주소,제주 제주시 애월읍 애월로 86"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 맛볼수 있나요?",
+          "question_wordNum": 5,
+          "answer": "요리",
+          "answer_wordNum": 1,
+          "fact": [
+            "우영담,맛볼수있다,요리"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 애월읍 애월로 86",
+          "answer_wordNum": 5,
+          "fact": [
+            "우영담,주소,제주 제주시 애월읍 애월로 86"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "09:00 - 19:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "우영담,영업시간,09:00 - 19:30"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우영담,주차시설,있음"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "574602",
+    "travelType": "음식점",
+    "place": "해와달그리고섬 ",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "574602_1_jj_5_해와달그리고섬 _1_001.png",
+      "mapx": 33.5107744673215,
+      "mapy": 126.965463520131,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "해와달그리고섬(우도면)",
+        "정수기, 쓰레기통, 미닫이문, 냉장고, 화분, 술 박스"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "574602_1_jj_5_해와달그리고섬 _1_002.png",
+      "mapx": 33.5107744673215,
+      "mapy": 126.965463520131,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "해와달그리고섬(우도면)",
+        "건물, 야외테이블의자, 문, 수조, 나무아치"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "574602_1_jj_5_해와달그리고섬 _1_003.png",
+      "mapx": 33.5107744673215,
+      "mapy": 126.965463520131,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "해와달그리고섬(우도면)",
+        "테이블, 의자, 진열장, 방석, 수저함, 유리창"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "574602_1_jj_5_해와달그리고섬 _1_004.png",
+      "mapx": 33.5107744673215,
+      "mapy": 126.965463520131,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "해와달그리고섬(우도면)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "574602_1_jj_5_해와달그리고섬 _1_005.png",
+      "mapx": 33.5107744673215,
+      "mapy": 126.965463520131,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "해와달그리고섬(우도면)",
+        "해초 회 비빔밥"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "해와달그리고섬,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "첫째, 셋째 수요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "해와달그리고섬,휴무일,첫째, 셋째 수요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "해물전골, 초밥",
+          "answer_wordNum": 2,
+          "fact": [
+            "해와달그리고섬,메뉴,해물전골, 초밥"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "10:00-20:30",
+          "answer_wordNum": 1,
+          "fact": [
+            "해와달그리고섬,영업시간,10:00-20:30"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "영일동포구, 하고수동해수욕장",
+          "answer_wordNum": 2,
+          "fact": [
+            "해와달그리고섬,인접,영일동포구, 하고수동해수욕장"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 우도면 우도해안길 946",
+          "answer_wordNum": 5,
+          "fact": [
+            "해와달그리고섬,주소,제주 제주시 우도면 우도해안길 946"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "10:00-20:30",
+          "answer_wordNum": 1,
+          "fact": [
+            "해와달그리고섬,영업시간,10:00-20:30"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "해와달그리고섬,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-784-0941",
+          "answer_wordNum": 1,
+          "fact": [
+            "해와달그리고섬,연락처,064-784-0941"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "해물전골, 초밥",
+          "answer_wordNum": 2,
+          "fact": [
+            "해와달그리고섬,메뉴,해물전골, 초밥"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "해와달그리고섬,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "영일동포구, 하고수동해수욕장",
+          "answer_wordNum": 2,
+          "fact": [
+            "해와달그리고섬,인접,영일동포구, 하고수동해수욕장"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "첫째, 셋째 수요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "해와달그리고섬,휴무일,첫째, 셋째 수요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "10:00-20:30",
+          "answer_wordNum": 1,
+          "fact": [
+            "해와달그리고섬,영업시간,10:00-20:30"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "영일동포구, 하고수동해수욕장",
+          "answer_wordNum": 2,
+          "fact": [
+            "해와달그리고섬,인접,영일동포구, 하고수동해수욕장"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-784-0941",
+          "answer_wordNum": 1,
+          "fact": [
+            "해와달그리고섬,연락처,064-784-0941"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 우도면 우도해안길 946",
+          "answer_wordNum": 5,
+          "fact": [
+            "해와달그리고섬,주소,제주 제주시 우도면 우도해안길 946"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "해와달그리고섬,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-784-0941",
+          "answer_wordNum": 1,
+          "fact": [
+            "해와달그리고섬,연락처,064-784-0941"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "첫째, 셋째 수요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "해와달그리고섬,휴무일,첫째, 셋째 수요일"
+          ]
+        }
+      ]
+    }
+  ]
+}

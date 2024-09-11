@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "572260",
+    "travelType": "음식점",
+    "place": "영주산성",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "572260_1_jj_5_영주산성_1_001.png",
+      "mapx": 33.3930801850712,
+      "mapy": 126.798717592614,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "영주산성(표선면)",
+        "실외기, 화분, 간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "572260_1_jj_5_영주산성_1_002.png",
+      "mapx": 33.3930801850712,
+      "mapy": 126.798717592614,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "영주산성(표선면)",
+        "실외기, 화분, 간판, 건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "572260_1_jj_5_영주산성_1_003.png",
+      "mapx": 33.3930801850712,
+      "mapy": 126.798717592614,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "영주산성(표선면)",
+        "냉난방기, 테이블, 의자, 선풍기, 액자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "572260_1_jj_5_영주산성_1_004.png",
+      "mapx": 33.3930801850712,
+      "mapy": 126.798717592614,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "영주산성(표선면)",
+        "차림표"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "572260_1_jj_5_영주산성_1_005.png",
+      "mapx": 33.3930801850712,
+      "mapy": 126.798717592614,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "영주산성(표선면)",
+        "갈치조림"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 표선면 성읍정의현로122번길 1-8",
+          "answer_wordNum": 5,
+          "fact": [
+            "영주산성,주소,제주 서귀포시 표선면 성읍정의현로122번길 1-8"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "흑돼지생고기세트, 흑돼지양념불고기세트",
+          "answer_wordNum": 2,
+          "fact": [
+            "영주산성,메뉴,흑돼지생고기세트, 흑돼지양념불고기세트"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "영주산성,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "영주산성,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "08:00 - 17:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "영주산성,영업시간,08:00 - 17:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-787-6004",
+          "answer_wordNum": 1,
+          "fact": [
+            "영주산성,연락처,064-787-6004"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "흑돼지생고기세트, 흑돼지양념불고기세트",
+          "answer_wordNum": 2,
+          "fact": [
+            "영주산성,메뉴,흑돼지생고기세트, 흑돼지양념불고기세트"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 주차시설이 있나요?",
+          "question_wordNum": 4,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "영주산성,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 표선면 성읍정의현로122번길 1-8",
+          "answer_wordNum": 5,
+          "fact": [
+            "영주산성,주소,제주 서귀포시 표선면 성읍정의현로122번길 1-8"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "흑돼지생고기세트, 흑돼지양념불고기세트",
+          "answer_wordNum": 2,
+          "fact": [
+            "영주산성,메뉴,흑돼지생고기세트, 흑돼지양념불고기세트"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "08:00 - 17:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "영주산성,영업시간,08:00 - 17:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 어디에 위치하나요?",
+          "question_wordNum": 4,
+          "answer": "서귀포시 성읍민속촌내",
+          "answer_wordNum": 2,
+          "fact": [
+            "영주산성,위치,서귀포시 성읍민속촌내"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-787-6004",
+          "answer_wordNum": 1,
+          "fact": [
+            "영주산성,연락처,064-787-6004"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "휴무일이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "영주산성,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "흑돼지생고기세트, 흑돼지양념불고기세트",
+          "answer_wordNum": 2,
+          "fact": [
+            "영주산성,메뉴,흑돼지생고기세트, 흑돼지양념불고기세트"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "주소가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "제주 서귀포시 표선면 성읍정의현로122번길 1-8",
+          "answer_wordNum": 5,
+          "fact": [
+            "영주산성,주소,제주 서귀포시 표선면 성읍정의현로122번길 1-8"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "08:00 - 17:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "영주산성,영업시간,08:00 - 17:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "흑돼지생고기세트, 흑돼지양념불고기세트",
+          "answer_wordNum": 2,
+          "fact": [
+            "영주산성,메뉴,흑돼지생고기세트, 흑돼지양념불고기세트"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 표선면 성읍정의현로122번길 1-8",
+          "answer_wordNum": 5,
+          "fact": [
+            "영주산성,주소,제주 서귀포시 표선면 성읍정의현로122번길 1-8"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "영주산성,휴무일,없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

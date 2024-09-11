@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "616113",
+    "travelType": "음식점",
+    "place": "팟타이만",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "616113_1_jj_5_팟타이만_1_001.png",
+      "mapx": 33.55662109611,
+      "mapy": 126.793392202497,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "팟타이만(구좌읍)",
+        "건펀, 테이블, 의자, 서핑보드, 화분, 유리창"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "616113_1_jj_5_팟타이만_1_002.png",
+      "mapx": 33.55662109611,
+      "mapy": 126.793392202497,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "팟타이만(구좌읍)",
+        "입간판, 간판, 오토바이, 건물, 유리창, 화분, 테이블"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "616113_1_jj_5_팟타이만_1_003.png",
+      "mapx": 33.55662109611,
+      "mapy": 126.793392202497,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "팟타이만(구좌읍)",
+        "테이블, 의자, 조명, 유리창, 화분, 선반"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "616113_1_jj_5_팟타이만_1_004.png",
+      "mapx": 33.55662109611,
+      "mapy": 126.793392202497,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "팟타이만(구좌읍)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "616113_1_jj_5_팟타이만_1_005.png",
+      "mapx": 33.55662109611,
+      "mapy": 126.793392202497,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "팟타이만(구좌읍)",
+        "팟타이"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "카키키리, 백수당",
+          "answer_wordNum": 2,
+          "fact": [
+            "팟타이만,인접,카키키리, 백수당"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 구좌읍 월정1길 61",
+          "answer_wordNum": 5,
+          "fact": [
+            "팟타이만,주소,제주 제주시 구좌읍 월정1길 61"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-782-8428",
+          "answer_wordNum": 1,
+          "fact": [
+            "팟타이만,연락처,064-782-8428"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:30 - 19:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "팟타이만,영업시간,11:30 - 19:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:30 - 19:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "팟타이만,영업시간,11:30 - 19:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "팟타이만,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "팟타이, 팟씨유",
+          "answer_wordNum": 2,
+          "fact": [
+            "팟타이만,메뉴,팟타이, 팟씨유"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "팟타이만,주차시설,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "카키키리, 백수당",
+          "answer_wordNum": 2,
+          "fact": [
+            "팟타이만,인접,카키키리, 백수당"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-782-8428",
+          "answer_wordNum": 1,
+          "fact": [
+            "팟타이만,연락처,064-782-8428"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "팟타이만,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "팟타이만,주차시설,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "팟타이, 팟씨유",
+          "answer_wordNum": 2,
+          "fact": [
+            "팟타이만,메뉴,팟타이, 팟씨유"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:30 - 19:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "팟타이만,영업시간,11:30 - 19:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 구좌읍 월정1길 61",
+          "answer_wordNum": 5,
+          "fact": [
+            "팟타이만,주소,제주 제주시 구좌읍 월정1길 61"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-782-8428",
+          "answer_wordNum": 1,
+          "fact": [
+            "팟타이만,연락처,064-782-8428"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 구좌읍 월정1길 61",
+          "answer_wordNum": 5,
+          "fact": [
+            "팟타이만,주소,제주 제주시 구좌읍 월정1길 61"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "카키키리, 백수당",
+          "answer_wordNum": 2,
+          "fact": [
+            "팟타이만,인접,카키키리, 백수당"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "팟타이만,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "팟타이, 팟씨유",
+          "answer_wordNum": 2,
+          "fact": [
+            "팟타이만,메뉴,팟타이, 팟씨유"
+          ]
+        }
+      ]
+    }
+  ]
+}

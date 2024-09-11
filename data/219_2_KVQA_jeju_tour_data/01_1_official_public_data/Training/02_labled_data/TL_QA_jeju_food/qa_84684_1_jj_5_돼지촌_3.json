@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "84684",
+    "travelType": "음식점",
+    "place": "돼지촌",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "84684_1_jj_5_돼지촌_3_001.png",
+      "mapx": 33.4838363170161,
+      "mapy": 126.483387868342,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "돼지촌(노형동)",
+        "건물, 주차장"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "84684_1_jj_5_돼지촌_3_002.png",
+      "mapx": 33.483980555556,
+      "mapy": 126.48324722222,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "돼지촌(노형동)",
+        "건물, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "84684_1_jj_5_돼지촌_3_003.png",
+      "mapx": 33.4838363170161,
+      "mapy": 126.483387868342,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "돼지촌(노형동)",
+        "탁자, 의자, 냉장고, 후드, 화분, 정수기, 메뉴판"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "84684_1_jj_5_돼지촌_3_004.png",
+      "mapx": 33.4838363170161,
+      "mapy": 126.483387868342,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "돼지촌(노형동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "84684_1_jj_5_돼지촌_3_005.png",
+      "mapx": 33.4838363170161,
+      "mapy": 126.483387868342,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "돼지촌(노형동)",
+        "삼겹살"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳은 어떤 곳인가요?",
+          "question_wordNum": 4,
+          "answer": "고기집",
+          "answer_wordNum": 1,
+          "fact": [
+            "돼지촌,이다,고기집"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 원노형남1길 28",
+          "answer_wordNum": 4,
+          "fact": [
+            "돼지촌,주소,제주 제주시 원노형남1길 28"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "17:00~24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "돼지촌,영업시간,17:00~24:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-713-9222",
+          "answer_wordNum": 1,
+          "fact": [
+            "돼지촌,연락처,064-713-9222"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "돼지촌,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "돼지촌,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 원노형남1길 28",
+          "answer_wordNum": 4,
+          "fact": [
+            "돼지촌,주소,제주 제주시 원노형남1길 28"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "등갈비, 가브리살",
+          "answer_wordNum": 2,
+          "fact": [
+            "돼지촌,메뉴,등갈비, 가브리살"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "17:00~24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "돼지촌,영업시간,17:00~24:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 원노형남1길 28",
+          "answer_wordNum": 4,
+          "fact": [
+            "돼지촌,주소,제주 제주시 원노형남1길 28"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳은 어떤 곳인가요?",
+          "question_wordNum": 4,
+          "answer": "고기집",
+          "answer_wordNum": 1,
+          "fact": [
+            "돼지촌,이다,고기집"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "등갈비, 가브리살",
+          "answer_wordNum": 2,
+          "fact": [
+            "돼지촌,메뉴,등갈비, 가브리살"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "돼지촌,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-713-9222",
+          "answer_wordNum": 1,
+          "fact": [
+            "돼지촌,연락처,064-713-9222"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "17:00~24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "돼지촌,영업시간,17:00~24:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 원노형남1길 28",
+          "answer_wordNum": 4,
+          "fact": [
+            "돼지촌,주소,제주 제주시 원노형남1길 28"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "17:00~24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "돼지촌,영업시간,17:00~24:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "돼지촌,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳은 어떤 곳인가요?",
+          "question_wordNum": 4,
+          "answer": "고기집",
+          "answer_wordNum": 1,
+          "fact": [
+            "돼지촌,이다,고기집"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "돼지촌,휴무일,없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

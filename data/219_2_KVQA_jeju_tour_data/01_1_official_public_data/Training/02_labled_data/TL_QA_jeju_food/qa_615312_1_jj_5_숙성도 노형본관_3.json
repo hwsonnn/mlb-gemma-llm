@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "615312",
+    "travelType": "음식점",
+    "place": "숙성도 노형본관",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "615312_1_jj_5_숙성도 노형본관_3_001.png",
+      "mapx": 33.4850469004095,
+      "mapy": 126.485037987096,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "숙성도 노형본관(노형동)",
+        "화분, 실외기, 간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "615312_1_jj_5_숙성도 노형본관_3_002.png",
+      "mapx": 33.4850469004095,
+      "mapy": 126.485037987096,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "숙성도 노형본관(노형동)",
+        "간판, 창문, 의자, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "615312_1_jj_5_숙성도 노형본관_3_003.png",
+      "mapx": 33.4850469004095,
+      "mapy": 126.485037987096,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "숙성도 노형본관(노형동)",
+        "테이블, 등받이 의자, 창문"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "615312_1_jj_5_숙성도 노형본관_3_004.png",
+      "mapx": 33.4850469004095,
+      "mapy": 126.485037987096,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "숙성도 노형본관(노형동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "615312_1_jj_5_숙성도 노형본관_3_005.png",
+      "mapx": 33.4850469004095,
+      "mapy": 126.485037987096,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "숙성도 노형본관(노형동)",
+        "버섯, 고기"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 원노형로 41",
+          "answer_wordNum": 4,
+          "fact": [
+            "숙성도 노형본관,주소,제주 제주시 원노형로 41"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "교차숙성흑돼지, 720숙성삼겹",
+          "answer_wordNum": 2,
+          "fact": [
+            "숙성도 노형본관,메뉴,교차숙성흑돼지, 720숙성삼겹"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1335-5211",
+          "answer_wordNum": 1,
+          "fact": [
+            "숙성도 노형본관,연락처,0507-1335-5211"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "녹두네, 서자매김밥",
+          "answer_wordNum": 2,
+          "fact": [
+            "숙성도 노형본관,인접,녹두네, 서자매김밥"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "숙성도 노형본관,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 원노형로 41",
+          "answer_wordNum": 4,
+          "fact": [
+            "숙성도 노형본관,주소,제주 제주시 원노형로 41"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:30~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "숙성도 노형본관,영업시간,11:30~22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "숙성도 노형본관,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "교차숙성흑돼지, 720숙성삼겹",
+          "answer_wordNum": 2,
+          "fact": [
+            "숙성도 노형본관,메뉴,교차숙성흑돼지, 720숙성삼겹"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "숙성도 노형본관,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "녹두네, 서자매김밥",
+          "answer_wordNum": 2,
+          "fact": [
+            "숙성도 노형본관,인접,녹두네, 서자매김밥"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:30~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "숙성도 노형본관,영업시간,11:30~22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "숙성도 노형본관,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1335-5211",
+          "answer_wordNum": 1,
+          "fact": [
+            "숙성도 노형본관,연락처,0507-1335-5211"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 원노형로 41",
+          "answer_wordNum": 4,
+          "fact": [
+            "숙성도 노형본관,주소,제주 제주시 원노형로 41"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "교차숙성흑돼지, 720숙성삼겹",
+          "answer_wordNum": 2,
+          "fact": [
+            "숙성도 노형본관,메뉴,교차숙성흑돼지, 720숙성삼겹"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1335-5211",
+          "answer_wordNum": 1,
+          "fact": [
+            "숙성도 노형본관,연락처,0507-1335-5211"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "숙성도 노형본관,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "교차숙성흑돼지, 720숙성삼겹",
+          "answer_wordNum": 2,
+          "fact": [
+            "숙성도 노형본관,메뉴,교차숙성흑돼지, 720숙성삼겹"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "숙성도 노형본관,주차시설,있음"
+          ]
+        }
+      ]
+    }
+  ]
+}

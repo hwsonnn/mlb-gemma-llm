@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "616951",
+    "travelType": "음식점",
+    "place": "돈삼겹 삼화2호점",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "616951_1_jj_5_돈삼겹 삼화2호점_1_001.png",
+      "mapx": 33.5147622385411,
+      "mapy": 126.574382601751,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "돈삼겹 삼화2호점(화북일동)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "616951_1_jj_5_돈삼겹 삼화2호점_1_002.png",
+      "mapx": 33.5147622385411,
+      "mapy": 126.574382601751,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "돈삼겹 삼화2호점(화북일동)",
+        "건물, 가로등"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "616951_1_jj_5_돈삼겹 삼화2호점_1_003.png",
+      "mapx": 33.5147622385411,
+      "mapy": 126.574382601751,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "돈삼겹 삼화2호점(화북일동)",
+        "테이블, 등받이의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "616951_1_jj_5_돈삼겹 삼화2호점_1_004.png",
+      "mapx": 33.5147622385411,
+      "mapy": 126.574382601751,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "돈삼겹 삼화2호점(화북일동)",
+        "차림표"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "616951_1_jj_5_돈삼겹 삼화2호점_1_005.png",
+      "mapx": 33.5147622385411,
+      "mapy": 126.574382601751,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "돈삼겹 삼화2호점(화북일동)",
+        "삼겹살, 불판"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "삼겹살, 대패삼겹살",
+          "answer_wordNum": 2,
+          "fact": [
+            "돈삼겹 삼화2호점,메뉴,삼겹살, 대패삼겹살"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "돈삼겹 삼화2호점,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "돈삼겹 삼화2호점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "농협, 세븐일레븐",
+          "answer_wordNum": 2,
+          "fact": [
+            "돈삼겹 삼화2호점,인접,농협, 세븐일레븐"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 화삼로1길 5",
+          "answer_wordNum": 4,
+          "fact": [
+            "돈삼겹 삼화2호점,주소,제주 제주시 화삼로1길 5"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-700-0000",
+          "answer_wordNum": 1,
+          "fact": [
+            "돈삼겹 삼화2호점,연락처,064-700-0000"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "돈삼겹 삼화2호점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "돈삼겹 삼화2호점,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "돈삼겹 삼화2호점,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "돈삼겹 삼화2호점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-700-0000",
+          "answer_wordNum": 1,
+          "fact": [
+            "돈삼겹 삼화2호점,연락처,064-700-0000"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "농협, 세븐일레븐",
+          "answer_wordNum": 2,
+          "fact": [
+            "돈삼겹 삼화2호점,인접,농협, 세븐일레븐"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "돈삼겹 삼화2호점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "농협, 세븐일레븐",
+          "answer_wordNum": 2,
+          "fact": [
+            "돈삼겹 삼화2호점,인접,농협, 세븐일레븐"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "돈삼겹 삼화2호점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-700-0000",
+          "answer_wordNum": 1,
+          "fact": [
+            "돈삼겹 삼화2호점,연락처,064-700-0000"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "돈삼겹 삼화2호점,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 화삼로1길 5",
+          "answer_wordNum": 4,
+          "fact": [
+            "돈삼겹 삼화2호점,주소,제주 제주시 화삼로1길 5"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "돈삼겹 삼화2호점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "농협, 세븐일레븐",
+          "answer_wordNum": 2,
+          "fact": [
+            "돈삼겹 삼화2호점,인접,농협, 세븐일레븐"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "572497",
+    "travelType": "음식점",
+    "place": "우드스탁",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "572497_1_jj_5_우드스탁_4_001.png",
+      "mapx": 33.2475009839152,
+      "mapy": 126.564388944272,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우드스탁(서귀동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "572497_1_jj_5_우드스탁_4_002.png",
+      "mapx": 33.2475009839152,
+      "mapy": 126.564388944272,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우드스탁(서귀동)",
+        "건물, 간판, 가로등"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "572497_1_jj_5_우드스탁_4_003.png",
+      "mapx": 33.2475009839152,
+      "mapy": 126.564388944272,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우드스탁(서귀동)",
+        "테이블, 등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "572497_1_jj_5_우드스탁_4_004.png",
+      "mapx": 33.2475009839152,
+      "mapy": 126.564388944272,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우드스탁(서귀동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "572497_1_jj_5_우드스탁_4_005.png",
+      "mapx": 33.2475009839152,
+      "mapy": 126.564388944272,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우드스탁(서귀동)",
+        "먹태"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우드스탁,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우드스탁,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "에꼼, 통큰맛집",
+          "answer_wordNum": 2,
+          "fact": [
+            "우드스탁,인접,에꼼, 통큰맛집"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "버드와이저, 밀러",
+          "answer_wordNum": 2,
+          "fact": [
+            "우드스탁,메뉴,버드와이저, 밀러"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우드스탁,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "에꼼, 통큰맛집",
+          "answer_wordNum": 2,
+          "fact": [
+            "우드스탁,인접,에꼼, 통큰맛집"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-733-7875",
+          "answer_wordNum": 1,
+          "fact": [
+            "우드스탁,연락처,064-733-7875"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우드스탁,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우드스탁,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 이중섭로 5",
+          "answer_wordNum": 4,
+          "fact": [
+            "우드스탁,주소,제주 서귀포시 이중섭로 5"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우드스탁,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우드스탁,주차시설,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "버드와이저, 밀러",
+          "answer_wordNum": 2,
+          "fact": [
+            "우드스탁,메뉴,버드와이저, 밀러"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우드스탁,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-733-7875",
+          "answer_wordNum": 1,
+          "fact": [
+            "우드스탁,연락처,064-733-7875"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우드스탁,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 이중섭로 5",
+          "answer_wordNum": 4,
+          "fact": [
+            "우드스탁,주소,제주 서귀포시 이중섭로 5"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우드스탁,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "에꼼, 통큰맛집",
+          "answer_wordNum": 2,
+          "fact": [
+            "우드스탁,인접,에꼼, 통큰맛집"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우드스탁,영업시간,알수없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

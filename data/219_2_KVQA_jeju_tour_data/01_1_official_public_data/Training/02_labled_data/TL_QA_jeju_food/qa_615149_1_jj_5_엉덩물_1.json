@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "615149",
+    "travelType": "음식점",
+    "place": "엉덩물",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "615149_1_jj_5_엉덩물_1_001.png",
+      "mapx": 33.4909661222276,
+      "mapy": 126.494917875969,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "엉덩물(연동)",
+        "간판, 화분, 수조"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "615149_1_jj_5_엉덩물_1_002.png",
+      "mapx": 33.4909661222276,
+      "mapy": 126.494917875969,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "엉덩물(연동)",
+        "창문, 간판, 건물, 트럭"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "615149_1_jj_5_엉덩물_1_003.png",
+      "mapx": 33.4909661222276,
+      "mapy": 126.494917875969,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "엉덩물(연동)",
+        "에어컨, 선풍기, 테이블"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "615149_1_jj_5_엉덩물_1_004.png",
+      "mapx": 33.4909661222276,
+      "mapy": 126.494917875969,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "엉덩물(연동)",
+        "메뉴판, 시계, 선풍기"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "615149_1_jj_5_엉덩물_1_005.png",
+      "mapx": 33.4909661222276,
+      "mapy": 126.494917875969,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "엉덩물(연동)",
+        "물회"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-748-8885",
+          "answer_wordNum": 1,
+          "fact": [
+            "엉덩물,연락처,064-748-8885"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "엉덩물,휴무일,매주 일요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "자리물회, 활 한치물회",
+          "answer_wordNum": 3,
+          "fact": [
+            "엉덩물,메뉴,자리물회, 활 한치물회"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "엉덩물,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "엉덩물,휴무일,매주 일요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 성두길 7-7",
+          "answer_wordNum": 4,
+          "fact": [
+            "엉덩물,주소,제주 제주시 성두길 7-7"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:00~21:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "엉덩물,영업시간,11:00~21:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "현대자동차, 꽃보다소, 황구촌",
+          "answer_wordNum": 3,
+          "fact": [
+            "엉덩물,인접,현대자동차, 꽃보다소, 황구촌"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 성두길 7-7",
+          "answer_wordNum": 4,
+          "fact": [
+            "엉덩물,주소,제주 제주시 성두길 7-7"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "자리물회, 활 한치물회",
+          "answer_wordNum": 3,
+          "fact": [
+            "엉덩물,메뉴,자리물회, 활 한치물회"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "이 곳은 무엇이 가능하나요??",
+          "question_wordNum": 4,
+          "answer": "가게 앞 4대 주차",
+          "answer_wordNum": 4,
+          "fact": [
+            "엉덩물,가능,가게 앞 4대 주차"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-748-8885",
+          "answer_wordNum": 1,
+          "fact": [
+            "엉덩물,연락처,064-748-8885"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "자리물회, 활 한치물회",
+          "answer_wordNum": 3,
+          "fact": [
+            "엉덩물,메뉴,자리물회, 활 한치물회"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:00~21:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "엉덩물,영업시간,11:00~21:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "엉덩물,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "엉덩물,휴무일,매주 일요일"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:00~21:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "엉덩물,영업시간,11:00~21:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳은 무엇이 가능하나요?",
+          "question_wordNum": 4,
+          "answer": "가게 앞 4대 주차",
+          "answer_wordNum": 4,
+          "fact": [
+            "엉덩물,가능,가게 앞 4대 주차"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "현대자동차, 꽃보다소, 황구촌",
+          "answer_wordNum": 3,
+          "fact": [
+            "엉덩물,인접,현대자동차, 꽃보다소, 황구촌"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 성두길 7-7",
+          "answer_wordNum": 4,
+          "fact": [
+            "엉덩물,주소,제주 제주시 성두길 7-7"
+          ]
+        }
+      ]
+    }
+  ]
+}

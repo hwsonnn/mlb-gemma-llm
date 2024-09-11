@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "616378",
+    "travelType": "음식점",
+    "place": "나는 지금 생선이 먹고 싶다",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "616378_1_jj_5_나는 지금 생선이 먹고 싶다_1_001.png",
+      "mapx": 33.4972470120444,
+      "mapy": 126.474888392629,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "나는 지금 생선이 먹고 싶다(도두일동)",
+        "간판, 조명"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "616378_1_jj_5_나는 지금 생선이 먹고 싶다_1_002.png",
+      "mapx": 33.4972470120444,
+      "mapy": 126.474888392629,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "나는 지금 생선이 먹고 싶다(도두일동)",
+        "간판, 입간판, 조명"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "616378_1_jj_5_나는 지금 생선이 먹고 싶다_1_003.png",
+      "mapx": 33.4972470120444,
+      "mapy": 126.474888392629,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "나는 지금 생선이 먹고 싶다(도두일동)",
+        "테이블, 등받이 의자, 선풍기"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "616378_1_jj_5_나는 지금 생선이 먹고 싶다_1_004.png",
+      "mapx": 33.4972470120444,
+      "mapy": 126.474888392629,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "나는 지금 생선이 먹고 싶다(도두일동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "616378_1_jj_5_나는 지금 생선이 먹고 싶다_1_005.png",
+      "mapx": 33.4972470120444,
+      "mapy": 126.474888392629,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "나는 지금 생선이 먹고 싶다(도두일동)",
+        "생선구이, 콩나물, 김치, 깻잎"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "푸조서비스센터, 제주시민속오일시장",
+          "answer_wordNum": 2,
+          "fact": [
+            "나는 지금 생선이 먹고 싶다,인접,푸조서비스센터, 제주시민속오일시장"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "나는 지금 생선이 먹고 싶다,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "갈치구이, 고등어구이",
+          "answer_wordNum": 2,
+          "fact": [
+            "나는 지금 생선이 먹고 싶다,메뉴,갈치구이, 고등어구이"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 오일장서길 26",
+          "answer_wordNum": 4,
+          "fact": [
+            "나는 지금 생선이 먹고 싶다,주소,제주 제주시 오일장서길 26"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 오일장서길 26",
+          "answer_wordNum": 4,
+          "fact": [
+            "나는 지금 생선이 먹고 싶다,주소,제주 제주시 오일장서길 26"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "갈치구이, 고등어구이",
+          "answer_wordNum": 2,
+          "fact": [
+            "나는 지금 생선이 먹고 싶다,메뉴,갈치구이, 고등어구이"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "나는 지금 생선이 먹고 싶다,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "푸조서비스센터, 제주시민속오일시장",
+          "answer_wordNum": 2,
+          "fact": [
+            "나는 지금 생선이 먹고 싶다,인접,푸조서비스센터, 제주시민속오일시장"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "나는 지금 생선이 먹고 싶다,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "09:00 - 21:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "나는 지금 생선이 먹고 싶다,영업시간,09:00 - 21:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 오일장서길 26",
+          "answer_wordNum": 4,
+          "fact": [
+            "나는 지금 생선이 먹고 싶다,주소,제주 제주시 오일장서길 26"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "070-8095-4997",
+          "answer_wordNum": 1,
+          "fact": [
+            "나는 지금 생선이 먹고 싶다,연락처,070-8095-4997"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "갈치구이, 고등어구이",
+          "answer_wordNum": 2,
+          "fact": [
+            "나는 지금 생선이 먹고 싶다,메뉴,갈치구이, 고등어구이"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "제주민속 오일장 내",
+          "answer_wordNum": 3,
+          "fact": [
+            "나는 지금 생선이 먹고 싶다,위치,제주민속 오일장 내"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "나는 지금 생선이 먹고 싶다,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "09:00 - 21:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "나는 지금 생선이 먹고 싶다,영업시간,09:00 - 21:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 오일장서길 26",
+          "answer_wordNum": 4,
+          "fact": [
+            "나는 지금 생선이 먹고 싶다,주소,제주 제주시 오일장서길 26"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "나는 지금 생선이 먹고 싶다,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "푸조서비스센터, 제주시민속오일시장",
+          "answer_wordNum": 2,
+          "fact": [
+            "나는 지금 생선이 먹고 싶다,인접,푸조서비스센터, 제주시민속오일시장"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "갈치구이, 고등어구이",
+          "answer_wordNum": 2,
+          "fact": [
+            "나는 지금 생선이 먹고 싶다,메뉴,갈치구이, 고등어구이"
+          ]
+        }
+      ]
+    }
+  ]
+}

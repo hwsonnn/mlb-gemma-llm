@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "615605",
+    "travelType": "음식점",
+    "place": "제주태원갈비",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "615605_1_jj_5_제주태원갈비_1_001.png",
+      "mapx": 33.5089514103241,
+      "mapy": 126.538966044415,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "제주태원갈비(일도이동)",
+        "간판, 여닫이문, 계단"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "615605_1_jj_5_제주태원갈비_1_002.png",
+      "mapx": 33.5089514103241,
+      "mapy": 126.538966044415,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "제주태원갈비(일도이동)",
+        "건물, 간판, 전봇대"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "615605_1_jj_5_제주태원갈비_1_003.png",
+      "mapx": 33.5089514103241,
+      "mapy": 126.538966044415,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "제주태원갈비(일도이동)",
+        "테이블, TV"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "615605_1_jj_5_제주태원갈비_1_004.png",
+      "mapx": 33.5089514103241,
+      "mapy": 126.538966044415,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "제주태원갈비(일도이동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "615605_1_jj_5_제주태원갈비_1_005.png",
+      "mapx": 33.5089514103241,
+      "mapy": 126.538966044415,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "제주태원갈비(일도이동)",
+        "돼지양념갈비"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "15:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "제주태원갈비,영업시간,15:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "돼지생갈비, 돼지양념갈비",
+          "answer_wordNum": 2,
+          "fact": [
+            "제주태원갈비,메뉴,돼지생갈비, 돼지양념갈비"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "제주태원갈비,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 고마로10길 6",
+          "answer_wordNum": 4,
+          "fact": [
+            "제주태원갈비,주소,제주 제주시 고마로10길 6"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "돼지생갈비, 돼지양념갈비",
+          "answer_wordNum": 2,
+          "fact": [
+            "제주태원갈비,메뉴,돼지생갈비, 돼지양념갈비"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "15:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "제주태원갈비,영업시간,15:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 고마로10길 6",
+          "answer_wordNum": 4,
+          "fact": [
+            "제주태원갈비,주소,제주 제주시 고마로10길 6"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "제주태원갈비,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "어반하우제, 지산20차인화위더스빌",
+          "answer_wordNum": 2,
+          "fact": [
+            "제주태원갈비,인접,어반하우제, 지산20차인화위더스빌"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 고마로10길 6",
+          "answer_wordNum": 4,
+          "fact": [
+            "제주태원갈비,주소,제주 제주시 고마로10길 6"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-757-7354",
+          "answer_wordNum": 1,
+          "fact": [
+            "제주태원갈비,연락처,064-757-7354"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "15:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "제주태원갈비,영업시간,15:00 - 23:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "돼지생갈비, 돼지양념갈비",
+          "answer_wordNum": 2,
+          "fact": [
+            "제주태원갈비,메뉴,돼지생갈비, 돼지양념갈비"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "어반하우제, 지산20차인화위더스빌",
+          "answer_wordNum": 2,
+          "fact": [
+            "제주태원갈비,인접,어반하우제, 지산20차인화위더스빌"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "15:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "제주태원갈비,영업시간,15:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-757-7354",
+          "answer_wordNum": 1,
+          "fact": [
+            "제주태원갈비,연락처,064-757-7354"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "돼지생갈비, 돼지양념갈비",
+          "answer_wordNum": 2,
+          "fact": [
+            "제주태원갈비,메뉴,돼지생갈비, 돼지양념갈비"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "어반하우제, 지산20차인화위더스빌",
+          "answer_wordNum": 2,
+          "fact": [
+            "제주태원갈비,인접,어반하우제, 지산20차인화위더스빌"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 고마로10길 6",
+          "answer_wordNum": 4,
+          "fact": [
+            "제주태원갈비,주소,제주 제주시 고마로10길 6"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "제주태원갈비,휴무일,없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

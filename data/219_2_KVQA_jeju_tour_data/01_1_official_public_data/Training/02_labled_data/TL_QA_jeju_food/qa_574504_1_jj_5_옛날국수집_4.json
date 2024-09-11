@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "574504",
+    "travelType": "음식점",
+    "place": "옛날국수집",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "574504_1_jj_5_옛날국수집_4_001.png",
+      "mapx": 33.3073383281266,
+      "mapy": 126.178031739442,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "옛날국수집(한경면)",
+        "간판, 미닫이문, 조명"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "574504_1_jj_5_옛날국수집_4_002.png",
+      "mapx": 33.3073383281266,
+      "mapy": 126.178031739442,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "옛날국수집(한경면)",
+        "간판, 건물, 미닫이문, 테이블, 의자, 조명, 돌"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "574504_1_jj_5_옛날국수집_4_003.png",
+      "mapx": 33.3073383281266,
+      "mapy": 126.178031739442,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "옛날국수집(한경면)",
+        "테이블, 의자, 정수기, 살균기, 메뉴판, 수납장, 선풍기"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "574504_1_jj_5_옛날국수집_4_004.png",
+      "mapx": 33.3073383281266,
+      "mapy": 126.178031739442,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "옛날국수집(한경면)",
+        "메뉴판, 냉장고"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "574504_1_jj_5_옛날국수집_4_005.png",
+      "mapx": 33.3073383281266,
+      "mapy": 126.178031739442,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "옛날국수집(한경면)",
+        "잔치국수, 비빔국수"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "옛날국수집,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "잔치국수, 비빔국수",
+          "answer_wordNum": 2,
+          "fact": [
+            "옛날국수집,메뉴,잔치국수, 비빔국수"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 월요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "옛날국수집,휴무일,매주 월요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "동흥문공장, 차이나리",
+          "answer_wordNum": 2,
+          "fact": [
+            "옛날국수집,인접,동흥문공장, 차이나리"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "옛날국수집,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "잔치국수, 비빔국수",
+          "answer_wordNum": 2,
+          "fact": [
+            "옛날국수집,메뉴,잔치국수, 비빔국수"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 한경면 고산로 73",
+          "answer_wordNum": 5,
+          "fact": [
+            "옛날국수집,주소,제주 제주시 한경면 고산로 73"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "동흥문공장, 차이나리",
+          "answer_wordNum": 2,
+          "fact": [
+            "옛날국수집,인접,동흥문공장, 차이나리"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "08:00-18:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "옛날국수집,영업시간,08:00-18:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "옛날국수집,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-773-7778",
+          "answer_wordNum": 1,
+          "fact": [
+            "옛날국수집,연락처,064-773-7778"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "잔치국수, 비빔국수",
+          "answer_wordNum": 2,
+          "fact": [
+            "옛날국수집,메뉴,잔치국수, 비빔국수"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "동흥문공장, 차이나리",
+          "answer_wordNum": 2,
+          "fact": [
+            "옛날국수집,인접,동흥문공장, 차이나리"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "잔치국수, 비빔국수",
+          "answer_wordNum": 2,
+          "fact": [
+            "옛날국수집,메뉴,잔치국수, 비빔국수"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 한경면 고산로 73",
+          "answer_wordNum": 5,
+          "fact": [
+            "옛날국수집,주소,제주 제주시 한경면 고산로 73"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 월요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "옛날국수집,휴무일,매주 월요일"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 한경면 고산로 73",
+          "answer_wordNum": 5,
+          "fact": [
+            "옛날국수집,주소,제주 제주시 한경면 고산로 73"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "잔치국수, 비빔국수",
+          "answer_wordNum": 2,
+          "fact": [
+            "옛날국수집,메뉴,잔치국수, 비빔국수"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "옛날국수집,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "08:00-18:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "옛날국수집,영업시간,08:00-18:00"
+          ]
+        }
+      ]
+    }
+  ]
+}

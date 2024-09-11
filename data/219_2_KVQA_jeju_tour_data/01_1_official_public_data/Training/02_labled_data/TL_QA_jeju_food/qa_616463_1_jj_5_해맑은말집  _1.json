@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "616463",
+    "travelType": "음식점",
+    "place": "해맑은말집  ",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "616463_1_jj_5_해맑은말집  _1_001.png",
+      "mapx": 33.4958962337369,
+      "mapy": 126.526833029823,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "해맑은말집(도남동)",
+        "간판, 전등 "
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "616463_1_jj_5_해맑은말집  _1_002.png",
+      "mapx": 33.4958962337369,
+      "mapy": 126.526833029823,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "해맑은말집(도남동)",
+        "나무, 간판, 건물, 자동차 "
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "616463_1_jj_5_해맑은말집  _1_003.png",
+      "mapx": 33.4958962337369,
+      "mapy": 126.526833029823,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "해맑은말집(도남동)",
+        "사각 테이블, 냉장고 "
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "616463_1_jj_5_해맑은말집  _1_004.png",
+      "mapx": 33.4958962337369,
+      "mapy": 126.526833029823,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "해맑은말집(도남동)",
+        "메뉴판, 전등 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "616463_1_jj_5_해맑은말집  _1_005.png",
+      "mapx": 33.4958962337369,
+      "mapy": 126.526833029823,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "해맑은말집(도남동)",
+        "접시, 말육회 "
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "해맑은말집,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "말사시미, 말육회",
+          "answer_wordNum": 2,
+          "fact": [
+            "해맑은말집,메뉴,말사시미, 말육회"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 도남로 48-1",
+          "answer_wordNum": 4,
+          "fact": [
+            "해맑은말집,주소,제주 제주시 도남로 48-1"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "어디와 인접해 있나요?",
+          "question_wordNum": 3,
+          "answer": "파리바게뜨, CU",
+          "answer_wordNum": 2,
+          "fact": [
+            "해맑은말집,인접,파리바게뜨, CU"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "말사시미, 말육회",
+          "answer_wordNum": 2,
+          "fact": [
+            "해맑은말집,메뉴,말사시미, 말육회"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "해맑은말집,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "해맑은말집,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "주소가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "제주 제주시 도남로 48-1",
+          "answer_wordNum": 4,
+          "fact": [
+            "해맑은말집,주소,제주 제주시 도남로 48-1"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 제주시 도남로 48-1",
+          "answer_wordNum": 4,
+          "fact": [
+            "해맑은말집,주소,제주 제주시 도남로 48-1"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "해맑은말집,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "해맑은말집,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-726-5073",
+          "answer_wordNum": 1,
+          "fact": [
+            "해맑은말집,연락처,064-726-5073"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "말사시미, 말육회",
+          "answer_wordNum": 2,
+          "fact": [
+            "해맑은말집,메뉴,말사시미, 말육회"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "해맑은말집,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "파리바게뜨, CU",
+          "answer_wordNum": 2,
+          "fact": [
+            "해맑은말집,인접,파리바게뜨, CU"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간이 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "해맑은말집,영업시간,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 도남로 48-1",
+          "answer_wordNum": 4,
+          "fact": [
+            "해맑은말집,주소,제주 제주시 도남로 48-1"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "해맑은말집,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "말사시미, 말육회",
+          "answer_wordNum": 2,
+          "fact": [
+            "해맑은말집,메뉴,말사시미, 말육회"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일이 언제인가요?",
+          "question_wordNum": 2,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "해맑은말집,휴무일,알수없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "615223",
+    "travelType": "음식점",
+    "place": "제주섬돈",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "615223_1_jj_5_제주섬돈_1_001.png",
+      "mapx": 33.4905558738576,
+      "mapy": 126.491143494149,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "제주섬돈(연동)",
+        "여닫이문, 간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "615223_1_jj_5_제주섬돈_1_002.png",
+      "mapx": 33.4905558738576,
+      "mapy": 126.491143494149,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "제주섬돈(연동)",
+        "간판, 건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "615223_1_jj_5_제주섬돈_1_003.png",
+      "mapx": 33.4905558738576,
+      "mapy": 126.491143494149,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "제주섬돈(연동)",
+        "테이블, 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "615223_1_jj_5_제주섬돈_1_004.png",
+      "mapx": 33.4905558738576,
+      "mapy": 126.491143494149,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "제주섬돈(연동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "615223_1_jj_5_제주섬돈_1_005.png",
+      "mapx": 33.4905558738576,
+      "mapy": 126.491143494149,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "제주섬돈(연동)",
+        "삼겹살, 불판"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "제주섬돈,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "농협, CU, 산지물",
+          "answer_wordNum": 3,
+          "fact": [
+            "제주섬돈,인접,농협, CU, 산지물"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "제주섬돈,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "흑돼지 통갈비, 흑돼지 오겹살",
+          "answer_wordNum": 4,
+          "fact": [
+            "제주섬돈,메뉴,흑돼지 통갈비, 흑돼지 오겹살"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳은 어디인가요?",
+          "question_wordNum": 3,
+          "answer": "제주도 고깃집",
+          "answer_wordNum": 2,
+          "fact": [
+            "제주섬돈,이다,제주도 고깃집"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00/17:00~23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "제주섬돈,영업시간,11:00/17:00~23:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-744-3346",
+          "answer_wordNum": 1,
+          "fact": [
+            "제주섬돈,연락처,064-744-3346"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "농협, CU, 산지물",
+          "answer_wordNum": 3,
+          "fact": [
+            "제주섬돈,인접,농협, CU, 산지물"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:00/17:00~23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "제주섬돈,영업시간,11:00/17:00~23:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "제주섬돈,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "흑돼지 통갈비, 흑돼지 오겹살",
+          "answer_wordNum": 4,
+          "fact": [
+            "제주섬돈,메뉴,흑돼지 통갈비, 흑돼지 오겹살"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳에서는 무엇을 사용하나요?",
+          "question_wordNum": 4,
+          "answer": "제주산 암퇘지, 제주산 흑돼지",
+          "answer_wordNum": 4,
+          "fact": [
+            "제주섬돈,사용,제주산 암퇘지, 제주산 흑돼지"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-744-3346",
+          "answer_wordNum": 1,
+          "fact": [
+            "제주섬돈,연락처,064-744-3346"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "농협, CU, 산지물",
+          "answer_wordNum": 3,
+          "fact": [
+            "제주섬돈,인접,농협, CU, 산지물"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 삼무로3길 46",
+          "answer_wordNum": 4,
+          "fact": [
+            "제주섬돈,주소,제주 제주시 삼무로3길 46"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 어디인가요?",
+          "question_wordNum": 3,
+          "answer": "제주도 고깃집",
+          "answer_wordNum": 2,
+          "fact": [
+            "제주섬돈,이다,제주도 고깃집"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "농협, CU, 산지물",
+          "answer_wordNum": 3,
+          "fact": [
+            "제주섬돈,인접,농협, CU, 산지물"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳에서는 무엇을 사용하나요?",
+          "question_wordNum": 4,
+          "answer": "제주산 암퇘지, 제주산 흑돼지",
+          "answer_wordNum": 4,
+          "fact": [
+            "제주섬돈,사용,제주산 암퇘지, 제주산 흑돼지"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "제주섬돈,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00/17:00~23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "제주섬돈,영업시간,11:00/17:00~23:00"
+          ]
+        }
+      ]
+    }
+  ]
+}

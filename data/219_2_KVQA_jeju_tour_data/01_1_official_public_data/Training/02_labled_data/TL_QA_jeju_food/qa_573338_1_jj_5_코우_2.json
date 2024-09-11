@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "573338",
+    "travelType": "음식점",
+    "place": "코우",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "573338_1_jj_5_코우_2_001.png",
+      "mapx": 33.2561338117953,
+      "mapy": 126.506282282091,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "코우(강정동)",
+        "간판, 여닫이 문, 유리창"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "573338_1_jj_5_코우_2_002.png",
+      "mapx": 33.2561338117953,
+      "mapy": 126.506282282091,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "코우(강정동)",
+        "유리창, 여닫이 문, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "573338_1_jj_5_코우_2_003.png",
+      "mapx": 33.2561338117953,
+      "mapy": 126.506282282091,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "코우(강정동)",
+        "테이블, 의자, 식기, 유리병"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "573338_1_jj_5_코우_2_004.png",
+      "mapx": 33.2561338117953,
+      "mapy": 126.506282282091,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "코우(강정동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "573338_1_jj_5_코우_2_005.png",
+      "mapx": 33.2561338117953,
+      "mapy": 126.506282282091,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "코우(강정동)",
+        "회, 젓가락, 접시"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "코우,휴무일,매주 일요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "17:30 - 24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "코우,영업시간,17:30 - 24:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "청년다방, CU",
+          "answer_wordNum": 2,
+          "fact": [
+            "코우,인접,청년다방, CU"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 신중로13번길 3-5 신서귀포빌 지하 1층",
+          "answer_wordNum": 7,
+          "fact": [
+            "코우,주소,제주 서귀포시 신중로13번길 3-5 신서귀포빌 지하 1층"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "사시미 모리아와세, 금태솥밥",
+          "answer_wordNum": 3,
+          "fact": [
+            "코우,메뉴,사시미 모리아와세, 금태솥밥"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "17:30 - 24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "코우,영업시간,17:30 - 24:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "코우,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "청년다방, CU",
+          "answer_wordNum": 2,
+          "fact": [
+            "코우,인접,청년다방, CU"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 신중로13번길 3-5 신서귀포빌 지하 1층",
+          "answer_wordNum": 7,
+          "fact": [
+            "코우,주소,제주 서귀포시 신중로13번길 3-5 신서귀포빌 지하 1층"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "사시미 모리아와세, 금태솥밥",
+          "answer_wordNum": 3,
+          "fact": [
+            "코우,메뉴,사시미 모리아와세, 금태솥밥"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "코우,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-739-0789",
+          "answer_wordNum": 1,
+          "fact": [
+            "코우,연락처,064-739-0789"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "코우,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "사시미 모리아와세, 금태솥밥",
+          "answer_wordNum": 3,
+          "fact": [
+            "코우,메뉴,사시미 모리아와세, 금태솥밥"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "17:30 - 24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "코우,영업시간,17:30 - 24:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "청년다방, CU",
+          "answer_wordNum": 2,
+          "fact": [
+            "코우,인접,청년다방, CU"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "17:30 - 24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "코우,영업시간,17:30 - 24:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 신중로13번길 3-5 신서귀포빌 지하 1층",
+          "answer_wordNum": 7,
+          "fact": [
+            "코우,주소,제주 서귀포시 신중로13번길 3-5 신서귀포빌 지하 1층"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "청년다방, CU",
+          "answer_wordNum": 2,
+          "fact": [
+            "코우,인접,청년다방, CU"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "코우,휴무일,매주 일요일"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "572088",
+    "travelType": "음식점",
+    "place": "르쉬느아",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "572088_1_jj_5_르쉬느아_1_001.png",
+      "mapx": 33.3049726791712,
+      "mapy": 126.31635202613,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "르쉬느아(안덕면)",
+        "여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "572088_1_jj_5_르쉬느아_1_002.png",
+      "mapx": 33.3049726791712,
+      "mapy": 126.31635202613,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "르쉬느아(안덕면)",
+        "건물, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "572088_1_jj_5_르쉬느아_1_003.png",
+      "mapx": 33.3049726791712,
+      "mapy": 126.31635202613,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "르쉬느아(안덕면)",
+        "등받이 의자, 테이블"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "572088_1_jj_5_르쉬느아_1_004.png",
+      "mapx": 33.3049726791712,
+      "mapy": 126.31635202613,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "르쉬느아(안덕면)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "572088_1_jj_5_르쉬느아_1_005.png",
+      "mapx": 33.3049726791712,
+      "mapy": 126.31635202613,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "르쉬느아(안덕면)",
+        "야채, 접시, 수저, 반찬"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "르쉬느아,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "제주선더블랙, 메리어트관",
+          "answer_wordNum": 2,
+          "fact": [
+            "르쉬느아,인접,제주선더블랙, 메리어트관"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "12:00 - 21:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "르쉬느아,영업시간,12:00 - 21:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "르쉬느아,주차시설,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "르쉬느아,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "르쉬느아,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "12:00 - 21:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "르쉬느아,영업시간,12:00 - 21:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 안덕면 신화역사로304번길 38",
+          "answer_wordNum": 5,
+          "fact": [
+            "르쉬느아,주소,제주 서귀포시 안덕면 신화역사로304번길 38"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "12:00 - 21:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "르쉬느아,영업시간,12:00 - 21:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "북경오리, 해파리냉채",
+          "answer_wordNum": 2,
+          "fact": [
+            "르쉬느아,메뉴,북경오리, 해파리냉채"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "르쉬느아,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 안덕면 신화역사로304번길 38",
+          "answer_wordNum": 5,
+          "fact": [
+            "르쉬느아,주소,제주 서귀포시 안덕면 신화역사로304번길 38"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "북경오리, 해파리냉채",
+          "answer_wordNum": 2,
+          "fact": [
+            "르쉬느아,메뉴,북경오리, 해파리냉채"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "제주선더블랙, 메리어트관",
+          "answer_wordNum": 2,
+          "fact": [
+            "르쉬느아,인접,제주선더블랙, 메리어트관"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 안덕면 신화역사로304번길 38",
+          "answer_wordNum": 5,
+          "fact": [
+            "르쉬느아,주소,제주 서귀포시 안덕면 신화역사로304번길 38"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "르쉬느아,주차시설,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "제주선더블랙, 메리어트관",
+          "answer_wordNum": 2,
+          "fact": [
+            "르쉬느아,인접,제주선더블랙, 메리어트관"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "르쉬느아,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-908-1240",
+          "answer_wordNum": 1,
+          "fact": [
+            "르쉬느아,연락처,064-908-1240"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "북경오리, 해파리냉채",
+          "answer_wordNum": 2,
+          "fact": [
+            "르쉬느아,메뉴,북경오리, 해파리냉채"
+          ]
+        }
+      ]
+    }
+  ]
+}

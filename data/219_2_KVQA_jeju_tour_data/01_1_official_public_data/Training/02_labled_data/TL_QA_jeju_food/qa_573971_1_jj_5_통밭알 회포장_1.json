@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "573971",
+    "travelType": "음식점",
+    "place": "통밭알 회포장",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "573971_1_jj_5_통밭알 회포장_1_001.png",
+      "mapx": 33.4629554347297,
+      "mapy": 126.931587613513,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "통밭알 회포장(성산읍)",
+        "현수막, 수조, 개수대, 전등"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "573971_1_jj_5_통밭알 회포장_1_002.png",
+      "mapx": 33.4629554347297,
+      "mapy": 126.931587613513,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "통밭알 회포장(성산읍)",
+        "간판, 건물, 현수막, 수조"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "573971_1_jj_5_통밭알 회포장_1_003.png",
+      "mapx": 33.4629554347297,
+      "mapy": 126.931587613513,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "통밭알 회포장(성산읍)",
+        "테이블, 등받이 의자, 냉자옥, 싱크대, 천장 에어컨"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "573971_1_jj_5_통밭알 회포장_1_004.png",
+      "mapx": 33.4629554347297,
+      "mapy": 126.931587613513,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "통밭알 회포장(성산읍)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "573971_1_jj_5_통밭알 회포장_1_005.png",
+      "mapx": 33.4629554347297,
+      "mapy": 126.931587613513,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "통밭알 회포장(성산읍)",
+        "모듬회, 해산물, 쌈, 소스, 막국수"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "통밭알 회포장,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "제주고가네식당, 제주성산공인중개사사무소",
+          "answer_wordNum": 2,
+          "fact": [
+            "통밭알 회포장,인접,제주고가네식당, 제주성산공인중개사사무소"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "광어, 참돔",
+          "answer_wordNum": 2,
+          "fact": [
+            "통밭알 회포장,메뉴,광어, 참돔"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "무엇을 전문으로 하나요?",
+          "question_wordNum": 3,
+          "answer": "활어회 포장",
+          "answer_wordNum": 2,
+          "fact": [
+            "통밭알 회포장,전문,활어회 포장"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "광어, 참돔",
+          "answer_wordNum": 2,
+          "fact": [
+            "통밭알 회포장,메뉴,광어, 참돔"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1335-8355",
+          "answer_wordNum": 1,
+          "fact": [
+            "통밭알 회포장,연락처,0507-1335-8355"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "17:00-22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "통밭알 회포장,영업시간,17:00-22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "제주고가네식당, 제주성산공인중개사사무소",
+          "answer_wordNum": 2,
+          "fact": [
+            "통밭알 회포장,인접,제주고가네식당, 제주성산공인중개사사무소"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "광어, 참돔",
+          "answer_wordNum": 2,
+          "fact": [
+            "통밭알 회포장,메뉴,광어, 참돔"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 성산읍 성산중앙로25번길 13 1층 통밭알",
+          "answer_wordNum": 7,
+          "fact": [
+            "통밭알 회포장,주소,제주 서귀포시 성산읍 성산중앙로25번길 13 1층 통밭알"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "17:00-22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "통밭알 회포장,영업시간,17:00-22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "무엇을 전문으로 하나요?",
+          "question_wordNum": 3,
+          "answer": "활어회 포장",
+          "answer_wordNum": 2,
+          "fact": [
+            "통밭알 회포장,전문,활어회 포장"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 성산읍 성산중앙로25번길 13 1층 통밭알",
+          "answer_wordNum": 7,
+          "fact": [
+            "통밭알 회포장,주소,제주 서귀포시 성산읍 성산중앙로25번길 13 1층 통밭알"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "17:00-22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "통밭알 회포장,영업시간,17:00-22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "광어, 참돔",
+          "answer_wordNum": 2,
+          "fact": [
+            "통밭알 회포장,메뉴,광어, 참돔"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1335-8355",
+          "answer_wordNum": 1,
+          "fact": [
+            "통밭알 회포장,연락처,0507-1335-8355"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "17:00-22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "통밭알 회포장,영업시간,17:00-22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "광어, 참돔",
+          "answer_wordNum": 2,
+          "fact": [
+            "통밭알 회포장,메뉴,광어, 참돔"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "제주고가네식당, 제주성산공인중개사사무소",
+          "answer_wordNum": 2,
+          "fact": [
+            "통밭알 회포장,인접,제주고가네식당, 제주성산공인중개사사무소"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "무엇을 전문으로 하나요?",
+          "question_wordNum": 3,
+          "answer": "활어회 포장",
+          "answer_wordNum": 2,
+          "fact": [
+            "통밭알 회포장,전문,활어회 포장"
+          ]
+        }
+      ]
+    }
+  ]
+}

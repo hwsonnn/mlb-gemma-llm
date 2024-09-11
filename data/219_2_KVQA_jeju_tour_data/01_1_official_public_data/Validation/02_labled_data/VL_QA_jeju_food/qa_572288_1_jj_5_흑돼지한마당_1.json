@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "572288",
+    "travelType": "음식점",
+    "place": "흑돼지한마당",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "572288_1_jj_5_흑돼지한마당_1_001.png",
+      "mapx": 33.3247987513617,
+      "mapy": 126.843976351289,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "흑돼지한마당(표선면)",
+        "건물, 간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "572288_1_jj_5_흑돼지한마당_1_002.png",
+      "mapx": 33.3247987513617,
+      "mapy": 126.843976351289,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "흑돼지한마당(표선면)",
+        "건물, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "572288_1_jj_5_흑돼지한마당_1_003.png",
+      "mapx": 33.3247987513617,
+      "mapy": 126.843976351289,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "흑돼지한마당(표선면)",
+        "좌식 테이블"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "572288_1_jj_5_흑돼지한마당_1_004.png",
+      "mapx": 33.3247987513617,
+      "mapy": 126.843976351289,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "흑돼지한마당(표선면)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "572288_1_jj_5_흑돼지한마당_1_005.png",
+      "mapx": 33.3247987513617,
+      "mapy": 126.843976351289,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "흑돼지한마당(표선면)",
+        "고기, 콩나물, 김치"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "흑돼지한마당,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설은 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "흑돼지제주정, 흑돼지고을",
+          "answer_wordNum": 2,
+          "fact": [
+            "흑돼지한마당,인접,흑돼지제주정, 흑돼지고을"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "흑돼지모둠, 흑돼지오겹살",
+          "answer_wordNum": 2,
+          "fact": [
+            "흑돼지한마당,메뉴,흑돼지모둠, 흑돼지오겹살"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "흑돼지한마당,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 표선면 민속해안로 575",
+          "answer_wordNum": 5,
+          "fact": [
+            "흑돼지한마당,주소,제주 서귀포시 표선면 민속해안로 575"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1437-1989",
+          "answer_wordNum": 1,
+          "fact": [
+            "흑돼지한마당,연락처,0507-1437-1989"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "07:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "흑돼지한마당,영업시간,07:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳에 인접한 시설은 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "흑돼지제주정, 흑돼지고을",
+          "answer_wordNum": 2,
+          "fact": [
+            "흑돼지한마당,인접,흑돼지제주정, 흑돼지고을"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "07:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "흑돼지한마당,영업시간,07:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "흑돼지모둠, 흑돼지오겹살",
+          "answer_wordNum": 2,
+          "fact": [
+            "흑돼지한마당,메뉴,흑돼지모둠, 흑돼지오겹살"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "흑돼지한마당,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 어디에 위치하나요?",
+          "question_wordNum": 4,
+          "answer": "해비치호텔 후문 옆",
+          "answer_wordNum": 3,
+          "fact": [
+            "흑돼지한마당,위치,해비치호텔 후문 옆"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "07:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "흑돼지한마당,영업시간,07:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "흑돼지한마당,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "흑돼지한마당,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "주소가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "제주 서귀포시 표선면 민속해안로 575",
+          "answer_wordNum": 5,
+          "fact": [
+            "흑돼지한마당,주소,제주 서귀포시 표선면 민속해안로 575"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1437-1989",
+          "answer_wordNum": 1,
+          "fact": [
+            "흑돼지한마당,연락처,0507-1437-1989"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "07:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "흑돼지한마당,영업시간,07:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설은 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "흑돼지제주정, 흑돼지고을",
+          "answer_wordNum": 2,
+          "fact": [
+            "흑돼지한마당,인접,흑돼지제주정, 흑돼지고을"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 어디에 위치하나요?",
+          "question_wordNum": 4,
+          "answer": "해비치호텔 후문 옆",
+          "answer_wordNum": 3,
+          "fact": [
+            "흑돼지한마당,위치,해비치호텔 후문 옆"
+          ]
+        }
+      ]
+    }
+  ]
+}

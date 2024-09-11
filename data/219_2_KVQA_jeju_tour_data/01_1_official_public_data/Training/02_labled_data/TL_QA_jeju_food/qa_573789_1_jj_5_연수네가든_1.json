@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "573789",
+    "travelType": "음식점",
+    "place": "연수네가든",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "573789_1_jj_5_연수네가든_1_001.png",
+      "mapx": 33.2909991816591,
+      "mapy": 126.634219728635,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "연수네가든(남원읍)",
+        "미닫이문, 화분"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "573789_1_jj_5_연수네가든_1_002.png",
+      "mapx": 33.2909991816591,
+      "mapy": 126.634219728635,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "연수네가든(남원읍)",
+        "건물, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "573789_1_jj_5_연수네가든_1_003.png",
+      "mapx": 33.2909991816591,
+      "mapy": 126.634219728635,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "연수네가든(남원읍)",
+        "테이블, 방석"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "573789_1_jj_5_연수네가든_1_004.png",
+      "mapx": 33.2909991816591,
+      "mapy": 126.634219728635,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "연수네가든(남원읍)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "573789_1_jj_5_연수네가든_1_005.png",
+      "mapx": 33.2909991816591,
+      "mapy": 126.634219728635,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "연수네가든(남원읍)",
+        "샤브샤브, 반찬"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-767-3989",
+          "answer_wordNum": 1,
+          "fact": [
+            "연수네가든,연락처,064-767-3989"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "CU, 신협",
+          "answer_wordNum": 2,
+          "fact": [
+            "연수네가든,인접,CU, 신협"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 남원읍 신례동로 60 연수네가든",
+          "answer_wordNum": 6,
+          "fact": [
+            "연수네가든,주소,제주 서귀포시 남원읍 신례동로 60 연수네가든"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "연수네가든,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-767-3989",
+          "answer_wordNum": 1,
+          "fact": [
+            "연수네가든,연락처,064-767-3989"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "백반, 음료",
+          "answer_wordNum": 2,
+          "fact": [
+            "연수네가든,메뉴,백반, 음료"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 남원읍 신례동로 60 연수네가든",
+          "answer_wordNum": 6,
+          "fact": [
+            "연수네가든,주소,제주 서귀포시 남원읍 신례동로 60 연수네가든"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "연수네가든,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "연수네가든,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "연수네가든,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "CU, 신협",
+          "answer_wordNum": 2,
+          "fact": [
+            "연수네가든,인접,CU, 신협"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 남원읍 신례동로 60 연수네가든",
+          "answer_wordNum": 6,
+          "fact": [
+            "연수네가든,주소,제주 서귀포시 남원읍 신례동로 60 연수네가든"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-767-3989",
+          "answer_wordNum": 1,
+          "fact": [
+            "연수네가든,연락처,064-767-3989"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 서귀포시 남원읍 신례동로 60 연수네가든",
+          "answer_wordNum": 6,
+          "fact": [
+            "연수네가든,주소,제주 서귀포시 남원읍 신례동로 60 연수네가든"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "백반, 음료",
+          "answer_wordNum": 2,
+          "fact": [
+            "연수네가든,메뉴,백반, 음료"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "CU, 신협",
+          "answer_wordNum": 2,
+          "fact": [
+            "연수네가든,인접,CU, 신협"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "연수네가든,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-767-3989",
+          "answer_wordNum": 1,
+          "fact": [
+            "연수네가든,연락처,064-767-3989"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "연수네가든,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 남원읍 신례동로 60 연수네가든",
+          "answer_wordNum": 6,
+          "fact": [
+            "연수네가든,주소,제주 서귀포시 남원읍 신례동로 60 연수네가든"
+          ]
+        }
+      ]
+    }
+  ]
+}

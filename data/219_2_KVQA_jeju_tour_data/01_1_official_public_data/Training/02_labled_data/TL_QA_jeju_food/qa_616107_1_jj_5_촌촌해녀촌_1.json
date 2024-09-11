@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "616107",
+    "travelType": "음식점",
+    "place": "촌촌해녀촌",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "616107_1_jj_5_촌촌해녀촌_1_001.png",
+      "mapx": 33.553710285031,
+      "mapy": 126.710109824302,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "촌촌해녀촌(구좌읍)",
+        "간판, 계단"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "616107_1_jj_5_촌촌해녀촌_1_002.png",
+      "mapx": 33.553710285031,
+      "mapy": 126.710109824302,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "촌촌해녀촌(구좌읍)",
+        "간판, 건물, 자동차"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "616107_1_jj_5_촌촌해녀촌_1_003.png",
+      "mapx": 33.553710285031,
+      "mapy": 126.710109824302,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "촌촌해녀촌(구좌읍)",
+        "테이블, 등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "616107_1_jj_5_촌촌해녀촌_1_004.png",
+      "mapx": 33.553710285031,
+      "mapy": 126.710109824302,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "촌촌해녀촌(구좌읍)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "616107_1_jj_5_촌촌해녀촌_1_005.png",
+      "mapx": 33.553710285031,
+      "mapy": 126.710109824302,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "촌촌해녀촌(구좌읍)",
+        "국수"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "해녀촌, 롱플레이",
+          "answer_wordNum": 2,
+          "fact": [
+            "촌촌해녀촌,인접,해녀촌, 롱플레이"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 구좌읍 동복로 35",
+          "answer_wordNum": 5,
+          "fact": [
+            "촌촌해녀촌,주소,제주 제주시 구좌읍 동복로 35"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-783-4242",
+          "answer_wordNum": 1,
+          "fact": [
+            "촌촌해녀촌,연락처,064-783-4242"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "09:00 - 19:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "촌촌해녀촌,영업시간,09:00 - 19:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "09:00 - 19:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "촌촌해녀촌,영업시간,09:00 - 19:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "둘째, 넷째 화요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "촌촌해녀촌,휴무일,둘째, 넷째 화요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "회국수, 성게국수",
+          "answer_wordNum": 2,
+          "fact": [
+            "촌촌해녀촌,메뉴,회국수, 성게국수"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "촌촌해녀촌,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "해녀촌, 롱플레이",
+          "answer_wordNum": 2,
+          "fact": [
+            "촌촌해녀촌,인접,해녀촌, 롱플레이"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-783-4242",
+          "answer_wordNum": 1,
+          "fact": [
+            "촌촌해녀촌,연락처,064-783-4242"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "둘째, 넷째 화요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "촌촌해녀촌,휴무일,둘째, 넷째 화요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "촌촌해녀촌,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "제주 제주시 구좌읍 동복로 35",
+          "answer_wordNum": 5,
+          "fact": [
+            "촌촌해녀촌,주소,제주 제주시 구좌읍 동복로 35"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "09:00 - 19:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "촌촌해녀촌,영업시간,09:00 - 19:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "회국수, 성게국수",
+          "answer_wordNum": 2,
+          "fact": [
+            "촌촌해녀촌,메뉴,회국수, 성게국수"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "촌촌해녀촌,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "둘째, 넷째 화요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "촌촌해녀촌,휴무일,둘째, 넷째 화요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "09:00 - 19:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "촌촌해녀촌,영업시간,09:00 - 19:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "해녀촌, 롱플레이",
+          "answer_wordNum": 2,
+          "fact": [
+            "촌촌해녀촌,인접,해녀촌, 롱플레이"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "회국수, 성게국수",
+          "answer_wordNum": 2,
+          "fact": [
+            "촌촌해녀촌,메뉴,회국수, 성게국수"
+          ]
+        }
+      ]
+    }
+  ]
+}

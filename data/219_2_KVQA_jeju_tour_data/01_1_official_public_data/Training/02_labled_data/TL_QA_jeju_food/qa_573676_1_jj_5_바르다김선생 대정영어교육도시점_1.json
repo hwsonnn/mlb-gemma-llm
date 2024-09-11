@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "573676",
+    "travelType": "음식점",
+    "place": "바르다김선생 대정영어교육도시점",
+    "area": "제주"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "573676_1_jj_5_바르다김선생 대정영어교육도시점_1_001.png",
+      "mapx": 33.2808446417358,
+      "mapy": 126.288919706416,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "바르다김선생 대정영어교육도시점(대정읍)",
+        "여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "573676_1_jj_5_바르다김선생 대정영어교육도시점_1_002.png",
+      "mapx": 33.2808446417358,
+      "mapy": 126.288919706416,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "바르다김선생 대정영어교육도시점(대정읍)",
+        "간판, 여닫이문, 건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "573676_1_jj_5_바르다김선생 대정영어교육도시점_1_003.png",
+      "mapx": 33.2808446417358,
+      "mapy": 126.288919706416,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "바르다김선생 대정영어교육도시점(대정읍)",
+        "등받이의자, 테이블, 정수기, 서빙카트, 음료냉장고"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "573676_1_jj_5_바르다김선생 대정영어교육도시점_1_004.png",
+      "mapx": 33.2808446417358,
+      "mapy": 126.288919706416,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "바르다김선생 대정영어교육도시점(대정읍)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "573676_1_jj_5_바르다김선생 대정영어교육도시점_1_005.png",
+      "mapx": 33.2808446417358,
+      "mapy": 126.288919706416,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "바르다김선생 대정영어교육도시점(대정읍)",
+        "갈비만두, 김밥, 접시"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "바르다김선생 대정영어교육도시점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "064-792-8228",
+          "answer_wordNum": 1,
+          "fact": [
+            "바르다김선생 대정영어교육도시점,연락처,064-792-8228"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "10:00 - 19:50",
+          "answer_wordNum": 3,
+          "fact": [
+            "바르다김선생 대정영어교육도시점,영업시간,10:00 - 19:50"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "가락 떡볶이, 든든치킨카레",
+          "answer_wordNum": 3,
+          "fact": [
+            "바르다김선생 대정영어교육도시점,메뉴,가락 떡볶이, 든든치킨카레"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "바르다김선생 대정영어교육도시점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "노리매 공원 주차장",
+          "answer_wordNum": 3,
+          "fact": [
+            "바르다김선생 대정영어교육도시점,인접,노리매 공원 주차장"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳은 무엇이 가능하나요?",
+          "question_wordNum": 4,
+          "answer": "매장 식사, 포장, 배달",
+          "answer_wordNum": 4,
+          "fact": [
+            "바르다김선생 대정영어교육도시점,가능,매장 식사, 포장, 배달"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 대정읍 중산간서로 2242",
+          "answer_wordNum": 5,
+          "fact": [
+            "바르다김선생 대정영어교육도시점,주소,제주 서귀포시 대정읍 중산간서로 2242"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "노리매 공원 주차장",
+          "answer_wordNum": 3,
+          "fact": [
+            "바르다김선생 대정영어교육도시점,인접,노리매 공원 주차장"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "064-792-8228",
+          "answer_wordNum": 1,
+          "fact": [
+            "바르다김선생 대정영어교육도시점,연락처,064-792-8228"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "10:00 - 19:50",
+          "answer_wordNum": 3,
+          "fact": [
+            "바르다김선생 대정영어교육도시점,영업시간,10:00 - 19:50"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "가락 떡볶이, 든든치킨카레",
+          "answer_wordNum": 3,
+          "fact": [
+            "바르다김선생 대정영어교육도시점,메뉴,가락 떡볶이, 든든치킨카레"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "노리매 공원 주차장",
+          "answer_wordNum": 3,
+          "fact": [
+            "바르다김선생 대정영어교육도시점,인접,노리매 공원 주차장"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "가락 떡볶이, 든든치킨카레",
+          "answer_wordNum": 3,
+          "fact": [
+            "바르다김선생 대정영어교육도시점,메뉴,가락 떡볶이, 든든치킨카레"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "바르다김선생 대정영어교육도시점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "바르다김선생 대정영어교육도시점,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "10:00 - 19:50",
+          "answer_wordNum": 3,
+          "fact": [
+            "바르다김선생 대정영어교육도시점,영업시간,10:00 - 19:50"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "바르다김선생 대정영어교육도시점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "가락 떡볶이, 든든치킨카레",
+          "answer_wordNum": 3,
+          "fact": [
+            "바르다김선생 대정영어교육도시점,메뉴,가락 떡볶이, 든든치킨카레"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "제주 서귀포시 대정읍 중산간서로 2242",
+          "answer_wordNum": 5,
+          "fact": [
+            "바르다김선생 대정영어교육도시점,주소,제주 서귀포시 대정읍 중산간서로 2242"
+          ]
+        }
+      ]
+    }
+  ]
+}
