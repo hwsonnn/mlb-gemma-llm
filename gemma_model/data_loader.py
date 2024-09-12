@@ -65,7 +65,6 @@ def load_data(file_path: str) -> list:
             questions, answers = generate_qa_pairs(tmp_df)
             total_questions.extend(questions)
             total_answers.extend(answers)
-            break
             
     return total_restaurant_info, total_questions, total_answers
             
