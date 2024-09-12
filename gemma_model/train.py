@@ -3,20 +3,25 @@ from transformers import Trainer, TrainingArguments
 from data_loader import load_data, preprocess_data
 from model import get_tokenizer_model
 
+import os
 import torch
+
+# MPS 사용 비활성화를 위한 환경 변수 설정
+os.environ["PYTORCH_ENABLE_MPS_FALLBACK"] = "1"
+os.environ["PYTORCH_MPS_HIGH_WATERMARK_RATIO"] = "0.0"
 
 # 1. CSV 데이터 로드
 train_file_path = '../data/219_2_KVQA_jeju_tour_data/01_1_official_public_data/Training/01_raw_data/TS_triple_jeju_food/'
 eval_file_path = '../data/219_2_KVQA_jeju_tour_data/01_1_official_public_data/Validation/01_raw_data/VS_triple_jeju_food/'
-train_data = load_data(train_file_path)
-eval_data = load_data(eval_file_path)
+train_restaurant_info, train_questions, train_answers = load_data(train_file_path)
+eval_restaurant_info, eval_questions, eval_answers = load_data(eval_file_path)
 
 # 2. 토크나이저 및 모델 로드 (Gemma 모델 활용)
 tokenizer, model = get_tokenizer_model()
 
 # 3. 데이터 전처리 (토크나이저로 텍스트 데이터 토큰화)
-train_dataset = preprocess_data(train_data, tokenizer)
-eval_dataset = preprocess_data(eval_data, tokenizer)
+train_dataset = preprocess_data(train_restaurant_info, train_questions, train_answers, tokenizer)
+eval_dataset = preprocess_data(eval_restaurant_info, eval_questions, eval_answers, tokenizer)
 
 # 4. 훈련 설정
 # device = torch.device("mps") if torch.backends.mps.is_available() else torch.device("cpu")  # MPS가 가능하면 MPS, 아니면 CPU
