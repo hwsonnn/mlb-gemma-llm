@@ -4,7 +4,7 @@ from transformers import pipeline
 pipe = pipeline(
     "text-generation",
     model="google/gemma-2-2b",
-    device="mps",  # replace with "mps" to run on a Mac device # cuda
+    device="cpu",  # replace with "mps" to run on a Mac device # cuda
 )
 
 text = "Once upon a time,"
