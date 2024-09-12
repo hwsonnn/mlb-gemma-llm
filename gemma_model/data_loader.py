@@ -18,8 +18,11 @@ def generate_qa_pairs(df):
     questions = []
     answers = []
     
-    restaurant_name = df.loc[df[0] == '음식점명', 1].values[0]  # 1열에 있는 값 사용
-    
+    try:
+        restaurant_name = df.loc[(df[0] == '음식점명') | (df[0] == '관광지명'), 1].values[0]
+    except:
+        print(df)
+        
     # 1. 메뉴 질문
     menu = df.loc[df[0] == '취급메뉴', 1].values[0]
     questions.append(f"{restaurant_name}의 대표 메뉴는 뭐야?")
