@@ -6,7 +6,7 @@ from model import get_tokenizer_model
 import os
 import torch
 
-# MPS 사용 비활성화를 위한 환경 변수 설정
+# MPS 사용 비활성화를 위한 환경 변수 설정 # GPU 사용시 주석 처리 필요
 os.environ["PYTORCH_ENABLE_MPS_FALLBACK"] = "1"
 os.environ["PYTORCH_MPS_HIGH_WATERMARK_RATIO"] = "0.0"
 
@@ -25,18 +25,23 @@ eval_dataset = preprocess_data(eval_restaurant_info, eval_questions, eval_answer
 
 # 4. 훈련 설정
 # device = torch.device("mps") if torch.backends.mps.is_available() else torch.device("cpu")  # MPS가 가능하면 MPS, 아니면 CPU
-# print(f"모델이 사용 중인 디바이스: {device}")
-device = torch.device("cpu")  # MPS가 가능하면 MPS, 아니면 CPU
+# device = torch.device("cpu")  # MPS가 가능하면 MPS, 아니면 CPU
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+if device=="cuda": torch.cuda.empty_cache()
 model.to(device)
+print(f"모델이 사용 중인 디바이스: {device}")
 
 training_args = TrainingArguments(
     output_dir="./results",
     per_device_train_batch_size=2, # MPS allocated 문제: 12로 하니까 에러 발생
     per_device_eval_batch_size=2,
+    gradient_accumulation_steps=4,  # 기울기 누적을 통해 4배의 배치 크기 효과
     evaluation_strategy="epoch",
     num_train_epochs=3,
     save_steps=10_000,
     save_total_limit=2,
+    fp16=True,  # Mixed Precision 활성화
+    # gradient_checkpointing=True  # Checkpointing 활성화
 )
 
 # 5. Trainer 설정 및 훈련
