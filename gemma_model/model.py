@@ -22,6 +22,8 @@ def get_tokenizer_model():
     )
     model = AutoModelForCausalLM.from_pretrained(
                 "google/gemma-2-2b-it",
+                attn_implementation='eager', # 'eager' 어텐션 구현 사용
+                device_map="auto",
                 quantization_config=bnb_config
             )  
 

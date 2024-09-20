@@ -25,10 +25,10 @@ eval_dataset = preprocess_data(load_data(eval_file_path), tokenizer)
 
 # 4. 훈련 설정
 # device = torch.device("mps") if torch.backends.mps.is_available() else torch.device("cpu")  # MPS가 가능하면 MPS, 아니면 CPU
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-if device=="cuda": torch.cuda.empty_cache()
-model.to(device)
-print(f"모델이 사용 중인 디바이스: {device}")
+# device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+# if device=="cuda": torch.cuda.empty_cache()
+# model.to(device)
+# print(f"모델이 사용 중인 디바이스: {device}")
 
 # LoRA 설정
 lora_config = LoraConfig(
@@ -41,6 +41,7 @@ lora_config = LoraConfig(
 )
 
 # 5. Trainer 설정 및 훈련
+# Trainer 클래스 사용 X - https://devocean.sk.com/blog/techBoardDetail.do?ID=165703&boardType=techBlog
 trainer = SFTTrainer(
     model=model,
     train_dataset=train_dataset,
