@@ -1,4 +1,4 @@
-# from gemma_model import get_finetuned_tokenizer_model
+from gemma_model import get_finetuned_pipeline
 
 # # 저장된 모델과 토크나이저를 불러오기
 # model, tokenizer = get_finetuned_tokenizer_model()
@@ -13,15 +13,7 @@
 # recommendation = generate_recommendation("제주도에서 한식집을 추천해줘.")
 # print(recommendation)
 
-from transformers import AutoTokenizer, AutoModelForCausalLM
-from transformers import pipeline
-
-BASE_MODEL = "google/gemma-2-2b-it"
-FINETUNE_MODEL = "../gemma-2b-it-sum-ko"
-finetune_model = AutoModelForCausalLM.from_pretrained(FINETUNE_MODEL, device_map={"":0})
-tokenizer = AutoTokenizer.from_pretrained(BASE_MODEL, add_special_tokens=True)
-
-pipe_finetuned = pipeline("text-generation", model=finetune_model, tokenizer=tokenizer, max_new_tokens=512)
+pipe_finetuned = get_finetuned_pipeline()
 doc = '제주도 애월 쪽 한식집을 추천해줘.'
 messages = [
     {
