@@ -1,39 +1,11 @@
 import os
 import pandas as pd
-from torch.utils.data import Dataset
-
-
-class CustomDataset(Dataset):
-    def __init__(self, data_list, tokenizer, max_length=512):
-        self.inputs = tokenizer(
-            data_list,
-            truncation=True,
-            padding='max_length',
-            max_length=max_length,
-            return_tensors='pt'
-        )
-
-    def __len__(self):
-        return len(self.inputs['input_ids'])
-
-    def __getitem__(self, idx):
-        return {
-            'input_ids': self.inputs['input_ids'][idx],
-            'attention_mask': self.inputs['attention_mask'][idx],
-            'labels': self.inputs['input_ids'][idx],
-        }
-
-
-def generate_prompt(question, answer):
-    prompt = f"""<bos><start_of_turn>user
-{question}<end_of_turn>
-<start_of_turn>model
-{answer}<end_of_turn><eos>"""
-    return prompt
+from datasets import Dataset
 
 
 def load_data(file_path):
-    data_list = []
+    data_rows = []
+    instruction = "너는 제주도 맛집 전문가이고, 알고 있는 맛집 정보를 이용해서 손님의 질문에 적절한 대답을 해줘"
     
     for file in os.listdir(file_path):
         if file.endswith('.csv'):
@@ -52,36 +24,67 @@ def load_data(file_path):
             location = ' '.join(address.split()[:3])  # 주소의 앞 세 단어 사용
             question = f"{location}에서 {menu}를 먹고 싶은데, 추천해줄 만한 곳 있어?"
             answer = f"{restaurant_name}을 추천합니다! 주소는 {address}이고, 영업시간은 {hours}입니다. 주 메뉴는 {menu}이며, {overview} 리뷰 키워드는 {review_keywords}입니다."
-            prompt = generate_prompt(question, answer)
-            data_list.append(prompt)
+            data_rows.append({
+                "instruction": instruction,
+                "input": question,
+                "output": answer
+            })
             
             # 2. 음식점의 영업시간 질문
             question = f"{restaurant_name}의 영업시간이 어떻게 되나요?"
             answer = f"{restaurant_name}의 영업시간은 {hours}입니다."
-            prompt = generate_prompt(question, answer)
-            data_list.append(prompt)
+            data_rows.append({
+                "instruction": instruction,
+                "input": question,
+                "output": answer
+            })
             
             # 3. 음식점의 휴무일 질문
             question = f"{restaurant_name}의 휴무일은 언제인가요?"
             answer = f"{restaurant_name}의 휴무일은 {holiday}입니다."
-            prompt = generate_prompt(question, answer)
-            data_list.append(prompt)
+            data_rows.append({
+                "instruction": instruction,
+                "input": question,
+                "output": answer
+            })
             
             # 4. 주차시설 유무 질문
             question = f"{restaurant_name}에 주차시설이 있나요?"
             answer = f"{restaurant_name}은 주차시설이 {parking}."
-            prompt = generate_prompt(question, answer)
-            data_list.append(prompt)
+            data_rows.append({
+                "instruction": instruction,
+                "input": question,
+                "output": answer
+            })
             
             # 5. 대표 메뉴 질문
             question = f"{restaurant_name}의 대표 메뉴는 무엇인가요?"
             answer = f"{restaurant_name}의 대표 메뉴는 {menu}입니다."
-            prompt = generate_prompt(question, answer)
-            data_list.append(prompt)
+            data_rows.append({
+                "instruction": instruction,
+                "input": question,
+                "output": answer
+            })
             
-    return data_list
+    dataset = Dataset.from_pandas(pd.DataFrame(data_rows))
+    return dataset
             
 
-def preprocess_data(data_list, tokenizer):
-    dataset = CustomDataset(data_list, tokenizer)
+def preprocess_data(dataset, tokenizer):
+    def format_chat_template(row):
+        row_json = [
+            {"role": "system", "content": row["instruction"]},
+            {"role": "user", "content": row["input"]},
+            {"role": "assistant", "content": row["output"]}
+        ]
+        row["text"] = tokenizer.apply_chat_template(row_json, tokenize=False)
+        return row
+
+    dataset = dataset.map(
+        format_chat_template,
+        num_proc=4,
+    )
+    
+    dataset = dataset.train_test_split(test_size=0.1)
+
     return dataset
