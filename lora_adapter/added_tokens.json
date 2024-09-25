@@ -1,0 +1,6 @@
+{
+  "<start_of_turn>model": 256001,
+  "<start_of_turn>user": 256000,
+  "<|im_end|>": 256003,
+  "<|im_start|>": 256002
+}
